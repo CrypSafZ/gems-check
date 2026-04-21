@@ -36,4 +36,10 @@ export interface MemberSnapshot {
 export interface SnapshotMeta {
   exportedAt: string;
   totalMembers: number;
+  rankedMembers: number;
+}
+
+export interface Snapshot {
+  meta: SnapshotMeta;
+  members: MemberSnapshot[];
 }

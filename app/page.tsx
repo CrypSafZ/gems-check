@@ -1,9 +1,13 @@
 import { SearchBar } from "@/components/SearchBar";
 import { GemLogo } from "@/components/GemLogo";
-import { MOCK_MEMBERS } from "@/lib/mock";
+import { allMembers, getMeta } from "@/lib/lookup";
+import { formatDate, formatNumber } from "@/lib/utils";
 import Link from "next/link";
 
-const PREVIEW_QUERIES = MOCK_MEMBERS.map((m) => m.username);
+const PREVIEW_QUERIES = allMembers()
+  .slice(0, 6)
+  .map((m) => m.username);
+const META = getMeta();
 
 export default function Home() {
   return (
@@ -47,8 +51,9 @@ export default function Home() {
         </div>
       </div>
 
-      <footer className="mt-auto pt-16 text-[10px] font-mono uppercase tracking-[0.2em] text-lavender/40">
-        0xAlphaGEMs · snapshot preview
+      <footer className="mt-auto pt-16 text-[10px] font-mono uppercase tracking-[0.2em] text-lavender/40 text-center">
+        <div>0xAlphaGEMs · {formatNumber(META.totalMembers)} gems tracked</div>
+        <div className="mt-1">snapshot {formatDate(META.exportedAt)}</div>
       </footer>
     </main>
   );

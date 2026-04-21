@@ -1,12 +1,55 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { SearchBar } from "@/components/SearchBar";
 import { StatCard } from "@/components/StatCard";
 import { ShareActions } from "@/components/ShareActions";
 import { GemLogo } from "@/components/GemLogo";
 import { getMeta, lookupMember } from "@/lib/lookup";
+import { tierForRank } from "@/lib/tiers";
 
 interface PageProps {
   params: Promise<{ id: string }>;
+}
+
+export async function generateMetadata({
+  params,
+}: PageProps): Promise<Metadata> {
+  const { id } = await params;
+  const query = decodeURIComponent(id);
+  const member = lookupMember(query);
+  const tier = tierForRank(member?.rank ?? null);
+  const label = tier.label.replace(/^[^A-Za-z]+/, "").trim();
+
+  const title = member
+    ? `@${member.username} — ${label} · gems-check`
+    : `@${query} — ${label} · gems-check`;
+
+  const description = member
+    ? `Rank #${member.rank} in AlphaGEMs · ${member.msgAll.toLocaleString()} messages all-time. ${tier.roast}`
+    : tier.roast;
+
+  return {
+    title,
+    description,
+    openGraph: {
+      title,
+      description,
+      images: [
+        {
+          url: `/api/card/${encodeURIComponent(query)}`,
+          width: 1200,
+          height: 675,
+          alt: `${query} — ${label}`,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: [`/api/card/${encodeURIComponent(query)}`],
+    },
+  };
 }
 
 export default async function CheckPage({ params }: PageProps) {
@@ -37,7 +80,7 @@ export default async function CheckPage({ params }: PageProps) {
       </div>
 
       <footer className="mt-auto pt-16 text-[10px] font-mono uppercase tracking-[0.2em] text-lavender/40">
-        0xAlphaGEMs · snapshot preview
+        0xAlphaGEMs · gems-check.lol
       </footer>
     </main>
   );

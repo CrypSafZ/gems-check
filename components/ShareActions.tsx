@@ -41,7 +41,8 @@ export function ShareActions({ member, query }: ShareActionsProps) {
     tweetText,
   )}&url=${encodeURIComponent(url)}`;
 
-  const cardPngHref = `/api/card/${encodeURIComponent(query)}.png`;
+  const cardPngHref = `/api/card/${encodeURIComponent(query)}`;
+  const downloadName = `gems-check-${query.toLowerCase().replace(/[^a-z0-9]/g, "-")}.png`;
 
   return (
     <div className="flex flex-wrap justify-center gap-3 mt-8">
@@ -56,7 +57,9 @@ export function ShareActions({ member, query }: ShareActionsProps) {
       </a>
       <a
         href={cardPngHref}
-        download
+        download={downloadName}
+        target="_blank"
+        rel="noopener noreferrer"
         className="inline-flex items-center gap-2 px-5 py-3 rounded-xl glass-strong text-gem-white text-sm font-semibold hover:brightness-125 transition-all duration-200 cursor-pointer"
       >
         <Download className="w-4 h-4" aria-hidden="true" />
