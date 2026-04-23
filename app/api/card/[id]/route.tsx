@@ -7,7 +7,7 @@ import {
   normalizeQuery,
 } from "@/lib/lookup";
 import { tierForRank } from "@/lib/tiers";
-import { formatNumber, roleColorHex } from "@/lib/utils";
+import { formatNumber, formatVoiceHours, roleColorHex } from "@/lib/utils";
 import { enforceRateLimit } from "@/lib/rate-limit";
 import type { NextRequest } from "next/server";
 
@@ -95,6 +95,7 @@ export async function GET(
 
   const pfpSrc = member && isAllowedPfpUrl(member.pfpUrl) ? member.pfpUrl : null;
 
+  const hasVoice = !!member?.voiceMinutes && member.voiceMinutes > 0;
   const stats = member
     ? [
         { label: "3D", value: formatNumber(member.msg3d) },
@@ -102,10 +103,13 @@ export async function GET(
         { label: "14D", value: formatNumber(member.msg14d) },
         { label: "30D", value: formatNumber(member.msg30d) },
         { label: "ALL", value: formatNumber(member.msgAll) },
+        ...(hasVoice
+          ? [{ label: "VC", value: formatVoiceHours(member.voiceMinutes) }]
+          : []),
       ]
     : null;
 
-  const STAT_FONT_SIZE = 28;
+  const STAT_FONT_SIZE = hasVoice ? 24 : 28;
 
   if (!member) {
     return renderNotAGemCard(safeQuery, gradStart, gradEnd, req);

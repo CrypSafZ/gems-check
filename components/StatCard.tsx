@@ -7,7 +7,7 @@ import type {
   Tier,
 } from "@/lib/types";
 import { tierForRank } from "@/lib/tiers";
-import { cn, formatDate, formatNumber } from "@/lib/utils";
+import { cn, formatDate, formatNumber, formatVoiceHours } from "@/lib/utils";
 import { RolePills } from "./RolePills";
 import { StatTile } from "./StatTile";
 import { TierBadge } from "./TierBadge";
@@ -168,6 +168,32 @@ export function StatCard({
           <StatTile label="30d" value={member.msg30d} />
           <StatTile label="all" value={member.msgAll} />
         </div>
+
+        {member.voiceMinutes !== undefined && member.voiceMinutes > 0 && (
+          <div className="glass rounded-xl px-4 py-3 flex items-center justify-between gap-3">
+            <div className="flex items-center gap-3 min-w-0">
+              <span className="text-2xl shrink-0" aria-hidden="true">🎙️</span>
+              <div className="min-w-0">
+                <div className="text-[10px] uppercase tracking-[0.15em] text-lavender/70 font-mono">
+                  Time in the Caves
+                </div>
+                <div className="text-lg sm:text-xl font-bold text-gem-white font-mono tabular-nums leading-tight">
+                  {formatVoiceHours(member.voiceMinutes)}
+                </div>
+              </div>
+            </div>
+            {member.voiceRank !== undefined && (
+              <div className="text-right shrink-0">
+                <div className="text-[10px] uppercase tracking-[0.15em] text-lavender/70 font-mono">
+                  VC Rank
+                </div>
+                <div className="text-lg sm:text-xl font-bold text-violet-200 font-mono tabular-nums leading-tight">
+                  #{member.voiceRank}
+                </div>
+              </div>
+            )}
+          </div>
+        )}
 
         {roles.length > 0 && (
           <div className="flex flex-col gap-2">

@@ -33,6 +33,8 @@ export interface MemberSnapshot {
   msg14d: number;
   msg30d: number;
   msgAll: number;
+  voiceMinutes?: number;
+  voiceRank?: number;
 }
 
 export interface SnapshotMeta {

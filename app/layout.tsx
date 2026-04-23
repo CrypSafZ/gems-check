@@ -66,6 +66,7 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} ${cormorant.variable} ${unbounded.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col font-sans cave-bg">
+        <div className="cave-photo" aria-hidden="true" />
         <div className="starfield" aria-hidden="true" />
         <div className="cave-characters" aria-hidden="true">
           {CAVE_CHARACTERS.map((c) => (

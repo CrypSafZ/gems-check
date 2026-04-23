@@ -29,3 +29,10 @@ export function roleIconUrl(
   if (!iconHash) return null;
   return `https://cdn.discordapp.com/role-icons/${roleId}/${iconHash}.png?size=32`;
 }
+
+export function formatVoiceHours(minutes: number | undefined): string {
+  if (!minutes || minutes < 1) return "—";
+  const hours = minutes / 60;
+  if (hours < 10) return `${hours.toFixed(1)}h`;
+  return `${Math.round(hours).toLocaleString("en-US")}h`;
+}
