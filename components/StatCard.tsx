@@ -1,7 +1,14 @@
 import Image from "next/image";
-import type { MemberSnapshot, SnapshotMeta } from "@/lib/types";
+import type {
+  MemberOverride,
+  MemberSnapshot,
+  RoleInfo,
+  SnapshotMeta,
+  Tier,
+} from "@/lib/types";
 import { tierForRank } from "@/lib/tiers";
 import { cn, formatDate, formatNumber } from "@/lib/utils";
+import { RolePills } from "./RolePills";
 import { StatTile } from "./StatTile";
 import { TierBadge } from "./TierBadge";
 
@@ -9,17 +16,90 @@ interface StatCardProps {
   member: MemberSnapshot | null;
   query: string;
   meta: SnapshotMeta;
+  override?: MemberOverride | null;
+  roles?: RoleInfo[];
 }
 
-export function StatCard({ member, query, meta }: StatCardProps) {
-  const tier = tierForRank(member?.rank ?? null);
+function applyOverride(tier: Tier, override: MemberOverride | null | undefined): Tier {
+  if (!override) return tier;
+  return {
+    ...tier,
+    label: override.customLabel?.trim() || tier.label,
+    title: override.customTitle?.trim() || tier.title,
+    roast: override.customRoast?.trim() || tier.roast,
+  };
+}
+
+export function StatCard({
+  member,
+  query,
+  meta,
+  override,
+  roles = [],
+}: StatCardProps) {
+  const baseTier = tierForRank(member?.rank ?? null);
+  const tier = applyOverride(baseTier, override);
   const isNotAGem = !member;
+  const xHandle = override?.xHandle;
+
+  if (isNotAGem) {
+    return (
+      <article
+        className={cn(
+          "relative w-full max-w-2xl mx-auto aspect-[16/9] rounded-3xl overflow-hidden glass-strong shadow-2xl ring-2",
+          tier.ring,
+        )}
+      >
+        <div
+          className={cn(
+            "absolute inset-0 bg-gradient-to-br opacity-60 pointer-events-none",
+            tier.glow,
+          )}
+          aria-hidden="true"
+        />
+        <div className="relative z-10 h-full w-full p-4 sm:p-6 flex items-center gap-4 sm:gap-6">
+          <div className="shrink-0 w-[38%] sm:w-[40%] aspect-square rounded-2xl overflow-hidden ring-2 ring-rose-400/60 shadow-xl">
+            <Image
+              src="/brand/exit-guy.jpg"
+              alt="Exit sign — get out"
+              width={440}
+              height={440}
+              className="w-full h-full object-cover"
+              priority
+            />
+          </div>
+          <div className="flex-1 min-w-0 flex flex-col gap-2 sm:gap-3">
+            <span className="text-xs sm:text-sm font-mono text-lavender/70 truncate">
+              @{query}
+            </span>
+            <h2 className="font-display font-black text-gem-white leading-[0.95] text-[clamp(1.75rem,7vw,3.75rem)]">
+              Who tf
+              <br />
+              are you?
+              <br />
+              <span className="text-rose-300">Get out.</span>
+            </h2>
+          </div>
+        </div>
+        <footer className="absolute bottom-3 right-4 flex items-center gap-2 text-[10px] font-mono uppercase tracking-[0.2em] text-lavender/60">
+          <span>0xAlphaGEMs</span>
+          <span>·</span>
+          <span>{formatDate(meta.exportedAt)}</span>
+        </footer>
+      </article>
+    );
+  }
+
+  const usernameEl = (
+    <h2 className="text-2xl sm:text-3xl font-display font-bold text-gem-white leading-tight truncate">
+      @{member.username}
+    </h2>
+  );
 
   return (
     <article
       className={cn(
-        "relative w-full max-w-2xl mx-auto aspect-[16/9] rounded-3xl overflow-hidden glass-strong shadow-2xl",
-        "ring-2",
+        "relative w-full max-w-2xl mx-auto rounded-3xl overflow-hidden glass-strong shadow-2xl ring-2",
         tier.ring,
       )}
     >
@@ -31,7 +111,7 @@ export function StatCard({ member, query, meta }: StatCardProps) {
         aria-hidden="true"
       />
 
-      <div className="relative z-10 h-full w-full p-6 sm:p-8 flex flex-col justify-between">
+      <div className="relative z-10 w-full p-6 sm:p-8 flex flex-col gap-5">
         <header className="flex items-start justify-between gap-4">
           <div className="flex items-center gap-4 min-w-0">
             <div
@@ -41,46 +121,72 @@ export function StatCard({ member, query, meta }: StatCardProps) {
               )}
             >
               <Image
-                src={member?.pfpUrl ?? "/brand/gem.jpg"}
+                src={member.pfpUrl ?? "/brand/gem.jpg"}
                 alt=""
-                width={72}
-                height={72}
+                width={88}
+                height={88}
                 className="rounded-full gem-glow"
                 priority
               />
             </div>
             <div className="min-w-0">
-              <h2 className="text-2xl sm:text-3xl font-display font-semibold text-gem-white leading-tight truncate">
-                {isNotAGem ? `@${query}` : `@${member.username}`}
-              </h2>
-              <p className="text-sm text-lavender/80 font-mono truncate">
-                {isNotAGem
-                  ? "Not found in the cave"
-                  : `Rank #${member.rank} of ${formatNumber(meta.totalMembers)}`}
+              {xHandle ? (
+                <a
+                  href={`https://x.com/${xHandle}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1.5 hover:opacity-80 transition-opacity"
+                  title={`@${xHandle} on X`}
+                >
+                  {usernameEl}
+                  <span className="text-violet-300 text-lg shrink-0">𝕏</span>
+                </a>
+              ) : (
+                usernameEl
+              )}
+              <p className="text-sm text-lavender/80 font-mono font-semibold truncate">
+                {`Rank #${member.rank} of ${formatNumber(meta.totalMembers)}`}
+              </p>
+              <p className="text-[11px] text-lavender/60 font-mono mt-0.5">
+                Member since {formatDate(member.joinedAt)}
               </p>
             </div>
           </div>
           <TierBadge tier={tier} />
         </header>
 
-        <div className="my-4">
-          <p className="text-base sm:text-lg font-display italic text-gem-white/90 leading-snug">
+        <div>
+          <p className="text-lg sm:text-xl font-display italic font-bold text-gem-white leading-snug drop-shadow-lg">
             &ldquo;{tier.roast}&rdquo;
           </p>
         </div>
 
-        {!isNotAGem && (
-          <div className="grid grid-cols-5 gap-2 sm:gap-3">
-            <StatTile label="3d" value={member.msg3d} />
-            <StatTile label="7d" value={member.msg7d} />
-            <StatTile label="14d" value={member.msg14d} />
-            <StatTile label="30d" value={member.msg30d} />
-            <StatTile label="all" value={member.msgAll} />
+        <div className="grid grid-cols-5 gap-2 sm:gap-3">
+          <StatTile label="3d" value={member.msg3d} />
+          <StatTile label="7d" value={member.msg7d} />
+          <StatTile label="14d" value={member.msg14d} />
+          <StatTile label="30d" value={member.msg30d} />
+          <StatTile label="all" value={member.msgAll} />
+        </div>
+
+        {roles.length > 0 && (
+          <div className="flex flex-col gap-2">
+            <span className="text-[10px] font-mono uppercase tracking-[0.2em] text-lavender/50">
+              Roles
+            </span>
+            <RolePills roles={roles} />
           </div>
         )}
 
-        <footer className="flex items-center justify-between text-[10px] font-mono uppercase tracking-[0.2em] text-lavender/60 mt-3">
-          <span>0xAlphaGEMs</span>
+        <footer className="flex items-center justify-between text-[10px] font-mono uppercase tracking-[0.2em] text-lavender/60 pt-1">
+          <a
+            href="https://x.com/0xAlphaGEMs"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-violet-200 transition-colors font-semibold"
+          >
+            @0xAlphaGEMs
+          </a>
           <span>{formatDate(meta.exportedAt)}</span>
         </footer>
       </div>

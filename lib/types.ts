@@ -26,6 +26,8 @@ export interface MemberSnapshot {
   displayName: string;
   pfpUrl: string;
   rank: number;
+  joinedAt: string;
+  roleIds: string[];
   msg3d: number;
   msg7d: number;
   msg14d: number;
@@ -39,7 +41,30 @@ export interface SnapshotMeta {
   rankedMembers: number;
 }
 
+export interface RoleInfo {
+  id: string;
+  name: string;
+  color: number;
+  icon: string | null;
+  emoji: string | null;
+  position: number;
+}
+
 export interface Snapshot {
   meta: SnapshotMeta;
+  roles: Record<string, RoleInfo>;
   members: MemberSnapshot[];
+}
+
+export interface MemberOverride {
+  customLabel?: string;
+  customTitle?: string;
+  customRoast?: string;
+  xHandle?: string;
+}
+
+export interface OverridesFile {
+  pulledAt: string;
+  count: number;
+  byUsername: Record<string, MemberOverride>;
 }

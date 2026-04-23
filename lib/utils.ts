@@ -16,3 +16,16 @@ export function formatDate(iso: string): string {
     year: "numeric",
   });
 }
+
+export function roleColorHex(color: number): string | null {
+  if (!color) return null;
+  return `#${color.toString(16).padStart(6, "0")}`;
+}
+
+export function roleIconUrl(
+  roleId: string,
+  iconHash: string | null,
+): string | null {
+  if (!iconHash) return null;
+  return `https://cdn.discordapp.com/role-icons/${roleId}/${iconHash}.png?size=32`;
+}

@@ -26,6 +26,7 @@
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
   --font-display: var(--font-cormorant);
+  --font-heading: var(--font-unbounded);
 }
 
 html,
@@ -36,12 +37,41 @@ body {
 
 body {
   background-image:
-    radial-gradient(ellipse 80% 50% at 50% 0%, rgba(139, 92, 246, 0.18), transparent 70%),
-    radial-gradient(ellipse 60% 40% at 20% 80%, rgba(236, 72, 153, 0.10), transparent 70%),
-    radial-gradient(ellipse 60% 40% at 90% 60%, rgba(91, 63, 186, 0.14), transparent 70%),
-    linear-gradient(180deg, #0a0514 0%, #140827 50%, #0a0514 100%);
+    radial-gradient(ellipse 80% 60% at 50% 0%, rgba(139, 92, 246, 0.28), transparent 70%),
+    radial-gradient(ellipse 70% 50% at 15% 70%, rgba(91, 63, 186, 0.35), transparent 70%),
+    radial-gradient(ellipse 70% 50% at 85% 75%, rgba(124, 58, 237, 0.30), transparent 70%),
+    radial-gradient(ellipse 50% 40% at 50% 100%, rgba(30, 10, 60, 0.6), transparent 70%),
+    linear-gradient(180deg, #15072b 0%, #1f0b3c 45%, #0d0420 100%);
   background-attachment: fixed;
   min-height: 100dvh;
+}
+
+.cave-bg::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background-image:
+    radial-gradient(ellipse 40% 30% at 10% 20%, rgba(167, 139, 250, 0.10), transparent 70%),
+    radial-gradient(ellipse 30% 25% at 90% 30%, rgba(236, 72, 153, 0.08), transparent 70%),
+    radial-gradient(circle at 50% 120%, rgba(91, 63, 186, 0.4), transparent 60%);
+  mix-blend-mode: screen;
+}
+
+.cave-characters {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.cave-char {
+  position: absolute;
+  opacity: 1;
+  filter: saturate(1.05) drop-shadow(0 14px 28px rgba(10, 5, 20, 0.55));
+  user-select: none;
 }
 
 .starfield {
@@ -69,13 +99,23 @@ body {
   to { background-position: 1000px 1000px; }
 }
 
-@keyframes shimmer {
-  0%, 100% { opacity: 0.6; }
-  50% { opacity: 1; }
+.gem-glow {
+  filter: grayscale(1);
+  animation: glow-cycle 4s ease-in-out infinite;
 }
 
-.gem-glow {
-  animation: shimmer 4s ease-in-out infinite;
+@keyframes glow-cycle {
+  0%, 100% { 
+    filter: grayscale(1); 
+    opacity: 0.7;
+    transform: scale(0.98);
+  }
+  50% { 
+    filter: grayscale(0); 
+    opacity: 1;
+    transform: scale(1);
+    box-shadow: 0 0 20px rgba(139, 92, 246, 0.4);
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {

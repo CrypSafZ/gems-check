@@ -88,8 +88,7 @@ export const TIERS: Record<TierId, Tier> = {
     id: "notagem",
     label: "☠️ NOT A GEM",
     title: "Stranger to the cave",
-    roast:
-      "Who is this. The cave doesn't know you. Fix that → discord.gg/alphagems",
+    roast: "Who tf are you? Get out.",
     glow: "from-rose-500/30 via-red-500/20 to-zinc-800/20",
     ring: "ring-rose-400/50",
     badge: "bg-gradient-to-br from-rose-500 to-zinc-800",
