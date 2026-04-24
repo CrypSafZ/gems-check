@@ -1,0 +1,3411 @@
+{
+  "generatedAt": "2026-04-24T19:58:18.501Z",
+  "totals": {
+    "snapshot": 608,
+    "gemsSheet": 608,
+    "alreadyFilled": 0,
+    "toFill": 239,
+    "missing": 369,
+    "notInGemsSheet": 0
+  },
+  "sourceCounts": {
+    "Safio Help / Deduped": 261,
+    "FROGE / GTD": 120,
+    "FROGE / FCFS": 108,
+    "GOBLYNZ / Wallets": 30,
+    "StormRae Raid / Sheet1": 55
+  },
+  "toFill": [
+    {
+      "username": "naixbt",
+      "rank": 2,
+      "rowIdx": 3,
+      "handle": "naixbt",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "shaq2wade",
+      "rank": 3,
+      "rowIdx": 4,
+      "handle": "shaqxbt",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "zerachielo",
+      "rank": 4,
+      "rowIdx": 5,
+      "handle": "zera_chielo",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "0xkeet",
+      "rank": 5,
+      "rowIdx": 6,
+      "handle": "keetfarmoor",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "vespucci",
+      "rank": 6,
+      "rowIdx": 7,
+      "handle": "v3spucc1",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "verabera_",
+      "rank": 7,
+      "rowIdx": 8,
+      "handle": "verabera_",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "yash2773",
+      "rank": 8,
+      "rowIdx": 9,
+      "handle": "yashi_269",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "tulipxbt",
+      "rank": 9,
+      "rowIdx": 10,
+      "handle": "tulipxbt",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "huriiii",
+      "rank": 10,
+      "rowIdx": 11,
+      "handle": "hurii_i",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "meiv",
+      "rank": 11,
+      "rowIdx": 12,
+      "handle": "Meivabelle",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "maxo4im",
+      "rank": 12,
+      "rowIdx": 13,
+      "handle": "0xMaxBT",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "tobific",
+      "rank": 13,
+      "rowIdx": 14,
+      "handle": "tobific",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "morningstar2603",
+      "rank": 14,
+      "rowIdx": 15,
+      "handle": "MrningSt4rPrinc",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "cratereth",
+      "rank": 15,
+      "rowIdx": 16,
+      "handle": "tfnnft1",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "tammy.0210",
+      "rank": 16,
+      "rowIdx": 17,
+      "handle": "TaammyyLOVELY",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "giannos2991",
+      "rank": 17,
+      "rowIdx": 18,
+      "handle": "0xfarmooooor",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "vivek3024",
+      "rank": 18,
+      "rowIdx": 19,
+      "handle": "Gurpreet8413",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "eliaeth",
+      "rank": 19,
+      "rowIdx": 20,
+      "handle": "Eliacc88",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "0x069",
+      "rank": 20,
+      "rowIdx": 21,
+      "handle": "xKievery",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "abdxbt",
+      "rank": 21,
+      "rowIdx": 22,
+      "handle": "Abd4pf",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "casablvnca",
+      "rank": 22,
+      "rowIdx": 23,
+      "handle": "casablvnca",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "prisoner.btc",
+      "rank": 23,
+      "rowIdx": 24,
+      "handle": "tyra_asia22250",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "borgereth",
+      "rank": 24,
+      "rowIdx": 25,
+      "handle": "borgereth",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "joestar_san",
+      "rank": 26,
+      "rowIdx": 27,
+      "handle": "Joestar_sann",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "maskidluffy",
+      "rank": 27,
+      "rowIdx": 28,
+      "handle": "Mask_0009",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "only__violet",
+      "rank": 28,
+      "rowIdx": 29,
+      "handle": "only__violet",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "emma24_",
+      "rank": 29,
+      "rowIdx": 30,
+      "handle": "wajiha_hussain",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "lukinzo",
+      "rank": 30,
+      "rowIdx": 31,
+      "handle": "LukinzoNFT",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "yeahokay",
+      "rank": 31,
+      "rowIdx": 32,
+      "handle": "derivativesnft",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "mikeygotbudd",
+      "rank": 32,
+      "rowIdx": 33,
+      "handle": "mealswithmikeb",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "xyfer_x",
+      "rank": 33,
+      "rowIdx": 34,
+      "handle": "xyfer_x",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "cryptogladiator",
+      "rank": 35,
+      "rowIdx": 36,
+      "handle": "jinalpatelcp",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "jinnieeee_",
+      "rank": 36,
+      "rowIdx": 37,
+      "handle": "Jinnie2222",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "vjt",
+      "rank": 37,
+      "rowIdx": 38,
+      "handle": "vjtonway",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "merkyyy.eth",
+      "rank": 38,
+      "rowIdx": 39,
+      "handle": "Lebron1333080",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "j.a.i",
+      "rank": 40,
+      "rowIdx": 41,
+      "handle": "web3gopal",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "klabo",
+      "rank": 41,
+      "rowIdx": 42,
+      "handle": "0xklabo",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "neverthat",
+      "rank": 42,
+      "rowIdx": 43,
+      "handle": "imneverthat",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "s.tuboofficial",
+      "rank": 43,
+      "rowIdx": 44,
+      "handle": "sims_guru",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "yoyo_yoyo",
+      "rank": 44,
+      "rowIdx": 45,
+      "handle": "yoyonfts",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "100xyan",
+      "rank": 45,
+      "rowIdx": 46,
+      "handle": "100xYan",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "naivewolf",
+      "rank": 46,
+      "rowIdx": 47,
+      "handle": "nftaddictor",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "_nikesh",
+      "rank": 47,
+      "rowIdx": 48,
+      "handle": "Nikesh68081734",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "_lilmeg_",
+      "rank": 49,
+      "rowIdx": 50,
+      "handle": "MeganThorp9927",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "pepega2",
+      "rank": 50,
+      "rowIdx": 51,
+      "handle": "itspepega",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "0xnico",
+      "rank": 51,
+      "rowIdx": 52,
+      "handle": "moonboyzzzzz",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "wandergagas",
+      "rank": 52,
+      "rowIdx": 53,
+      "handle": "0xwashedup",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": ".shanws",
+      "rank": 54,
+      "rowIdx": 55,
+      "handle": "Shannlws",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "3188",
+      "rank": 55,
+      "rowIdx": 56,
+      "handle": "RrrNFTS",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "megamus_",
+      "rank": 56,
+      "rowIdx": 57,
+      "handle": "0xMegamus",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "krou.eth",
+      "rank": 57,
+      "rowIdx": 58,
+      "handle": "degenakias",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "berrylockedin",
+      "rank": 58,
+      "rowIdx": 59,
+      "handle": "RxzeBerry",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "._bw_.",
+      "rank": 59,
+      "rowIdx": 60,
+      "handle": "nftbwbw",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "sternw",
+      "rank": 60,
+      "rowIdx": 61,
+      "handle": "wilbertowen22",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "cinimini",
+      "rank": 62,
+      "rowIdx": 63,
+      "handle": "0xBazinga",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "attract_",
+      "rank": 63,
+      "rowIdx": 64,
+      "handle": "HereFromFuture",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "largee",
+      "rank": 64,
+      "rowIdx": 65,
+      "handle": "largee_eth",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "blur69",
+      "rank": 66,
+      "rowIdx": 67,
+      "handle": "Standin_blur",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "hodinkee",
+      "rank": 67,
+      "rowIdx": 68,
+      "handle": "trippysmols",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "dusanft",
+      "rank": 68,
+      "rowIdx": 69,
+      "handle": "DusaNFT",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "exoticdoggo",
+      "rank": 69,
+      "rowIdx": 70,
+      "handle": "DoggoExotic",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "blackmafia.",
+      "rank": 70,
+      "rowIdx": 71,
+      "handle": "Papercharlison",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "redphishbishopdonjuandelanooch",
+      "rank": 71,
+      "rowIdx": 72,
+      "handle": "RedPhishery",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "junenfts",
+      "rank": 72,
+      "rowIdx": 73,
+      "handle": "Junenfts",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "sidhu0001",
+      "rank": 73,
+      "rowIdx": 74,
+      "handle": "Sidhu1313Sidhu",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "bunnykins.eth",
+      "rank": 76,
+      "rowIdx": 77,
+      "handle": "bunnykins_eth",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "sumairkandhari",
+      "rank": 77,
+      "rowIdx": 78,
+      "handle": "SumairKandhari",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "parkernft",
+      "rank": 80,
+      "rowIdx": 81,
+      "handle": "nftpeterparker",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "0xaray",
+      "rank": 81,
+      "rowIdx": 82,
+      "handle": "EdLearn3",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "__emi__",
+      "rank": 82,
+      "rowIdx": 83,
+      "handle": "MacroOwl",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "vazom",
+      "rank": 83,
+      "rowIdx": 84,
+      "handle": "CryptoSillican",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "natt369",
+      "rank": 84,
+      "rowIdx": 85,
+      "handle": "Natt_369_",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "majdi",
+      "rank": 85,
+      "rowIdx": 86,
+      "handle": "Myalt_alt",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "nothing.avax",
+      "rank": 88,
+      "rowIdx": 89,
+      "handle": "0xnothing101",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "itsuwari",
+      "rank": 89,
+      "rowIdx": 90,
+      "handle": "nonakatsui",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "gobelz.eth",
+      "rank": 92,
+      "rowIdx": 93,
+      "handle": "santikimo_",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "shonari",
+      "rank": 93,
+      "rowIdx": 94,
+      "handle": "imShonari",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "solsal0",
+      "rank": 94,
+      "rowIdx": 95,
+      "handle": "SolSal9406",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "aloominati",
+      "rank": 95,
+      "rowIdx": 96,
+      "handle": "neela_pani",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "0xdelo",
+      "rank": 96,
+      "rowIdx": 97,
+      "handle": "hynynft",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "kanenas1312",
+      "rank": 97,
+      "rowIdx": 98,
+      "handle": "Kanenas_1312",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "lenim",
+      "rank": 98,
+      "rowIdx": 99,
+      "handle": "Iguana_Mojada",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "meowing4usdc",
+      "rank": 99,
+      "rowIdx": 100,
+      "handle": "sazorxbt",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "mohsin_mj",
+      "rank": 100,
+      "rowIdx": 101,
+      "handle": "Akio283271",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "jennn_sol",
+      "rank": 101,
+      "rowIdx": 102,
+      "handle": "jennn_sol",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "degensnail",
+      "rank": 102,
+      "rowIdx": 103,
+      "handle": "dgnsnail",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "6668",
+      "rank": 104,
+      "rowIdx": 105,
+      "handle": "0xStrayCat",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "masteryayoco",
+      "rank": 107,
+      "rowIdx": 108,
+      "handle": "MasterYayoco22",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "tvs11",
+      "rank": 108,
+      "rowIdx": 109,
+      "handle": "TVS11_07",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "maryyyless",
+      "rank": 111,
+      "rowIdx": 112,
+      "handle": "maryyyless",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "laulau_eth",
+      "rank": 112,
+      "rowIdx": 113,
+      "handle": "laumvar",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "emjayrentarou",
+      "rank": 113,
+      "rowIdx": 114,
+      "handle": "emjayrntr",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": ".tinkss",
+      "rank": 115,
+      "rowIdx": 116,
+      "handle": "Jtink_NFT",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "agenthunt",
+      "rank": 117,
+      "rowIdx": 118,
+      "handle": "durga1996",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "0xmakcy",
+      "rank": 118,
+      "rowIdx": 119,
+      "handle": "witches0x",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "kento3yyy",
+      "rank": 119,
+      "rowIdx": 120,
+      "handle": "kentocious_",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "ar_kotfw",
+      "rank": 121,
+      "rowIdx": 122,
+      "handle": "Riru2024",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "sneakyninjapants",
+      "rank": 122,
+      "rowIdx": 123,
+      "handle": "SneakyninjaNFTs",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "theonlynessie",
+      "rank": 123,
+      "rowIdx": 124,
+      "handle": "TheOnlyNessie",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "gujju_76",
+      "rank": 125,
+      "rowIdx": 126,
+      "handle": "GUJJUIIXI",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "999.eth",
+      "rank": 126,
+      "rowIdx": 127,
+      "handle": "_Reezo_",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "kjblockchain",
+      "rank": 127,
+      "rowIdx": 128,
+      "handle": "papadegen1",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "neji.eth",
+      "rank": 128,
+      "rowIdx": 129,
+      "handle": "nejixbt",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "h3llplanet",
+      "rank": 129,
+      "rowIdx": 130,
+      "handle": "H3llPlanet",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "tp0637",
+      "rank": 130,
+      "rowIdx": 131,
+      "handle": "tbtphaha",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "vvvv",
+      "rank": 131,
+      "rowIdx": 132,
+      "handle": "boostybabies",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "denny.v2",
+      "rank": 132,
+      "rowIdx": 133,
+      "handle": "alphaddicted1",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "hoponopono.",
+      "rank": 133,
+      "rowIdx": 134,
+      "handle": "hoponopon0",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "saka_algo",
+      "rank": 134,
+      "rowIdx": 135,
+      "handle": "saka_Algo",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "castronft36",
+      "rank": 135,
+      "rowIdx": 136,
+      "handle": "castronft36",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "liat9091",
+      "rank": 136,
+      "rowIdx": 137,
+      "handle": "MariaOr8900",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "xxman2001",
+      "rank": 137,
+      "rowIdx": 138,
+      "handle": "leshthelove",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "panorom",
+      "rank": 138,
+      "rowIdx": 139,
+      "handle": "PANOROM1883",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "darius.art",
+      "rank": 139,
+      "rowIdx": 140,
+      "handle": "darius_026",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "bluetiger1",
+      "rank": 141,
+      "rowIdx": 142,
+      "handle": "__GarciaChris",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "mbk77",
+      "rank": 142,
+      "rowIdx": 143,
+      "handle": "araredegen",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "emma1237305",
+      "rank": 143,
+      "rowIdx": 144,
+      "handle": "GlorytoGlory_21",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "0xneozz",
+      "rank": 144,
+      "rowIdx": 145,
+      "handle": "Andrewthedegenn",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "ninjakeira",
+      "rank": 145,
+      "rowIdx": 146,
+      "handle": "xninjashadow",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "bchungha",
+      "rank": 146,
+      "rowIdx": 147,
+      "handle": "bchungfarmer",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "captainm0tan",
+      "rank": 147,
+      "rowIdx": 148,
+      "handle": "0xMotan",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "emeraldxyzz",
+      "rank": 148,
+      "rowIdx": 149,
+      "handle": "midoum_",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "infatuated_simp",
+      "rank": 149,
+      "rowIdx": 150,
+      "handle": "infatuated_simp",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "akeem9085",
+      "rank": 150,
+      "rowIdx": 151,
+      "handle": "Lightdefii",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "jenevanfts",
+      "rank": 151,
+      "rowIdx": 152,
+      "handle": "jenevanfts",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "imshuxp",
+      "rank": 152,
+      "rowIdx": 153,
+      "handle": "imshuXP",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "holypopo",
+      "rank": 154,
+      "rowIdx": 155,
+      "handle": "babaluga93",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "vardaan369",
+      "rank": 155,
+      "rowIdx": 156,
+      "handle": "vardaan369",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "dimifk",
+      "rank": 156,
+      "rowIdx": 157,
+      "handle": "dfouk",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "auburn.eth",
+      "rank": 158,
+      "rowIdx": 159,
+      "handle": "StarryNightx92",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "simeone_01",
+      "rank": 160,
+      "rowIdx": 161,
+      "handle": "deji_nfts",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "janika8605",
+      "rank": 161,
+      "rowIdx": 162,
+      "handle": "OdilionRedon",
+      "source": "GOBLYNZ / Wallets",
+      "matchedVia": "username"
+    },
+    {
+      "username": "acbiad",
+      "rank": 162,
+      "rowIdx": 163,
+      "handle": "LuoNFT",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "ilias_xyz",
+      "rank": 163,
+      "rowIdx": 164,
+      "handle": "ilias_xyz",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "lmfaooo",
+      "rank": 166,
+      "rowIdx": 167,
+      "handle": "martinlch30",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "abdullahsadiq",
+      "rank": 167,
+      "rowIdx": 168,
+      "handle": "stupidonchain",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "alayna5783",
+      "rank": 168,
+      "rowIdx": 169,
+      "handle": "cryptoqueen_hit",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "emanuel_teo1",
+      "rank": 169,
+      "rowIdx": 170,
+      "handle": "TeeLaCream1",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "hound.eth",
+      "rank": 170,
+      "rowIdx": 171,
+      "handle": "NFTLobeV",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "elpolloloco666",
+      "rank": 171,
+      "rowIdx": 172,
+      "handle": "el_743",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "penguinpecker",
+      "rank": 172,
+      "rowIdx": 173,
+      "handle": "penguinpecker1",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": ".drvegapunk",
+      "rank": 176,
+      "rowIdx": 177,
+      "handle": "DrVega_13",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "badkoi0x",
+      "rank": 177,
+      "rowIdx": 178,
+      "handle": "0xBadKoi",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": ".captainy",
+      "rank": 178,
+      "rowIdx": 179,
+      "handle": "WhyCaptainY",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "chest3rman",
+      "rank": 179,
+      "rowIdx": 180,
+      "handle": "ch3sterman",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "kayzee_dah_great",
+      "rank": 181,
+      "rowIdx": 182,
+      "handle": "SkabWorks",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "texi_3",
+      "rank": 182,
+      "rowIdx": 183,
+      "handle": "texi_3",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "figgy_bee",
+      "rank": 183,
+      "rowIdx": 184,
+      "handle": "figgybeep",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "sol.wolf",
+      "rank": 186,
+      "rowIdx": 187,
+      "handle": "mr_catai",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "zhixp_eth",
+      "rank": 187,
+      "rowIdx": 188,
+      "handle": "zhixp_eth",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "wolfsrain",
+      "rank": 190,
+      "rowIdx": 191,
+      "handle": "ItsWolfsRain",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "kaanha_",
+      "rank": 192,
+      "rowIdx": 193,
+      "handle": "JeffreyARamos",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "_0xsunnhi",
+      "rank": 194,
+      "rowIdx": 195,
+      "handle": "ryan2503_",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "peymannaderi",
+      "rank": 195,
+      "rowIdx": 196,
+      "handle": "0XKaiyla",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "saytella",
+      "rank": 198,
+      "rowIdx": 199,
+      "handle": "hinatta1230963",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "spencerdoteth",
+      "rank": 199,
+      "rowIdx": 200,
+      "handle": "Kateonchain77",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "damon0",
+      "rank": 200,
+      "rowIdx": 201,
+      "handle": "Brodchen0",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "diamondhands2021",
+      "rank": 201,
+      "rowIdx": 202,
+      "handle": "DiaHands2021",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "akisnftcollect",
+      "rank": 202,
+      "rowIdx": 203,
+      "handle": "doraklipa",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "majeeed",
+      "rank": 203,
+      "rowIdx": 204,
+      "handle": "estimable_",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "0xvinhpham",
+      "rank": 205,
+      "rowIdx": 206,
+      "handle": "0xvinhpham",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "benzwong",
+      "rank": 206,
+      "rowIdx": 207,
+      "handle": "alphabretz",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "clyxalex",
+      "rank": 209,
+      "rowIdx": 210,
+      "handle": "ClyxAlex",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "kaps_24",
+      "rank": 210,
+      "rowIdx": 211,
+      "handle": "0xKaps",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "vitoaph",
+      "rank": 212,
+      "rowIdx": 213,
+      "handle": "VitoApHElite",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "pixonme",
+      "rank": 213,
+      "rowIdx": 214,
+      "handle": "JuriRomanov",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "uday_04",
+      "rank": 215,
+      "rowIdx": 216,
+      "handle": "uday_dhorajiya",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "darhtch",
+      "rank": 216,
+      "rowIdx": 217,
+      "handle": "darhtch",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": ".tole",
+      "rank": 218,
+      "rowIdx": 219,
+      "handle": "tole_nft",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "nftdaad",
+      "rank": 219,
+      "rowIdx": 220,
+      "handle": "Nikolaspap93",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "veraa_tee",
+      "rank": 221,
+      "rowIdx": 222,
+      "handle": "verah_tee",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "shinnie.eth",
+      "rank": 222,
+      "rowIdx": 223,
+      "handle": "LynnWinthrope",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "n1kiz.",
+      "rank": 223,
+      "rowIdx": 224,
+      "handle": "xN1k1ta",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "gabiocand",
+      "rank": 225,
+      "rowIdx": 226,
+      "handle": "LaGamercitaNFT",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "jossive",
+      "rank": 228,
+      "rowIdx": 229,
+      "handle": "grownwhalee",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "drawknife",
+      "rank": 230,
+      "rowIdx": 231,
+      "handle": "drawknifee",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "saifmr",
+      "rank": 232,
+      "rowIdx": 233,
+      "handle": "saifmr20",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "blurschain",
+      "rank": 233,
+      "rowIdx": 234,
+      "handle": "blurschain",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "0xvalmir",
+      "rank": 236,
+      "rowIdx": 237,
+      "handle": "0xValmir",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "nxinja",
+      "rank": 243,
+      "rowIdx": 244,
+      "handle": "NxnjaProd",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "mewxxx",
+      "rank": 244,
+      "rowIdx": 245,
+      "handle": "mewnft",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "katsu.xbt",
+      "rank": 245,
+      "rowIdx": 246,
+      "handle": "sienna_nft",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "donpudgy",
+      "rank": 248,
+      "rowIdx": 249,
+      "handle": "DonPudgy",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "vi_oh",
+      "rank": 249,
+      "rowIdx": 250,
+      "handle": "Vi_myao",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "custeemade",
+      "rank": 252,
+      "rowIdx": 253,
+      "handle": "custeemade",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "lancaster.eth",
+      "rank": 257,
+      "rowIdx": 258,
+      "handle": "_just_wwmins",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "bitcoin_barry",
+      "rank": 258,
+      "rowIdx": 259,
+      "handle": "BTC_Barry_",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "mrhubztick",
+      "rank": 259,
+      "rowIdx": 260,
+      "handle": "0xMrHubztick",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "bigcasper",
+      "rank": 260,
+      "rowIdx": 261,
+      "handle": "BigCasperEth",
+      "source": "GOBLYNZ / Wallets",
+      "matchedVia": "username"
+    },
+    {
+      "username": "stargirl.007",
+      "rank": 262,
+      "rowIdx": 263,
+      "handle": "ice_bearcute",
+      "source": "StormRae Raid / Sheet1",
+      "matchedVia": "username"
+    },
+    {
+      "username": "oldtora",
+      "rank": 266,
+      "rowIdx": 267,
+      "handle": "oldtora2077",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "web3_salem",
+      "rank": 267,
+      "rowIdx": 268,
+      "handle": "web3babe5",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "redmartinii",
+      "rank": 269,
+      "rowIdx": 270,
+      "handle": "redmartiniinft1",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "waliiidx123",
+      "rank": 270,
+      "rowIdx": 271,
+      "handle": "0xwalidX",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "rohitvaleecha89",
+      "rank": 273,
+      "rowIdx": 274,
+      "handle": "ValeechaRohit",
+      "source": "GOBLYNZ / Wallets",
+      "matchedVia": "username"
+    },
+    {
+      "username": "vladz027",
+      "rank": 278,
+      "rowIdx": 279,
+      "handle": "vladz027",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "naskaa_",
+      "rank": 279,
+      "rowIdx": 280,
+      "handle": "ezzypezzy88",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "silentmode101",
+      "rank": 284,
+      "rowIdx": 285,
+      "handle": "SilentmodeDM",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "aphkenneth",
+      "rank": 285,
+      "rowIdx": 286,
+      "handle": "aphkenneth",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "jacplayz",
+      "rank": 290,
+      "rowIdx": 291,
+      "handle": "DOgeNORS",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "jpegg.",
+      "rank": 293,
+      "rowIdx": 294,
+      "handle": "Corker0618",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "nemeess",
+      "rank": 297,
+      "rowIdx": 298,
+      "handle": "nemegiri",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "ayame2themoon",
+      "rank": 298,
+      "rowIdx": 299,
+      "handle": "Bluerain1500",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "maverick.11",
+      "rank": 299,
+      "rowIdx": 300,
+      "handle": "0xMav",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "xdokusei",
+      "rank": 302,
+      "rowIdx": 303,
+      "handle": "0xDivine",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "doc_noonoo",
+      "rank": 303,
+      "rowIdx": 304,
+      "handle": "doc_noonoo",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "ngocphat.eth",
+      "rank": 307,
+      "rowIdx": 308,
+      "handle": "ngocphat0907",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "aisudesu",
+      "rank": 308,
+      "rowIdx": 309,
+      "handle": "Redmoon_nft",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "_royale",
+      "rank": 310,
+      "rowIdx": 311,
+      "handle": "royaaleweb3",
+      "source": "StormRae Raid / Sheet1",
+      "matchedVia": "username"
+    },
+    {
+      "username": "emmainweb",
+      "rank": 312,
+      "rowIdx": 313,
+      "handle": "emmainweb",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "ingress0",
+      "rank": 314,
+      "rowIdx": 315,
+      "handle": "0xIngresso",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "polkaguy",
+      "rank": 315,
+      "rowIdx": 316,
+      "handle": "polkaguy",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "bigmolove",
+      "rank": 318,
+      "rowIdx": 319,
+      "handle": "ThugNumber3",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "ibracadabra",
+      "rank": 322,
+      "rowIdx": 323,
+      "handle": "IbraTheDabra",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "sc4berz",
+      "rank": 323,
+      "rowIdx": 324,
+      "handle": "Anjalibist0",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "devilsnarefizz",
+      "rank": 325,
+      "rowIdx": 326,
+      "handle": "NftFlips",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "nftplaya",
+      "rank": 329,
+      "rowIdx": 330,
+      "handle": "PlayaNft",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "imaginarykaiju2020",
+      "rank": 334,
+      "rowIdx": 335,
+      "handle": "sikander69",
+      "source": "GOBLYNZ / Wallets",
+      "matchedVia": "username"
+    },
+    {
+      "username": "lady.whistledown",
+      "rank": 336,
+      "rowIdx": 337,
+      "handle": "NFTWhistledown",
+      "source": "StormRae Raid / Sheet1",
+      "matchedVia": "username"
+    },
+    {
+      "username": "davt97",
+      "rank": 350,
+      "rowIdx": 351,
+      "handle": "Elonagress",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "mh17x",
+      "rank": 351,
+      "rowIdx": 352,
+      "handle": "cryptozeusy",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "spoder0",
+      "rank": 353,
+      "rowIdx": 354,
+      "handle": "SpMan06",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "0xsodapop",
+      "rank": 355,
+      "rowIdx": 356,
+      "handle": "0xSpop",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "shimkey",
+      "rank": 365,
+      "rowIdx": 366,
+      "handle": "shrimbi",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "w_",
+      "rank": 368,
+      "rowIdx": 369,
+      "handle": "JustWallss",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "narcissisticpenguin",
+      "rank": 370,
+      "rowIdx": 371,
+      "handle": "amit0xic",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "pinkz",
+      "rank": 371,
+      "rowIdx": 372,
+      "handle": "Pinkz2903",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "beka.s",
+      "rank": 375,
+      "rowIdx": 376,
+      "handle": "Lilitchinn",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": ".tut.",
+      "rank": 377,
+      "rowIdx": 378,
+      "handle": "Tuteth_",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "techie.eth",
+      "rank": 380,
+      "rowIdx": 381,
+      "handle": "0xTechie_",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "lissanft2021",
+      "rank": 392,
+      "rowIdx": 393,
+      "handle": "Sejak2021",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "sofiacryptovibe",
+      "rank": 397,
+      "rowIdx": 398,
+      "handle": "SofiaCryptoVibe",
+      "source": "StormRae Raid / Sheet1",
+      "matchedVia": "username"
+    },
+    {
+      "username": "hm_web3",
+      "rank": 400,
+      "rowIdx": 401,
+      "handle": "hm_web3",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "realrains.eth",
+      "rank": 405,
+      "rowIdx": 406,
+      "handle": "r_rainss",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "moh1sh",
+      "rank": 424,
+      "rowIdx": 425,
+      "handle": "moh1shh",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "supraevm",
+      "rank": 430,
+      "rowIdx": 431,
+      "handle": "supraEVMv2",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "antone.",
+      "rank": 440,
+      "rowIdx": 441,
+      "handle": "CryptoPrans",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "bitcoin_",
+      "rank": 450,
+      "rowIdx": 451,
+      "handle": "TheRTg0d",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    },
+    {
+      "username": "mickross",
+      "rank": 531,
+      "rowIdx": 532,
+      "handle": "mickross_",
+      "source": "Safio Help / Deduped",
+      "matchedVia": "id"
+    }
+  ],
+  "missing": [
+    {
+      "username": "safz",
+      "rank": 1
+    },
+    {
+      "username": ".foreversauce",
+      "rank": 25
+    },
+    {
+      "username": "jake_6969",
+      "rank": 34
+    },
+    {
+      "username": "orlando85",
+      "rank": 39
+    },
+    {
+      "username": "daddiodan",
+      "rank": 48
+    },
+    {
+      "username": "welcome007",
+      "rank": 53
+    },
+    {
+      "username": "rxxiii",
+      "rank": 61
+    },
+    {
+      "username": "zoltarzeus",
+      "rank": 65
+    },
+    {
+      "username": "meowythegreat",
+      "rank": 74
+    },
+    {
+      "username": "ssjnino",
+      "rank": 75
+    },
+    {
+      "username": "logannfts",
+      "rank": 78
+    },
+    {
+      "username": "leyuniverse",
+      "rank": 79
+    },
+    {
+      "username": "0xnftmagician",
+      "rank": 86
+    },
+    {
+      "username": "pepewest19",
+      "rank": 87
+    },
+    {
+      "username": "lordderf",
+      "rank": 90
+    },
+    {
+      "username": "skyyfetti",
+      "rank": 91
+    },
+    {
+      "username": "jjarrad",
+      "rank": 103
+    },
+    {
+      "username": "niwde.eth",
+      "rank": 105
+    },
+    {
+      "username": "raedinweb3",
+      "rank": 106
+    },
+    {
+      "username": "mrpotatojr",
+      "rank": 109
+    },
+    {
+      "username": "anadel1565",
+      "rank": 110
+    },
+    {
+      "username": "caliwu",
+      "rank": 114
+    },
+    {
+      "username": "brokepear",
+      "rank": 116
+    },
+    {
+      "username": "mikesnft",
+      "rank": 120
+    },
+    {
+      "username": "ramon.1",
+      "rank": 124
+    },
+    {
+      "username": "_btr",
+      "rank": 140
+    },
+    {
+      "username": "_kate_lv",
+      "rank": 153
+    },
+    {
+      "username": "hamokan",
+      "rank": 157
+    },
+    {
+      "username": "dayhon",
+      "rank": 159
+    },
+    {
+      "username": "iriwiz",
+      "rank": 164
+    },
+    {
+      "username": "kikiidoyouloveme",
+      "rank": 165
+    },
+    {
+      "username": "dreadsong",
+      "rank": 173
+    },
+    {
+      "username": "breasting",
+      "rank": 174
+    },
+    {
+      "username": "jc11",
+      "rank": 175
+    },
+    {
+      "username": "atomicfartt",
+      "rank": 180
+    },
+    {
+      "username": "antonis_atnsarts",
+      "rank": 184
+    },
+    {
+      "username": "dr.vitalikeinstein",
+      "rank": 185
+    },
+    {
+      "username": "biggiebtc",
+      "rank": 188
+    },
+    {
+      "username": "averno",
+      "rank": 189
+    },
+    {
+      "username": "amineblues",
+      "rank": 191
+    },
+    {
+      "username": "allergictoguac",
+      "rank": 193
+    },
+    {
+      "username": "mdeca",
+      "rank": 196
+    },
+    {
+      "username": "whoisash",
+      "rank": 197
+    },
+    {
+      "username": "nicsynft",
+      "rank": 204
+    },
+    {
+      "username": "lordzenith",
+      "rank": 207
+    },
+    {
+      "username": "justleksa",
+      "rank": 208
+    },
+    {
+      "username": "brinab2",
+      "rank": 211
+    },
+    {
+      "username": "emmaoce",
+      "rank": 214
+    },
+    {
+      "username": "incrypto",
+      "rank": 217
+    },
+    {
+      "username": "catmewn",
+      "rank": 220
+    },
+    {
+      "username": "cryptoinfinite",
+      "rank": 224
+    },
+    {
+      "username": "mrhenry.",
+      "rank": 226
+    },
+    {
+      "username": "0xpapiaxie",
+      "rank": 227
+    },
+    {
+      "username": "nftwidow",
+      "rank": 229
+    },
+    {
+      "username": "theelazyking",
+      "rank": 231
+    },
+    {
+      "username": "_whateverman_",
+      "rank": 234
+    },
+    {
+      "username": "aqsaxbt",
+      "rank": 235
+    },
+    {
+      "username": "junior0x_",
+      "rank": 237
+    },
+    {
+      "username": "syalirp",
+      "rank": 238
+    },
+    {
+      "username": "fimmonaci",
+      "rank": 239
+    },
+    {
+      "username": "sataaann",
+      "rank": 240
+    },
+    {
+      "username": "little_hed",
+      "rank": 241
+    },
+    {
+      "username": "clankak",
+      "rank": 242
+    },
+    {
+      "username": "cutieace",
+      "rank": 246
+    },
+    {
+      "username": "oscar_here.",
+      "rank": 247
+    },
+    {
+      "username": "valopa",
+      "rank": 250
+    },
+    {
+      "username": "13xbt",
+      "rank": 251
+    },
+    {
+      "username": "notjazii.",
+      "rank": 253
+    },
+    {
+      "username": "a9gtornedo",
+      "rank": 254
+    },
+    {
+      "username": "smittywerbenjaggermanjensen",
+      "rank": 255
+    },
+    {
+      "username": "ruledout",
+      "rank": 256
+    },
+    {
+      "username": "jampzer",
+      "rank": 261
+    },
+    {
+      "username": "morsyxbt",
+      "rank": 263
+    },
+    {
+      "username": "honeybunny36",
+      "rank": 264
+    },
+    {
+      "username": "krishh",
+      "rank": 265
+    },
+    {
+      "username": "real_n3xt",
+      "rank": 268
+    },
+    {
+      "username": "kisuke.eth",
+      "rank": 271
+    },
+    {
+      "username": "germanpalma",
+      "rank": 272
+    },
+    {
+      "username": "jacoos",
+      "rank": 274
+    },
+    {
+      "username": "byzianna",
+      "rank": 275
+    },
+    {
+      "username": "web3.",
+      "rank": 276
+    },
+    {
+      "username": "sailasar",
+      "rank": 277
+    },
+    {
+      "username": "thadream",
+      "rank": 280
+    },
+    {
+      "username": "0xlungin",
+      "rank": 281
+    },
+    {
+      "username": "estridthelion",
+      "rank": 282
+    },
+    {
+      "username": "maxuop",
+      "rank": 283
+    },
+    {
+      "username": "astr0x.",
+      "rank": 286
+    },
+    {
+      "username": "avalanche_xv",
+      "rank": 287
+    },
+    {
+      "username": "bigfloppaeth",
+      "rank": 288
+    },
+    {
+      "username": "proofofely",
+      "rank": 289
+    },
+    {
+      "username": "yellowpanther",
+      "rank": 291
+    },
+    {
+      "username": "nnotmybestwork",
+      "rank": 292
+    },
+    {
+      "username": "lovagirl1",
+      "rank": 294
+    },
+    {
+      "username": "cilin.eth",
+      "rank": 295
+    },
+    {
+      "username": "valhist",
+      "rank": 296
+    },
+    {
+      "username": "bonglo",
+      "rank": 300
+    },
+    {
+      "username": "lau_btc",
+      "rank": 301
+    },
+    {
+      "username": "kerrag",
+      "rank": 304
+    },
+    {
+      "username": "alineke",
+      "rank": 305
+    },
+    {
+      "username": "nicklaza0202",
+      "rank": 306
+    },
+    {
+      "username": "sav2222",
+      "rank": 309
+    },
+    {
+      "username": "ferfer4026",
+      "rank": 311
+    },
+    {
+      "username": "0xsjc",
+      "rank": 313
+    },
+    {
+      "username": "basocqueen",
+      "rank": 316
+    },
+    {
+      "username": "bryantheden",
+      "rank": 317
+    },
+    {
+      "username": "0xwildwizard",
+      "rank": 319
+    },
+    {
+      "username": "vonderr",
+      "rank": 320
+    },
+    {
+      "username": "cryptogorilla",
+      "rank": 321
+    },
+    {
+      "username": "reetiti",
+      "rank": 324
+    },
+    {
+      "username": "farah__web3",
+      "rank": 326
+    },
+    {
+      "username": "uniquesingh",
+      "rank": 327
+    },
+    {
+      "username": "1dgen_",
+      "rank": 328
+    },
+    {
+      "username": "bewise",
+      "rank": 330
+    },
+    {
+      "username": "ababy_yuumi",
+      "rank": 331
+    },
+    {
+      "username": "fxyo",
+      "rank": 332
+    },
+    {
+      "username": "edeyow",
+      "rank": 333
+    },
+    {
+      "username": "pepeknight",
+      "rank": 335
+    },
+    {
+      "username": "0xlucy",
+      "rank": 337
+    },
+    {
+      "username": "alka_holic",
+      "rank": 338
+    },
+    {
+      "username": "annienftt",
+      "rank": 339
+    },
+    {
+      "username": "anda765",
+      "rank": 340
+    },
+    {
+      "username": "bubits",
+      "rank": 341
+    },
+    {
+      "username": "ge.eth",
+      "rank": 342
+    },
+    {
+      "username": "skorm1700",
+      "rank": 343
+    },
+    {
+      "username": ".mcg.",
+      "rank": 344
+    },
+    {
+      "username": "eth_apple",
+      "rank": 345
+    },
+    {
+      "username": "breyonchain",
+      "rank": 346
+    },
+    {
+      "username": "bamboo_eth",
+      "rank": 347
+    },
+    {
+      "username": "imjuanito",
+      "rank": 348
+    },
+    {
+      "username": "feyaaa",
+      "rank": 349
+    },
+    {
+      "username": "andyd_andrea",
+      "rank": 352
+    },
+    {
+      "username": "0atmilknft",
+      "rank": 354
+    },
+    {
+      "username": "advaith.",
+      "rank": 356
+    },
+    {
+      "username": "nnevvessss",
+      "rank": 357
+    },
+    {
+      "username": "loshmi",
+      "rank": 358
+    },
+    {
+      "username": "telcier",
+      "rank": 359
+    },
+    {
+      "username": "ecki9317",
+      "rank": 360
+    },
+    {
+      "username": "martmobile",
+      "rank": 361
+    },
+    {
+      "username": "ryojineth",
+      "rank": 362
+    },
+    {
+      "username": "masterchief",
+      "rank": 363
+    },
+    {
+      "username": "belle193",
+      "rank": 364
+    },
+    {
+      "username": "xai.eth",
+      "rank": 366
+    },
+    {
+      "username": "huseyin1tekin",
+      "rank": 367
+    },
+    {
+      "username": "h4mze",
+      "rank": 369
+    },
+    {
+      "username": "alt_sho",
+      "rank": 372
+    },
+    {
+      "username": "galileowil",
+      "rank": 373
+    },
+    {
+      "username": "0xrickey",
+      "rank": 374
+    },
+    {
+      "username": "thegreatola",
+      "rank": 376
+    },
+    {
+      "username": "shelleymae",
+      "rank": 378
+    },
+    {
+      "username": "astornia",
+      "rank": 379
+    },
+    {
+      "username": "metagandhi",
+      "rank": 381
+    },
+    {
+      "username": "hillarybabygirl",
+      "rank": 382
+    },
+    {
+      "username": "treeonchain",
+      "rank": 383
+    },
+    {
+      "username": "blanka.ord",
+      "rank": 384
+    },
+    {
+      "username": "riceriddler",
+      "rank": 385
+    },
+    {
+      "username": "bitdemon",
+      "rank": 386
+    },
+    {
+      "username": "theo2k2",
+      "rank": 387
+    },
+    {
+      "username": "mici626",
+      "rank": 388
+    },
+    {
+      "username": "wataminoodles",
+      "rank": 389
+    },
+    {
+      "username": "0xhades_",
+      "rank": 390
+    },
+    {
+      "username": "ig.nft",
+      "rank": 391
+    },
+    {
+      "username": "tma420.eth",
+      "rank": 393
+    },
+    {
+      "username": "zaff_nft",
+      "rank": 394
+    },
+    {
+      "username": "ashrobin",
+      "rank": 395
+    },
+    {
+      "username": "0xabhip",
+      "rank": 396
+    },
+    {
+      "username": "calebunity",
+      "rank": 398
+    },
+    {
+      "username": "hellrokr",
+      "rank": 399
+    },
+    {
+      "username": "haqa",
+      "rank": 401
+    },
+    {
+      "username": "alina_anto",
+      "rank": 402
+    },
+    {
+      "username": "jave_gg",
+      "rank": 403
+    },
+    {
+      "username": "0xltr",
+      "rank": 404
+    },
+    {
+      "username": "web3ec",
+      "rank": 406
+    },
+    {
+      "username": "conflcts",
+      "rank": 407
+    },
+    {
+      "username": "sina6641",
+      "rank": 408
+    },
+    {
+      "username": "leraarni",
+      "rank": 409
+    },
+    {
+      "username": "cape",
+      "rank": 410
+    },
+    {
+      "username": "yakuzadaddy.",
+      "rank": 411
+    },
+    {
+      "username": "boltxbt",
+      "rank": 412
+    },
+    {
+      "username": "vee_lovennft",
+      "rank": 413
+    },
+    {
+      "username": "triples",
+      "rank": 414
+    },
+    {
+      "username": "mctyasha",
+      "rank": 415
+    },
+    {
+      "username": "zaimiri",
+      "rank": 416
+    },
+    {
+      "username": "fbispecialagentmulder",
+      "rank": 417
+    },
+    {
+      "username": "br4ted",
+      "rank": 418
+    },
+    {
+      "username": "nadirnfts",
+      "rank": 419
+    },
+    {
+      "username": "ironspiderxbt",
+      "rank": 420
+    },
+    {
+      "username": "0xitsleo",
+      "rank": 421
+    },
+    {
+      "username": "majdse",
+      "rank": 422
+    },
+    {
+      "username": "chainriffs",
+      "rank": 423
+    },
+    {
+      "username": "nftboi",
+      "rank": 425
+    },
+    {
+      "username": "cancerplayer",
+      "rank": 426
+    },
+    {
+      "username": "jade_defi",
+      "rank": 427
+    },
+    {
+      "username": "thatguyjay.eth",
+      "rank": 428
+    },
+    {
+      "username": "joeb0749",
+      "rank": 429
+    },
+    {
+      "username": "seifx0",
+      "rank": 431
+    },
+    {
+      "username": "gclol",
+      "rank": 432
+    },
+    {
+      "username": "boquet1137",
+      "rank": 433
+    },
+    {
+      "username": "imgroot",
+      "rank": 434
+    },
+    {
+      "username": "artmcarty",
+      "rank": 435
+    },
+    {
+      "username": "themansion_eth",
+      "rank": 436
+    },
+    {
+      "username": "arinamaycry",
+      "rank": 437
+    },
+    {
+      "username": "arcane707",
+      "rank": 438
+    },
+    {
+      "username": "0xcobrax0",
+      "rank": 439
+    },
+    {
+      "username": "levinotackerman",
+      "rank": 441
+    },
+    {
+      "username": "harassment",
+      "rank": 442
+    },
+    {
+      "username": "jazzmania1",
+      "rank": 443
+    },
+    {
+      "username": "toriribolla",
+      "rank": 444
+    },
+    {
+      "username": "sixpaths",
+      "rank": 445
+    },
+    {
+      "username": "chacha9198",
+      "rank": 446
+    },
+    {
+      "username": "dilaw06",
+      "rank": 447
+    },
+    {
+      "username": "joestar83",
+      "rank": 448
+    },
+    {
+      "username": "itsjowe",
+      "rank": 449
+    },
+    {
+      "username": ".angelicwaves",
+      "rank": 451
+    },
+    {
+      "username": "alyssaonchain",
+      "rank": 452
+    },
+    {
+      "username": "ryannnsmit",
+      "rank": 453
+    },
+    {
+      "username": "microglia",
+      "rank": 454
+    },
+    {
+      "username": "kibahjoseph",
+      "rank": 455
+    },
+    {
+      "username": "yumipeixuan",
+      "rank": 456
+    },
+    {
+      "username": "miaastreams",
+      "rank": 457
+    },
+    {
+      "username": "nastenkkkkkka",
+      "rank": 458
+    },
+    {
+      "username": "iamwenmun",
+      "rank": 459
+    },
+    {
+      "username": "thotcoin",
+      "rank": 460
+    },
+    {
+      "username": "sofiial",
+      "rank": 461
+    },
+    {
+      "username": "carisne",
+      "rank": 462
+    },
+    {
+      "username": "ghayzal.sol",
+      "rank": 463
+    },
+    {
+      "username": "camol",
+      "rank": 464
+    },
+    {
+      "username": "mentionlux",
+      "rank": 465
+    },
+    {
+      "username": "9fstudiox",
+      "rank": 466
+    },
+    {
+      "username": "t.e.d.",
+      "rank": 467
+    },
+    {
+      "username": "maven.eth",
+      "rank": 468
+    },
+    {
+      "username": "pauluz93",
+      "rank": 469
+    },
+    {
+      "username": "mdmadeit",
+      "rank": 470
+    },
+    {
+      "username": "smx_pfkw",
+      "rank": 471
+    },
+    {
+      "username": "0x_des",
+      "rank": 472
+    },
+    {
+      "username": "rollingpinkpanda",
+      "rank": 473
+    },
+    {
+      "username": "haifa.m29",
+      "rank": 474
+    },
+    {
+      "username": "ffv12",
+      "rank": 475
+    },
+    {
+      "username": "luidji",
+      "rank": 476
+    },
+    {
+      "username": "notyano",
+      "rank": 477
+    },
+    {
+      "username": "mojito888",
+      "rank": 478
+    },
+    {
+      "username": "tapevol_eth",
+      "rank": 479
+    },
+    {
+      "username": "menace9307",
+      "rank": 480
+    },
+    {
+      "username": "onogiri",
+      "rank": 481
+    },
+    {
+      "username": "ibw_mamba",
+      "rank": 482
+    },
+    {
+      "username": "jasich",
+      "rank": 483
+    },
+    {
+      "username": "phynphyn",
+      "rank": 484
+    },
+    {
+      "username": "merheb",
+      "rank": 485
+    },
+    {
+      "username": "zubairey",
+      "rank": 486
+    },
+    {
+      "username": "0xkovach",
+      "rank": 487
+    },
+    {
+      "username": "zerocool",
+      "rank": 488
+    },
+    {
+      "username": "d3genm0nk",
+      "rank": 489
+    },
+    {
+      "username": "b4kenny",
+      "rank": 490
+    },
+    {
+      "username": "miagia",
+      "rank": 491
+    },
+    {
+      "username": "pyrocapital",
+      "rank": 492
+    },
+    {
+      "username": "adegaloyan",
+      "rank": 493
+    },
+    {
+      "username": "sebss",
+      "rank": 494
+    },
+    {
+      "username": "anling420_40157",
+      "rank": 495
+    },
+    {
+      "username": "veritynfts",
+      "rank": 496
+    },
+    {
+      "username": "monwor",
+      "rank": 497
+    },
+    {
+      "username": "pancakesyrup_",
+      "rank": 498
+    },
+    {
+      "username": "azflin",
+      "rank": 499
+    },
+    {
+      "username": "mooney_",
+      "rank": 500
+    },
+    {
+      "username": "ruthybuilds",
+      "rank": 501
+    },
+    {
+      "username": "epsy5",
+      "rank": 502
+    },
+    {
+      "username": "enesonchain",
+      "rank": 503
+    },
+    {
+      "username": "shivst3r",
+      "rank": 504
+    },
+    {
+      "username": "maverick23.eth",
+      "rank": 505
+    },
+    {
+      "username": "masterjan",
+      "rank": 506
+    },
+    {
+      "username": "cindytypes",
+      "rank": 507
+    },
+    {
+      "username": "jjangbang",
+      "rank": 508
+    },
+    {
+      "username": "degenonly",
+      "rank": 509
+    },
+    {
+      "username": "openthefridge",
+      "rank": 510
+    },
+    {
+      "username": "0xkirara",
+      "rank": 511
+    },
+    {
+      "username": "ryandcrypto",
+      "rank": 512
+    },
+    {
+      "username": "mick3y.",
+      "rank": 513
+    },
+    {
+      "username": "manieth",
+      "rank": 514
+    },
+    {
+      "username": "0xemly",
+      "rank": 515
+    },
+    {
+      "username": "leegendary.eth",
+      "rank": 516
+    },
+    {
+      "username": "icrazyteddy",
+      "rank": 517
+    },
+    {
+      "username": "pixieinparadise",
+      "rank": 518
+    },
+    {
+      "username": ".ali11111",
+      "rank": 519
+    },
+    {
+      "username": "mastermurdoch",
+      "rank": 520
+    },
+    {
+      "username": "brommy",
+      "rank": 521
+    },
+    {
+      "username": "mustydiapers",
+      "rank": 522
+    },
+    {
+      "username": "shiftymunkey",
+      "rank": 523
+    },
+    {
+      "username": "0xchar",
+      "rank": 524
+    },
+    {
+      "username": "0xminaa",
+      "rank": 525
+    },
+    {
+      "username": "buttrmytoast",
+      "rank": 526
+    },
+    {
+      "username": "billionaire",
+      "rank": 527
+    },
+    {
+      "username": "crypticno",
+      "rank": 528
+    },
+    {
+      "username": "benjamincrypto",
+      "rank": 529
+    },
+    {
+      "username": "elenaaeth",
+      "rank": 530
+    },
+    {
+      "username": "gozyy_world",
+      "rank": 532
+    },
+    {
+      "username": "0xvesty",
+      "rank": 533
+    },
+    {
+      "username": "0xbigmeth",
+      "rank": 534
+    },
+    {
+      "username": "senemonchain",
+      "rank": 535
+    },
+    {
+      "username": "iamrav3n",
+      "rank": 536
+    },
+    {
+      "username": "tulkas.eth",
+      "rank": 537
+    },
+    {
+      "username": "ssheyii",
+      "rank": 538
+    },
+    {
+      "username": "mickele.eth",
+      "rank": 539
+    },
+    {
+      "username": "shimal2i",
+      "rank": 540
+    },
+    {
+      "username": "icedv60",
+      "rank": 541
+    },
+    {
+      "username": "pixnmsanvm",
+      "rank": 542
+    },
+    {
+      "username": "floridapearl",
+      "rank": 543
+    },
+    {
+      "username": "bawsa",
+      "rank": 544
+    },
+    {
+      "username": "cryptovalley",
+      "rank": 545
+    },
+    {
+      "username": "blooper0_",
+      "rank": 546
+    },
+    {
+      "username": "tequilawaifu",
+      "rank": 547
+    },
+    {
+      "username": ".camski.",
+      "rank": 548
+    },
+    {
+      "username": "sanza.eth",
+      "rank": 549
+    },
+    {
+      "username": "0xinuarashi",
+      "rank": 550
+    },
+    {
+      "username": "bensage",
+      "rank": 551
+    },
+    {
+      "username": "hydrazeocb",
+      "rank": 552
+    },
+    {
+      "username": "kaiski.eth",
+      "rank": 553
+    },
+    {
+      "username": "n0v4t0",
+      "rank": 554
+    },
+    {
+      "username": "kattt_ordinals",
+      "rank": 555
+    },
+    {
+      "username": "jyp",
+      "rank": 556
+    },
+    {
+      "username": "swannynft_",
+      "rank": 557
+    },
+    {
+      "username": "themafiaboss69",
+      "rank": 558
+    },
+    {
+      "username": "joeyvowels",
+      "rank": 559
+    },
+    {
+      "username": "skylineeth",
+      "rank": 560
+    },
+    {
+      "username": "topdog2222",
+      "rank": 561
+    },
+    {
+      "username": "captainck.eth",
+      "rank": 562
+    },
+    {
+      "username": "ceaser26",
+      "rank": 563
+    },
+    {
+      "username": "chandog",
+      "rank": 564
+    },
+    {
+      "username": "realthikst",
+      "rank": 565
+    },
+    {
+      "username": "nissue",
+      "rank": 566
+    },
+    {
+      "username": "sanjaybuilds",
+      "rank": 567
+    },
+    {
+      "username": "theboggartt",
+      "rank": 568
+    },
+    {
+      "username": "lexiksss",
+      "rank": 569
+    },
+    {
+      "username": "westfure",
+      "rank": 570
+    },
+    {
+      "username": "treboomin",
+      "rank": 571
+    },
+    {
+      "username": "xeer",
+      "rank": 572
+    },
+    {
+      "username": "lunarfang_416",
+      "rank": 573
+    },
+    {
+      "username": "dewku",
+      "rank": 574
+    },
+    {
+      "username": "binniesbinnies",
+      "rank": 575
+    },
+    {
+      "username": "nftaura",
+      "rank": 576
+    },
+    {
+      "username": "mr_hmmm.",
+      "rank": 577
+    },
+    {
+      "username": "its_sgar",
+      "rank": 578
+    },
+    {
+      "username": "0xbreadguy",
+      "rank": 579
+    },
+    {
+      "username": "eman.eth.",
+      "rank": 580
+    },
+    {
+      "username": "queenmoon1337",
+      "rank": 581
+    },
+    {
+      "username": "osten.m",
+      "rank": 582
+    },
+    {
+      "username": "dylanshub",
+      "rank": 583
+    },
+    {
+      "username": "0xphil",
+      "rank": 584
+    },
+    {
+      "username": "soniiii___",
+      "rank": 585
+    },
+    {
+      "username": "hustlepedia",
+      "rank": 586
+    },
+    {
+      "username": "raar3s",
+      "rank": 587
+    },
+    {
+      "username": "hunisan",
+      "rank": 588
+    },
+    {
+      "username": "alexmarks3d",
+      "rank": 589
+    },
+    {
+      "username": "arcanic.eth",
+      "rank": 590
+    },
+    {
+      "username": "estefano.eth",
+      "rank": 591
+    },
+    {
+      "username": "kaspiygoldking",
+      "rank": 592
+    },
+    {
+      "username": "langerius",
+      "rank": 593
+    },
+    {
+      "username": ".kokobean.",
+      "rank": 594
+    },
+    {
+      "username": "alexabelonix",
+      "rank": 595
+    },
+    {
+      "username": "fadedwealth",
+      "rank": 596
+    },
+    {
+      "username": "starplatinum0915",
+      "rank": 597
+    },
+    {
+      "username": "joeymooose",
+      "rank": 598
+    },
+    {
+      "username": "jdothamilton",
+      "rank": 599
+    },
+    {
+      "username": "zxbt",
+      "rank": 600
+    },
+    {
+      "username": "chr0nicle",
+      "rank": 601
+    },
+    {
+      "username": "nftvai",
+      "rank": 602
+    },
+    {
+      "username": "cryptousopp_",
+      "rank": 603
+    },
+    {
+      "username": "69moritz69",
+      "rank": 604
+    },
+    {
+      "username": "meta_alchemist",
+      "rank": 605
+    },
+    {
+      "username": "dith",
+      "rank": 606
+    },
+    {
+      "username": "web3honey",
+      "rank": 607
+    },
+    {
+      "username": "sei.bando",
+      "rank": 608
+    }
+  ],
+  "notInGemsSheet": []
+}

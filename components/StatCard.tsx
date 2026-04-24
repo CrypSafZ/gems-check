@@ -90,12 +90,6 @@ export function StatCard({
     );
   }
 
-  const usernameEl = (
-    <h2 className="text-2xl sm:text-3xl font-display font-bold text-gem-white leading-tight truncate">
-      @{member.username}
-    </h2>
-  );
-
   return (
     <article
       className={cn(
@@ -130,21 +124,22 @@ export function StatCard({
               />
             </div>
             <div className="min-w-0">
-              {xHandle ? (
+              <h2 className="text-2xl sm:text-3xl font-display font-bold text-gem-white leading-tight truncate">
+                @{member.username}
+              </h2>
+              {xHandle && (
                 <a
                   href={`https://x.com/${xHandle}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1.5 hover:opacity-80 transition-opacity"
+                  className="mt-1 inline-flex items-center gap-1.5 rounded-full border border-violet-400/40 bg-violet-500/15 px-2.5 py-1 text-sm font-mono font-semibold text-violet-100 hover:bg-violet-500/25 hover:border-violet-300/60 transition-colors"
                   title={`@${xHandle} on X`}
                 >
-                  {usernameEl}
-                  <span className="text-violet-300 text-lg shrink-0">𝕏</span>
+                  <span className="text-violet-200 text-base leading-none">𝕏</span>
+                  <span className="truncate">@{xHandle}</span>
                 </a>
-              ) : (
-                usernameEl
               )}
-              <p className="text-sm text-lavender/80 font-mono font-semibold truncate">
+              <p className="text-sm text-lavender/80 font-mono font-semibold truncate mt-1">
                 {`Rank #${member.rank} of ${formatNumber(meta.totalMembers)}`}
               </p>
               <p className="text-[11px] text-lavender/60 font-mono mt-0.5">

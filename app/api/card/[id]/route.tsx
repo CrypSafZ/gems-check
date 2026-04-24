@@ -199,25 +199,48 @@ export async function GET(
                     display: "flex",
                     flexDirection: "column",
                     gap: 6,
-                    maxWidth: 560,
+                    maxWidth: 620,
                   }}
                 >
                   <div
                     style={{
                       display: "flex",
-                      alignItems: "center",
-                      gap: 12,
                       fontSize: 58,
                       fontWeight: 800,
                       color: "#f5f3ff",
                       lineHeight: 1,
                     }}
                   >
-                    <span>{displayName}</span>
-                    {override?.xHandle && (
-                      <span style={{ color: "#c4b5fd", fontSize: 44 }}>𝕏</span>
-                    )}
+                    {displayName}
                   </div>
+                  {override?.xHandle && (
+                    <div
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        gap: 10,
+                        padding: "6px 16px",
+                        borderRadius: 999,
+                        background: "rgba(139, 92, 246, 0.22)",
+                        border: "2px solid rgba(167, 139, 250, 0.55)",
+                        alignSelf: "flex-start",
+                        marginTop: 4,
+                      }}
+                    >
+                      <span style={{ color: "#e9dbff", fontSize: 26 }}>𝕏</span>
+                      <span
+                        style={{
+                          fontSize: 24,
+                          color: "#e9dbff",
+                          fontFamily: "monospace",
+                          fontWeight: 700,
+                          letterSpacing: 0.5,
+                        }}
+                      >
+                        @{override.xHandle}
+                      </span>
+                    </div>
+                  )}
                   <div
                     style={{
                       fontSize: 24,
