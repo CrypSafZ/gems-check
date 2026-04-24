@@ -68,10 +68,16 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col font-sans cave-bg">
         <div className="cave-photo" aria-hidden="true" />
         <div className="starfield" aria-hidden="true" />
-        <div className="cave-characters" aria-hidden="true">
+        <div className="cave-characters pointer-events-none" aria-hidden="true">
           {CAVE_CHARACTERS.map((c) => (
             // eslint-disable-next-line @next/next/no-img-element
-            <img key={c.src} src={c.src} alt="" className={`cave-char ${c.className}`} />
+            <img
+              key={c.src}
+              src={c.src}
+              alt=""
+              className={`cave-char pointer-events-none select-none ${c.className}`}
+              draggable={false}
+            />
           ))}
         </div>
         <div className="relative z-10 flex flex-col flex-1">{children}</div>

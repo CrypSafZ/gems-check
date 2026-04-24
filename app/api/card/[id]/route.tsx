@@ -29,18 +29,25 @@ const TIER_GRADIENTS: Record<string, [string, string]> = {
   notagem: ["#e11d48", "#1f2937"],
 };
 
-// Only allow PFPs from the Vercel Blob bucket we control.
+// Only allow PFPs from known hosts we trust.
 // This stops SSRF via @vercel/og fetching arbitrary URLs server-side.
-const ALLOWED_PFP_HOST_SUFFIX = ".public.blob.vercel-storage.com";
-const ALLOWED_PFP_PATH_PREFIX = "/pfps/";
+const ALLOWED_PFP_SOURCES: Array<{
+  hostnameSuffix: string;
+  pathPrefix: string;
+}> = [
+  { hostnameSuffix: ".public.blob.vercel-storage.com", pathPrefix: "/pfps/" },
+  { hostnameSuffix: "cdn.discordapp.com", pathPrefix: "/avatars/" },
+];
 
 function isAllowedPfpUrl(url: string): boolean {
   try {
     const parsed = new URL(url);
     if (parsed.protocol !== "https:") return false;
-    if (!parsed.hostname.endsWith(ALLOWED_PFP_HOST_SUFFIX)) return false;
-    if (!parsed.pathname.startsWith(ALLOWED_PFP_PATH_PREFIX)) return false;
-    return true;
+    return ALLOWED_PFP_SOURCES.some(
+      (s) =>
+        parsed.hostname.endsWith(s.hostnameSuffix) &&
+        parsed.pathname.startsWith(s.pathPrefix),
+    );
   } catch {
     return false;
   }

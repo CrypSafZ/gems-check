@@ -12,6 +12,11 @@ const nextConfig: NextConfig = {
         hostname: "*.public.blob.vercel-storage.com",
         pathname: "/pfps/**",
       },
+      {
+        protocol: "https",
+        hostname: "cdn.discordapp.com",
+        pathname: "/avatars/**",
+      },
     ],
   },
 };

@@ -19,7 +19,7 @@ export default function Home() {
     <main className="flex-1 flex flex-col items-center justify-center px-6 py-16">
       <div className="w-full max-w-2xl flex flex-col items-center gap-10 text-center">
         <div className="flex flex-col items-center gap-4">
-          <GemLogo size={72} />
+          <GemLogo size={144} />
           <h1 className="font-display text-4xl sm:text-6xl md:text-7xl font-bold tracking-tight text-gem-white leading-[1.05] uppercase">
             GEM Unemployment
             <span className="block text-violet-300/95 normal-case font-display font-medium italic tracking-normal">
