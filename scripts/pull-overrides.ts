@@ -25,6 +25,49 @@ function normalizeHandle(raw: string): string | undefined {
   return trimmed.replace(/^@/, "");
 }
 
+// Old auto-backfilled tier defaults from the previous lib/tiers.ts.
+// If a per-member cell exactly matches one of these, treat it as "no override"
+// so the new Tiers 2 defaults from lib/tiers.ts can take over. Real per-member
+// customs (anything else) are kept.
+const STALE_TIER_LABELS = new Set([
+  "💎 THE GEM EMPEROR",
+  "🔱 PODIUM GEM",
+  "⚔️ HALL OF GEMS",
+  "🛡️ ELITE GUARD",
+  "🪩 INNER CIRCLE",
+  "🔮 SHINY GEM",
+  "🧿 CAVE REGULAR",
+  "🦇 CAVE DWELLER",
+  "🫥 GHOST GEM",
+  "☠️ NOT A GEM",
+]);
+
+const STALE_TIER_TITLES = new Set([
+  "#1 of the cave",
+  "Top 3",
+  "Top 5",
+  "Top 10",
+  "Top 30",
+  "Top 50",
+  "Top 100",
+  "Top 300",
+  "300+ (certified lurker)",
+  "Stranger to the cave",
+]);
+
+const STALE_TIER_ROASTS = new Set([
+  "The cave kneels. You probably haven't touched grass in 2026. We thank you.",
+  "Three of you hold this server up. The other two should sleep sometimes.",
+  "Certified menace. Top 5 out of thousands. Hydrate.",
+  "Deca-gem status. Mods fear you, lurkers envy you.",
+  "You type like rent is due tomorrow. Respect.",
+  "Solid. Your keyboard has opinions and we like them.",
+  "Mid-tier royalty. You show up, you shine, you carry.",
+  "You exist. The gems see you. Barely.",
+  "Lurker energy confirmed. Say something, coward.",
+  "Who tf are you? Get out.",
+]);
+
 function main() {
   const out = execFileSync(
     "gog",
@@ -51,16 +94,19 @@ function main() {
     const customLabel = (row[4] ?? "").trim();
     const customTitle = (row[5] ?? "").trim();
     const customRoast = (row[6] ?? "").trim();
-    const xHandle = normalizeHandle(row[7] ?? "");
-    const o: Override = {};
-    if (customLabel) o.customLabel = customLabel;
-    if (customTitle) o.customTitle = customTitle;
-    if (customRoast) o.customRoast = customRoast;
-    if (xHandle) o.xHandle = xHandle;
-    if (Object.keys(o).length > 0) {
-      overrides[username] = o;
-      filled++;
+    const xHandle = normalizeHandle(row[7] ?? "") ?? username;
+    const o: Override = { xHandle };
+    if (customLabel && !STALE_TIER_LABELS.has(customLabel)) {
+      o.customLabel = customLabel;
     }
+    if (customTitle && !STALE_TIER_TITLES.has(customTitle)) {
+      o.customTitle = customTitle;
+    }
+    if (customRoast && !STALE_TIER_ROASTS.has(customRoast)) {
+      o.customRoast = customRoast;
+    }
+    overrides[username] = o;
+    filled++;
   }
 
   const outPath = join(__dirname, "..", "data", "overrides.json");

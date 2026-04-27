@@ -1,3285 +1,1850 @@
 {
-  "pulledAt": "2026-04-24T20:03:52.863Z",
+  "pulledAt": "2026-04-27T05:39:26.847Z",
   "count": 608,
   "byUsername": {
     "3188": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "RrrNFTS"
     },
     "6668": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "0xStrayCat"
     },
     "safz": {
-      "customLabel": "💎 THE GEM EMPEROR",
-      "customTitle": "#1 of the cave",
-      "customRoast": "The cave kneels. You probably haven't touched grass in 2026. We thank you."
+      "xHandle": "crypsaf",
+      "customRoast": "You carry gems on your back… upper body strong, calves still loading. Legendary build."
     },
     "naixbt": {
-      "customLabel": "🔱 PODIUM GEM",
-      "customTitle": "Top 3",
-      "customRoast": "Three of you hold this server up. The other two should sleep sometimes.",
-      "xHandle": "naixbt"
+      "xHandle": "naixbt",
+      "customRoast": "You used to print. Now you just watch others eat. Wen comeback trenchking?"
     },
     "shaq2wade": {
-      "customLabel": "🔱 PODIUM GEM",
-      "customTitle": "Top 3",
-      "customRoast": "Three of you hold this server up. The other two should sleep sometimes.",
-      "xHandle": "shaqxbt"
+      "xHandle": "shaqxbt",
+      "customRoast": "You used to run ordinals and clean up the cave. Now both are abandoned. Wen comeback?"
     },
     "zerachielo": {
-      "customLabel": "⚔️ HALL OF GEMS",
-      "customTitle": "Top 5",
-      "customRoast": "Certified menace. Top 5 out of thousands. Hydrate.",
       "xHandle": "zera_chielo"
     },
     "0xkeet": {
-      "customLabel": "⚔️ HALL OF GEMS",
-      "customTitle": "Top 5",
-      "customRoast": "Certified menace. Top 5 out of thousands. Hydrate.",
-      "xHandle": "keetfarmoor"
+      "xHandle": "keetfarmoor",
+      "customRoast": "You’re a $MEGA whale… but nobody knows what you actually look like. Catfish final boss."
     },
     "vespucci": {
-      "customLabel": "🛡️ ELITE GUARD",
-      "customTitle": "Top 10",
-      "customRoast": "Deca-gem status. Mods fear you, lurkers envy you.",
-      "xHandle": "v3spucc1"
+      "xHandle": "v3spucc1",
+      "customRoast": "Every message lowers the IQ… and you still pulled a baddie. We’re studying this."
     },
     "verabera_": {
-      "customLabel": "🛡️ ELITE GUARD",
-      "customTitle": "Top 10",
-      "customRoast": "Deca-gem status. Mods fear you, lurkers envy you.",
       "xHandle": "verabera_"
     },
     "yash2773": {
-      "customLabel": "🛡️ ELITE GUARD",
-      "customTitle": "Top 10",
-      "customRoast": "Deca-gem status. Mods fear you, lurkers envy you.",
       "xHandle": "yashi_269"
     },
     "tulipxbt": {
-      "customLabel": "🛡️ ELITE GUARD",
-      "customTitle": "Top 10",
-      "customRoast": "Deca-gem status. Mods fear you, lurkers envy you.",
-      "xHandle": "tulipxbt"
+      "xHandle": "tulipxbt",
+      "customRoast": "Gymrat build, sometimes a tard… how are you #9? seems like a skill issue bro."
     },
     "huriiii": {
-      "customLabel": "🛡️ ELITE GUARD",
-      "customTitle": "Top 10",
-      "customRoast": "Deca-gem status. Mods fear you, lurkers envy you.",
       "xHandle": "hurii_i"
     },
     "meiv": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
       "xHandle": "Meivabelle"
     },
     "maxo4im": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
-      "xHandle": "0xMaxBT"
+      "xHandle": "0xMaxBT",
+      "customRoast": "You’re one of gems’ top retards… upgraded the wallet, not the decision-making."
     },
     "tobific": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
-      "xHandle": "tobific"
+      "xHandle": "tobific",
+      "customRoast": "You act like a cute lil retard cat… but we all know you’re a whale that meows."
     },
     "morningstar2603": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
       "xHandle": "MrningSt4rPrinc"
     },
     "cratereth": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
       "xHandle": "tfnnft1"
     },
     "tammy.0210": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
-      "xHandle": "TaammyyLOVELY"
+      "xHandle": "TaammyyLOVELY",
+      "customRoast": "You got the booty, the bags, the conviction… then pucci happened."
     },
     "giannos2991": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
       "xHandle": "0xfarmooooor"
     },
     "vivek3024": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
-      "xHandle": "Gurpreet8413"
+      "xHandle": "Gurpreet8413",
+      "customRoast": "149 waifus in the cave… and you still can’t pull one. Impressive consistency."
     },
     "eliaeth": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
       "xHandle": "Eliacc88"
     },
     "0x069": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
       "xHandle": "xKievery"
     },
     "abdxbt": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
       "xHandle": "Abd4pf"
     },
     "casablvnca": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
       "xHandle": "casablvnca"
     },
     "prisoner.btc": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
       "xHandle": "tyra_asia22250"
     },
     "borgereth": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
-      "xHandle": "borgereth"
+      "xHandle": "borgereth",
+      "customRoast": "You’re locked in like rent’s due… but do you even pay rent?"
     },
     ".foreversauce": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect."
+      "xHandle": "foreversauce__ (suspended)"
     },
     "joestar_san": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
-      "xHandle": "Joestar_sann"
+      "xHandle": "Joestar_sann",
+      "customRoast": "You’re grinding hard… but your aura’s in freefall. Seek help."
     },
     "maskidluffy": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
       "xHandle": "Mask_0009"
     },
     "only__violet": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
-      "xHandle": "only__violet"
+      "xHandle": "only__violet",
+      "customRoast": "You sleep 90% of the time and still outposting everyone. Elite efficiency."
     },
     "emma24_": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
       "xHandle": "wajiha_hussain"
     },
     "lukinzo": {
-      "customLabel": "🪩 INNER CIRCLE",
-      "customTitle": "Top 30",
-      "customRoast": "You type like rent is due tomorrow. Respect.",
       "xHandle": "LukinzoNFT"
     },
     "yeahokay": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them.",
       "xHandle": "derivativesnft"
     },
     "mikeygotbudd": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them.",
-      "xHandle": "mealswithmikeb"
+      "xHandle": "mealswithmikeb",
+      "customRoast": "You grind all day, rolling joints all week… still dining like a Michelin critic at night."
     },
     "xyfer_x": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them.",
-      "xHandle": "xyfer_x"
+      "xHandle": "xyfer_x",
+      "customRoast": "You’re always one gif away from a timeout… still hustling in between. Respect."
     },
     "jake_6969": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them."
+      "xHandle": "jake_6969"
     },
     "cryptogladiator": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them.",
       "xHandle": "jinalpatelcp"
     },
     "jinnieeee_": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them.",
       "xHandle": "Jinnie2222"
     },
     "vjt": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them.",
       "xHandle": "vjtonway"
     },
     "merkyyy.eth": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them.",
-      "xHandle": "Lebron1333080"
+      "xHandle": "Lebron1333080",
+      "customRoast": "You got the style, the vibes… and a soft spot for Moroccan baddies."
     },
     "orlando85": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them."
+      "xHandle": "OrlandoG85"
     },
     "j.a.i": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them.",
       "xHandle": "web3gopal"
     },
     "klabo": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them.",
       "xHandle": "0xklabo"
     },
     "neverthat": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them.",
       "xHandle": "imneverthat"
     },
     "s.tuboofficial": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them.",
       "xHandle": "sims_guru"
     },
     "yoyo_yoyo": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them.",
       "xHandle": "yoyonfts"
     },
     "100xyan": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them.",
       "xHandle": "100xYan"
     },
     "naivewolf": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them.",
       "xHandle": "nftaddictor"
     },
     "_nikesh": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them.",
       "xHandle": "Nikesh68081734"
     },
     "daddiodan": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them."
+      "xHandle": "DaddioDan"
     },
     "_lilmeg_": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them.",
       "xHandle": "MeganThorp9927"
     },
     "pepega2": {
-      "customLabel": "🔮 SHINY GEM",
-      "customTitle": "Top 50",
-      "customRoast": "Solid. Your keyboard has opinions and we like them.",
       "xHandle": "itspepega"
     },
     "0xnico": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "moonboyzzzzz"
     },
     "wandergagas": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "0xwashedup"
     },
     "welcome007": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry."
+      "xHandle": "_welcome007"
     },
     ".shanws": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "Shannlws"
     },
     "megamus_": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "0xMegamus"
     },
     "krou.eth": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "degenakias"
     },
     "berrylockedin": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "RxzeBerry"
     },
     "._bw_.": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "nftbwbw"
     },
     "sternw": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "wilbertowen22"
     },
     "rxxiii": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry."
+      "xHandle": "ionohc"
     },
     "cinimini": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
-      "xHandle": "0xBazinga"
+      "xHandle": "0xBazinga",
+      "customRoast": "Active gemrat, waifu energy… and still outswimming safz."
     },
     "attract_": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "HereFromFuture"
     },
     "largee": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "largee_eth"
     },
     "zoltarzeus": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry."
+      "xHandle": "ZOLTARZEUS"
     },
     "blur69": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "Standin_blur"
     },
     "hodinkee": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "trippysmols"
     },
     "dusanft": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
-      "xHandle": "DusaNFT"
+      "xHandle": "DusaNFT",
+      "customRoast": "You bot the mints, keep it fun… and quietly print for the cave."
     },
     "exoticdoggo": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "DoggoExotic"
     },
     "blackmafia.": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "Papercharlison"
     },
     "redphishbishopdonjuandelanooch": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "RedPhishery"
     },
     "junenfts": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "Junenfts"
     },
     "sidhu0001": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "Sidhu1313Sidhu"
     },
     "meowythegreat": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry."
+      "xHandle": "MeowyTheGreat"
     },
     "ssjnino": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry."
+      "xHandle": "ninoqomm"
     },
     "bunnykins.eth": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
-      "xHandle": "bunnykins_eth"
+      "xHandle": "bunnykins_eth",
+      "customRoast": "Always cooking… Waifu flipping NFTs like it’s a full-time job. Respect."
     },
     "sumairkandhari": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "SumairKandhari"
     },
     "logannfts": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry."
+      "xHandle": "LoganNfts"
     },
     "leyuniverse": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry."
+      "xHandle": "ley_universe"
     },
     "parkernft": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
-      "xHandle": "nftpeterparker"
+      "xHandle": "nftpeterparker",
+      "customRoast": "Gym every day, selfie every set… best baldie in the cave."
     },
     "0xaray": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "EdLearn3"
     },
     "__emi__": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "MacroOwl"
     },
     "vazom": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "CryptoSillican"
     },
     "natt369": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "Natt_369_"
     },
     "majdi": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "Myalt_alt"
     },
     "0xnftmagician": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry."
+      "xHandle": "0xMagicman"
     },
     "pepewest19": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry."
+      "xHandle": "sup_pep"
     },
     "nothing.avax": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "0xnothing101"
     },
     "itsuwari": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "nonakatsui"
     },
     "lordderf": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry."
+      "xHandle": "defiderf"
     },
     "skyyfetti": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry."
+      "xHandle": "skyyfettiNFT"
     },
     "gobelz.eth": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "santikimo_"
     },
     "shonari": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "imShonari"
     },
     "solsal0": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "SolSal9406"
     },
     "aloominati": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "neela_pani"
     },
     "0xdelo": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "hynynft"
     },
     "kanenas1312": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "Kanenas_1312"
     },
     "lenim": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "Iguana_Mojada"
     },
     "meowing4usdc": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "sazorxbt"
     },
     "mohsin_mj": {
-      "customLabel": "🧿 CAVE REGULAR",
-      "customTitle": "Top 100",
-      "customRoast": "Mid-tier royalty. You show up, you shine, you carry.",
       "xHandle": "Akio283271"
     },
     "jennn_sol": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "jennn_sol"
     },
     "degensnail": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "dgnsnail"
     },
     "jjarrad": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "jjarrad_187"
     },
     "niwde.eth": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "niwde_tan"
     },
     "raedinweb3": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "Raedinweb3"
     },
     "masteryayoco": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "MasterYayoco22"
     },
     "tvs11": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "TVS11_07"
     },
     "mrpotatojr": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "MrPot4toJr"
     },
     "anadel1565": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "Anastasis_Delta"
     },
     "maryyyless": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "maryyyless"
     },
     "laulau_eth": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "laumvar"
     },
     "emjayrentarou": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "emjayrntr"
     },
     "caliwu": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "calistawu"
     },
     ".tinkss": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "Jtink_NFT"
     },
     "brokepear": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "BrokePear"
     },
     "agenthunt": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "durga1996"
     },
     "0xmakcy": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "witches0x"
     },
     "kento3yyy": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "kentocious_"
     },
     "mikesnft": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "mealswithmikeb"
     },
     "ar_kotfw": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "Riru2024"
     },
     "sneakyninjapants": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "SneakyninjaNFTs"
     },
     "theonlynessie": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "TheOnlyNessie"
     },
     "ramon.1": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "ramon_c_t"
     },
     "gujju_76": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "GUJJUIIXI"
     },
     "999.eth": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "_Reezo_"
     },
     "kjblockchain": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "papadegen1"
     },
     "neji.eth": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "nejixbt"
     },
     "h3llplanet": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "H3llPlanet"
     },
     "tp0637": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "tbtphaha"
     },
     "vvvv": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "boostybabies"
     },
     "denny.v2": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "alphaddicted1"
     },
     "hoponopono.": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "hoponopon0"
     },
     "saka_algo": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "saka_Algo"
     },
     "castronft36": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "castronft36"
     },
     "liat9091": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "MariaOr8900"
     },
     "xxman2001": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "leshthelove"
     },
     "panorom": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "PANOROM1883"
     },
     "darius.art": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "darius_026"
     },
     "_btr": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "_btr"
     },
     "bluetiger1": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "__GarciaChris"
     },
     "mbk77": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "araredegen"
     },
     "emma1237305": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "GlorytoGlory_21"
     },
     "0xneozz": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "Andrewthedegenn"
     },
     "ninjakeira": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "xninjashadow"
     },
     "bchungha": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "bchungfarmer"
     },
     "captainm0tan": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "0xMotan"
     },
     "emeraldxyzz": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "midoum_"
     },
     "infatuated_simp": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "infatuated_simp"
     },
     "akeem9085": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "Lightdefii"
     },
     "jenevanfts": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "jenevanfts"
     },
     "imshuxp": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "imshuXP"
     },
     "_kate_lv": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "h0lypopo"
     },
     "holypopo": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "babaluga93"
     },
     "vardaan369": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "vardaan369"
     },
     "dimifk": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "dfouk"
     },
     "hamokan": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "OriginalWalkerX"
     },
     "auburn.eth": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "StarryNightx92"
     },
     "dayhon": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "Veindayhon"
     },
     "simeone_01": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "deji_nfts"
     },
     "janika8605": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "OdilionRedon"
     },
     "acbiad": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "LuoNFT"
     },
     "ilias_xyz": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "ilias_xyz"
     },
     "iriwiz": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "TheOneWhiz"
     },
     "kikiidoyouloveme": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "kikiidoyoulovm"
     },
     "lmfaooo": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "martinlch30"
     },
     "abdullahsadiq": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "stupidonchain"
     },
     "alayna5783": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "cryptoqueen_hit"
     },
     "emanuel_teo1": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "TeeLaCream1"
     },
     "hound.eth": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "NFTLobeV"
     },
     "elpolloloco666": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "el_743"
     },
     "penguinpecker": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "penguinpecker1"
     },
     "dreadsong": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "DreadsongSOL"
     },
     "breasting": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "weeniestwee"
     },
     "jc11": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "jctng11"
     },
     ".drvegapunk": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "DrVega_13"
     },
     "badkoi0x": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "0xBadKoi"
     },
     ".captainy": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "WhyCaptainY"
     },
     "chest3rman": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "ch3sterman"
     },
     "atomicfartt": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "atomicfartt"
     },
     "kayzee_dah_great": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "SkabWorks"
     },
     "texi_3": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "texi_3"
     },
     "figgy_bee": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "figgybeep"
     },
     "antonis_atnsarts": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "atnsxbt"
     },
     "dr.vitalikeinstein": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "DrEinstein9999"
     },
     "sol.wolf": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "mr_catai"
     },
     "zhixp_eth": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "zhixp_eth"
     },
     "biggiebtc": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "Biggie_btc"
     },
     "averno": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "HeyAverno"
     },
     "wolfsrain": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "ItsWolfsRain"
     },
     "amineblues": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "Sahcmoilevrai"
     },
     "kaanha_": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "JeffreyARamos"
     },
     "allergictoguac": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "allergictoguac"
     },
     "_0xsunnhi": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "ryan2503_"
     },
     "peymannaderi": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "0XKaiyla"
     },
     "mdeca": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "mdecaeth"
     },
     "whoisash": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "whoisash_sh (suspended)"
     },
     "saytella": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "hinatta1230963"
     },
     "spencerdoteth": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "Kateonchain77"
     },
     "damon0": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "Brodchen0"
     },
     "diamondhands2021": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "DiaHands2021"
     },
     "akisnftcollect": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "doraklipa"
     },
     "majeeed": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "estimable_"
     },
     "nicsynft": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "NicsyNFT"
     },
     "0xvinhpham": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "0xvinhpham"
     },
     "benzwong": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "alphabretz"
     },
     "lordzenith": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "0xLordZenith"
     },
     "justleksa": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "justleksa_"
     },
     "clyxalex": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "ClyxAlex"
     },
     "kaps_24": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "0xKaps"
     },
     "brinab2": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "briannass7"
     },
     "vitoaph": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "VitoApHElite"
     },
     "pixonme": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "JuriRomanov"
     },
     "emmaoce": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "itsemmaoce"
     },
     "uday_04": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "uday_dhorajiya"
     },
     "darhtch": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "darhtch"
     },
     "incrypto": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "1ncrypto"
     },
     ".tole": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "tole_nft"
     },
     "nftdaad": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "Nikolaspap93"
     },
     "catmewn": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "MeowyTheGreat"
     },
     "veraa_tee": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "verah_tee"
     },
     "shinnie.eth": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "LynnWinthrope"
     },
     "n1kiz.": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "xN1k1ta"
     },
     "cryptoinfinite": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "cryptoinfi"
     },
     "gabiocand": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "LaGamercitaNFT"
     },
     "mrhenry.": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "henwyeth"
     },
     "0xpapiaxie": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "0xMistBlade"
     },
     "jossive": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "grownwhalee"
     },
     "nftwidow": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "TheOnlyWidow"
     },
     "drawknife": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "drawknifee"
     },
     "theelazyking": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "TheeLazyKing"
     },
     "saifmr": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "saifmr20"
     },
     "blurschain": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "blurschain"
     },
     "_whateverman_": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "what3verman"
     },
     "aqsaxbt": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "IamAqsaShaikh"
     },
     "0xvalmir": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "0xValmir"
     },
     "junior0x_": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "BlvckNexus"
     },
     "syalirp": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "syalirp"
     },
     "fimmonaci": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "fimmonaci"
     },
     "sataaann": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "0xyonathan"
     },
     "little_hed": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "little_HED"
     },
     "clankak": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "Clankak"
     },
     "nxinja": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "NxnjaProd"
     },
     "mewxxx": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "mewnft"
     },
     "katsu.xbt": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "sienna_nft"
     },
     "cutieace": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "Cutieacee"
     },
     "oscar_here.": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "oscar_here."
     },
     "donpudgy": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "DonPudgy"
     },
     "vi_oh": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "Vi_myao"
     },
     "valopa": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "valopa"
     },
     "13xbt": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "13xbt"
     },
     "custeemade": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "custeemade"
     },
     "notjazii.": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "notjazii"
     },
     "a9gtornedo": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "AGGTORNADO"
     },
     "smittywerbenjaggermanjensen": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "Smitty_xyz"
     },
     "ruledout": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "ruledout_"
     },
     "lancaster.eth": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "_just_wwmins"
     },
     "bitcoin_barry": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "BTC_Barry_"
     },
     "mrhubztick": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "0xMrHubztick"
     },
     "bigcasper": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "BigCasperEth"
     },
     "jampzer": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "Jampzey"
     },
     "stargirl.007": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "ice_bearcute"
     },
     "morsyxbt": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "morsyxbt"
     },
     "honeybunny36": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "accidentalsport"
     },
     "krishh": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "its_krishh_"
     },
     "oldtora": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "oldtora2077"
     },
     "web3_salem": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "web3babe5"
     },
     "real_n3xt": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "N3XTTT"
     },
     "redmartinii": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "redmartiniinft1"
     },
     "waliiidx123": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "0xwalidX"
     },
     "kisuke.eth": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "KisukeNFT"
     },
     "germanpalma": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "Web3German"
     },
     "rohitvaleecha89": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "ValeechaRohit"
     },
     "jacoos": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "JacoosJacoos"
     },
     "byzianna": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "byzianna_"
     },
     "web3.": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "martin96c"
     },
     "sailasar": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "sailasAR_"
     },
     "vladz027": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "vladz027"
     },
     "naskaa_": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "ezzypezzy88"
     },
     "thadream": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "TheDream"
     },
     "0xlungin": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "0xLungin"
     },
     "estridthelion": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "estridthelion"
     },
     "maxuop": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "MaxuOnchain"
     },
     "silentmode101": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "SilentmodeDM"
     },
     "aphkenneth": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "aphkenneth"
     },
     "astr0x.": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "jpg4805"
     },
     "avalanche_xv": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "avalanchexbt"
     },
     "bigfloppaeth": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "BigFloppaEth"
     },
     "proofofely": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "ProofOfEly"
     },
     "jacplayz": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "DOgeNORS"
     },
     "yellowpanther": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "yellowpantherx"
     },
     "nnotmybestwork": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "nnotmybestwork"
     },
     "jpegg.": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "Corker0618"
     },
     "lovagirl1": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "lovagirlv1"
     },
     "cilin.eth": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "1Cilineth"
     },
     "valhist": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "valhist"
     },
     "nemeess": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "nemegiri"
     },
     "ayame2themoon": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "Bluerain1500"
     },
     "maverick.11": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely.",
       "xHandle": "0xMav"
     },
     "bonglo": {
-      "customLabel": "🦇 CAVE DWELLER",
-      "customTitle": "Top 300",
-      "customRoast": "You exist. The gems see you. Barely."
+      "xHandle": "bonglovi"
     },
     "lau_btc": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "lau_btc"
     },
     "xdokusei": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "0xDivine"
     },
     "doc_noonoo": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "doc_noonoo"
     },
     "kerrag": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xKerrag"
     },
     "alineke": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "AlineTweets"
     },
     "nicklaza0202": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0x_NickTheFreak"
     },
     "ngocphat.eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "ngocphat0907"
     },
     "aisudesu": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "Redmoon_nft"
     },
     "sav2222": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Sav2222_"
     },
     "_royale": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "royaaleweb3"
     },
     "ferfer4026": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "ferfer9997"
     },
     "emmainweb": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "emmainweb"
     },
     "0xsjc": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "SJC_web3"
     },
     "ingress0": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "0xIngresso"
     },
     "polkaguy": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "polkaguy"
     },
     "basocqueen": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Basocqueen"
     },
     "bryantheden": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "bryantheden"
     },
     "bigmolove": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "ThugNumber3"
     },
     "0xwildwizard": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xwildwizard"
     },
     "vonderr": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "vonderr"
     },
     "cryptogorilla": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "CryptoGorilla"
     },
     "ibracadabra": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "IbraTheDabra"
     },
     "sc4berz": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "Anjalibist0"
     },
     "reetiti": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "iRiriTee"
     },
     "devilsnarefizz": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "NftFlips"
     },
     "farah__web3": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Farah__web3"
     },
     "uniquesingh": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "uniquesingh__"
     },
     "1dgen_": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "1dgen_"
     },
     "nftplaya": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "PlayaNft"
     },
     "bewise": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "dazzlercoin"
     },
     "ababy_yuumi": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "yuumizoomi"
     },
     "fxyo": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "kingfxyo"
     },
     "edeyow": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "edeyow"
     },
     "imaginarykaiju2020": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "sikander69"
     },
     "pepeknight": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "may_tohoku"
     },
     "lady.whistledown": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "NFTWhistledown"
     },
     "0xlucy": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "luciasilasi"
     },
     "alka_holic": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "MommyAlkaholic"
     },
     "annienftt": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "AnnieNFTT"
     },
     "anda765": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "anda765"
     },
     "bubits": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "bubits_"
     },
     "ge.eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "GuarEmperor"
     },
     "skorm1700": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "SKORM1700"
     },
     ".mcg.": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "mcgeth"
     },
     "eth_apple": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "eth_apple"
     },
     "breyonchain": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "breyonchain"
     },
     "bamboo_eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "BambooADND"
     },
     "imjuanito": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "xjuanito"
     },
     "feyaaa": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "feya0167"
     },
     "davt97": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "Elonagress"
     },
     "mh17x": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "cryptozeusy"
     },
     "andyd_andrea": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "andydunks85"
     },
     "spoder0": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "SpMan06"
     },
     "0atmilknft": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "matchayuma"
     },
     "0xsodapop": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "0xSpop"
     },
     "advaith.": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "advaith"
     },
     "nnevvessss": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "nnevvesss"
     },
     "loshmi": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "loshmi"
     },
     "telcier": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "telcier"
     },
     "ecki9317": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Iamecki"
     },
     "martmobile": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "MartKAD"
     },
     "ryojineth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "ryojindevs"
     },
     "masterchief": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "MasterChiefNFTs"
     },
     "belle193": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "bellew193"
     },
     "shimkey": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "shrimbi"
     },
     "xai.eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Xai_eth"
     },
     "huseyin1tekin": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "huseyin1tekin"
     },
     "w_": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
-      "xHandle": "JustWallss"
+      "xHandle": "0xxW_"
     },
     "h4mze": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Hamze_NFT (suspended?)"
     },
     "narcissisticpenguin": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "amit0xic"
     },
     "pinkz": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "Pinkz2903"
     },
     "alt_sho": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "alt_sho"
     },
     "galileowil": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "galileowilson"
     },
     "0xrickey": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "rickeynfteth"
     },
     "beka.s": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "Lilitchinn"
     },
     "thegreatola": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "thegreatola"
     },
     ".tut.": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "Tuteth_"
     },
     "shelleymae": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "shelleymaeph"
     },
     "astornia": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "TheAstornia"
     },
     "techie.eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "0xTechie_"
     },
     "metagandhi": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "MetaGandhi_"
     },
     "hillarybabygirl": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xHillaryBae"
     },
     "treeonchain": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "treeonchain"
     },
     "blanka.ord": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "blankabtc"
     },
     "riceriddler": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "RiceRiddler"
     },
     "bitdemon": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "tothedemon"
     },
     "theo2k2": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "theo2k2_"
     },
     "mici626": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "necrymancer"
     },
     "wataminoodles": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "wataminoodles"
     },
     "0xhades_": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xhades_"
     },
     "ig.nft": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "ignft_"
     },
     "lissanft2021": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "Sejak2021"
     },
     "tma420.eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Tma_420"
     },
     "zaff_nft": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "zaff_nft"
     },
     "ashrobin": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "ashrobin"
     },
     "0xabhip": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xAbhiP"
     },
     "sofiacryptovibe": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "SofiaCryptoVibe"
     },
     "calebunity": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "CalebUnity_"
     },
     "hellrokr": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Hellrokr_eth"
     },
     "hm_web3": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "hm_web3"
     },
     "haqa": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "TheHaQa"
     },
     "alina_anto": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "alina_anto"
     },
     "jave_gg": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "jave_gg"
     },
     "0xltr": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "maybeltr"
     },
     "realrains.eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "r_rainss"
     },
     "web3ec": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "eclcrypto"
     },
     "conflcts": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "conflcts"
     },
     "sina6641": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xSinnabon"
     },
     "leraarni": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "nifferaeth"
     },
     "cape": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "heycape_"
     },
     "yakuzadaddy.": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "YakuzaDaddy"
     },
     "boltxbt": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "BoltXBT"
     },
     "vee_lovennft": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "vee_lovennft"
     },
     "triples": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "triples_eth"
     },
     "mctyasha": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "McTyasha"
     },
     "zaimiri": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "zaimiri"
     },
     "fbispecialagentmulder": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "fbispecialagentmulder"
     },
     "br4ted": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "BR4ted"
     },
     "nadirnfts": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Nadir_Nfts"
     },
     "ironspiderxbt": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "ironspiderXBT"
     },
     "0xitsleo": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xitsLEO"
     },
     "majdse": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "majdse"
     },
     "chainriffs": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Chainriffs"
     },
     "moh1sh": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "moh1shh"
     },
     "nftboi": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "nftboi_"
     },
     "cancerplayer": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Cancer_sats"
     },
     "jade_defi": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "jade_defi"
     },
     "thatguyjay.eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "thatguyjaygl"
     },
     "joeb0749": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "BetmanJoe"
     },
     "supraevm": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "supraEVMv2"
     },
     "seifx0": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Seifx0"
     },
     "gclol": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "bribe"
     },
     "boquet1137": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "MsF0m0"
     },
     "imgroot": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "ImGroot66"
     },
     "artmcarty": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "ArtMcArty"
     },
     "themansion_eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "themansion_eth"
     },
     "arinamaycry": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "arinamaycry"
     },
     "arcane707": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "arcane707"
     },
     "0xcobrax0": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "CryptaCobra"
     },
     "antone.": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "CryptoPrans"
     },
     "levinotackerman": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "LeviNotAckerman"
     },
     "harassment": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xHarassment"
     },
     "jazzmania1": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "prodbyJazzmania"
     },
     "toriribolla": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "ToriRibolla"
     },
     "sixpaths": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0x6Paths"
     },
     "chacha9198": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "orion_leora"
     },
     "dilaw06": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "dilaw006"
     },
     "joestar83": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "JoestarCrypto"
     },
     "itsjowe": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "im_jowee"
     },
     "bitcoin_": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "TheRTg0d"
     },
     ".angelicwaves": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "nomoreangelwave (suspended)"
     },
     "alyssaonchain": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "alyssaonchain"
     },
     "ryannnsmit": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "ryannnsmit"
     },
     "microglia": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "microglia_8888"
     },
     "kibahjoseph": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "KibahJoseph"
     },
     "yumipeixuan": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "yumipeixuan"
     },
     "miaastreams": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "miaastreams"
     },
     "nastenkkkkkka": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Nastenkkkkkkkka"
     },
     "iamwenmun": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "iamwenmun"
     },
     "thotcoin": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "NonFungiblThot"
     },
     "sofiial": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xSofiya"
     },
     "carisne": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "carisneeth"
     },
     "ghayzal.sol": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "ghayzal_sol"
     },
     "camol": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "camolNFT"
     },
     "mentionlux": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "MentionLux"
     },
     "9fstudiox": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "9FStudioArt"
     },
     "t.e.d.": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "TED3166"
     },
     "maven.eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xmaveneth"
     },
     "pauluz93": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "PauluzRFRM"
     },
     "mdmadeit": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "mdmadeit"
     },
     "smx_pfkw": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xHeisenbruh"
     },
     "0x_des": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0x_Des"
     },
     "rollingpinkpanda": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "rollinpinkpanda"
     },
     "haifa.m29": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Hafo1991"
     },
     "ffv12": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "FFVV1211"
     },
     "luidji": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "imluidji"
     },
     "notyano": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xYano"
     },
     "mojito888": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "MojitoNft"
     },
     "tapevol_eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "tapevol_off"
     },
     "menace9307": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "NFTsAreNice"
     },
     "onogiri": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "not_onogiri"
     },
     "ibw_mamba": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "IBW_Mamba"
     },
     "jasich": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "thejasich"
     },
     "phynphyn": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "morphPOGdot23"
     },
     "merheb": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "merheb"
     },
     "zubairey": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Zubairey0"
     },
     "0xkovach": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xkovv"
     },
     "zerocool": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "zerocool_OG"
     },
     "d3genm0nk": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "degendemon"
     },
     "b4kenny": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "b4kenny"
     },
     "miagia": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "miagia"
     },
     "pyrocapital": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "PyroNFT"
     },
     "adegaloyan": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Adelina_Galoyan"
     },
     "sebss": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "sebbsssss"
     },
     "anling420_40157": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "motherofqianbei"
     },
     "veritynfts": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "veritynfts"
     },
     "monwor": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "monoworm"
     },
     "pancakesyrup_": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "PancakeSyrupNFT"
     },
     "azflin": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "AzFlin"
     },
     "mooney_": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "mooneyy"
     },
     "ruthybuilds": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "ruthybuilds"
     },
     "epsy5": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Epsy_eth"
     },
     "enesonchain": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "enesonchain"
     },
     "shivst3r": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "shivst3r"
     },
     "maverick23.eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "maverick23NFT"
     },
     "masterjan": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "masterjan_"
     },
     "cindytypes": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "cindytypes"
     },
     "jjangbang": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "JJangBang429"
     },
     "degenonly": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Only1temmy"
     },
     "openthefridge": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "openthefridge"
     },
     "0xkirara": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xKirara"
     },
     "ryandcrypto": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "ryandcrypto"
     },
-    "mick3y.": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+    "nftmani_eth": {
+      "xHandle": "mickeyhardy"
     },
     "manieth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "NFTMani_eth"
     },
     "0xemly": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xEmly"
     },
     "leegendary.eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xleegenz"
     },
     "icrazyteddy": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "iCrazyTeddy"
     },
     "pixieinparadise": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "pixieinparadise"
     },
     ".ali11111": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "mrtippinson"
     },
     "mastermurdoch": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "TheGodMurdoch"
     },
     "brommy": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "brommmyy"
     },
     "mustydiapers": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "MustyDiapers"
     },
     "shiftymunkey": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "ShiftyMunkey9"
     },
     "0xchar": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xChar"
     },
     "0xminaa": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "minstrell_"
     },
     "buttrmytoast": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "buttr_my_toast"
     },
     "billionaire": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "billioonaire"
     },
     "crypticno": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "notcrypticno"
     },
     "benjamincrypto": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "1stBenjaNAD"
     },
     "elenaaeth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Elenism"
     },
     "mickross": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward.",
       "xHandle": "mickross_"
     },
     "gozyy_world": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "gozyy_world"
     },
     "0xvesty": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xvesty"
     },
     "0xbigmeth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xbigm7"
     },
     "senemonchain": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "senemonchain"
     },
     "iamrav3n": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "HeIsRav3n"
     },
     "tulkas.eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "tulkas"
     },
     "ssheyii": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "ssheyii"
     },
     "mickele.eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "IdMintThat"
     },
     "shimal2i": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Shimal2i_eth"
     },
     "icedv60": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "icedv60"
     },
     "pixnmsanvm": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "pixnvm"
     },
     "floridapearl": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "floridapearl_"
     },
     "bawsa": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "BawsaXBT"
     },
     "cryptovalley": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "CValley_"
     },
     "blooper0_": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "bloop_sol"
     },
     "tequilawaifu": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xtequilaa"
     },
     ".camski.": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "camski"
     },
     "sanza.eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "sanza"
     },
     "0xinuarashi": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xInuarashi"
     },
     "bensage": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "bensage"
     },
     "hydrazeocb": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Hydraze420"
     },
     "kaiski.eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "kaiski_eth"
     },
     "n0v4t0": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "jgonzalezferrer"
     },
     "kattt_ordinals": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "kattt_ordinals"
     },
     "jyp": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "jyp_nft"
     },
     "swannynft_": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "swandogs"
     },
     "themafiaboss69": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "themafiaboss420"
     },
     "joeyvowels": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "joeyvowels"
     },
     "skylineeth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "SkylineETH"
     },
     "topdog2222": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Topdog2222_"
     },
     "captainck.eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "CaptainCKeth"
     },
     "ceaser26": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "polkapheen"
     },
     "chandog": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "thechandog"
     },
     "realthikst": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "realthikst"
     },
     "nissue": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "n1ssue"
     },
     "sanjaybuilds": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "sanjaybuilds_"
     },
     "theboggartt": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "TheBoggartt"
     },
     "lexiksss": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "lexii_eth"
     },
     "westfure": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xwestfury"
     },
     "treboomin": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "trebooomin"
     },
     "xeer": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "xeer"
     },
     "lunarfang_416": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "lunarfang_416"
     },
     "dewku": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "CountDewKu"
     },
     "binniesbinnies": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "alienstolemytea"
     },
     "nftaura": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "NFTAura"
     },
     "mr_hmmm.": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Mr_HmmmNFT"
     },
     "its_sgar": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "its_sgar"
     },
     "0xbreadguy": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "bread_"
     },
     "eman.eth.": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Eman_sol_"
     },
     "queenmoon1337": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "queenmoon1337"
     },
     "osten.m": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "_osten"
     },
     "dylanshub": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "dylanshub_"
     },
     "0xphil": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "PhilOnChain"
     },
     "soniiii___": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "nimonoo1970"
     },
     "hustlepedia": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Hustlepedia"
     },
     "raar3s": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "RaAres"
     },
     "hunisan": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "huni_crypto"
     },
     "alexmarks3d": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "alexmarks3D"
     },
     "arcanic.eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Arcanic"
     },
     "estefano.eth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "estefano.eth"
     },
     "kaspiygoldking": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Kaspiy"
     },
     "langerius": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Langerius"
     },
     ".kokobean.": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "_kokobean"
     },
     "alexabelonix": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "alexabelonix"
     },
     "fadedwealth": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "youfadedwealth"
     },
     "starplatinum0915": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "StarPlatinum_"
     },
     "joeymooose": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "JoeyMoose"
     },
     "jdothamilton": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "JdotHamilton"
     },
     "zxbt": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "zacxbt"
     },
     "chr0nicle": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Chr0nicle"
     },
     "nftvai": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "NFTVai"
     },
     "cryptousopp_": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "Usoppu"
     },
     "69moritz69": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "onchainmo"
     },
     "meta_alchemist": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "meta_alchemist"
     },
     "dith": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "0xDith"
     },
     "web3honey": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "web3_honey"
     },
     "sei.bando": {
-      "customLabel": "🫥 GHOST GEM",
-      "customTitle": "300+ (certified lurker)",
-      "customRoast": "Lurker energy confirmed. Say something, coward."
+      "xHandle": "bandosei"
     }
   }
 }
