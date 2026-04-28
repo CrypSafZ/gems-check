@@ -119,7 +119,7 @@ export function StatCard({
                 alt=""
                 width={88}
                 height={88}
-                className="rounded-full gem-glow"
+                className="rounded-full"
                 priority
               />
             </div>
