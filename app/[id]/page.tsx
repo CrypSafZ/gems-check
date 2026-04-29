@@ -113,9 +113,6 @@ export default async function CheckPage({ params }: PageProps) {
           <span className="text-violet-300">𝕏</span>
           <span>@0xAlphaGEMs</span>
         </a>
-        <div className="text-[10px] font-mono uppercase tracking-[0.2em] text-lavender/50">
-          gems-check.lol
-        </div>
       </footer>
     </main>
   );
