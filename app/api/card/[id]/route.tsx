@@ -213,7 +213,7 @@ export async function GET(
                   >
                     {displayName}
                   </div>
-                  {override?.xHandle && (
+                  {override?.xHandle && !override.xHandleAuto && (
                     <div
                       style={{
                         display: "flex",

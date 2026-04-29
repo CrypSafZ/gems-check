@@ -40,7 +40,8 @@ export function StatCard({
   const baseTier = tierForRank(member?.rank ?? null);
   const tier = applyOverride(baseTier, override);
   const isNotAGem = !member;
-  const xHandle = override?.xHandle;
+  const xHandle =
+    override?.xHandle && !override.xHandleAuto ? override.xHandle : undefined;
 
   if (isNotAGem) {
     return (

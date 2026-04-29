@@ -15,7 +15,10 @@ interface Override {
   customTitle?: string;
   customRoast?: string;
   xHandle?: string;
+  xHandleAuto?: boolean;
 }
+
+const RESERVED_KEYS = new Set(["__proto__", "prototype", "constructor"]);
 
 function normalizeHandle(raw: string): string | undefined {
   const trimmed = raw.trim();
@@ -85,17 +88,22 @@ function main() {
   const parsed = JSON.parse(out);
   const rows: string[][] = parsed.values ?? parsed ?? [];
 
-  const overrides: Record<string, Override> = {};
+  const overrides: Record<string, Override> = Object.create(null);
   let filled = 0;
+  let autoHandles = 0;
 
   for (const row of rows) {
     const username = (row[0] ?? "").trim().toLowerCase();
     if (!username) continue;
+    if (RESERVED_KEYS.has(username)) continue;
     const customLabel = (row[4] ?? "").trim();
     const customTitle = (row[5] ?? "").trim();
     const customRoast = (row[6] ?? "").trim();
-    const xHandle = normalizeHandle(row[7] ?? "") ?? username;
-    const o: Override = { xHandle };
+    const verifiedHandle = normalizeHandle(row[7] ?? "");
+    const o: Override = verifiedHandle
+      ? { xHandle: verifiedHandle }
+      : { xHandle: username, xHandleAuto: true };
+    if (!verifiedHandle) autoHandles++;
     if (customLabel && !STALE_TIER_LABELS.has(customLabel)) {
       o.customLabel = customLabel;
     }
@@ -125,6 +133,7 @@ function main() {
 
   console.log(`✅ Wrote ${outPath}`);
   console.log(`   ${filled} members with overrides / x_handle`);
+  console.log(`   ${autoHandles} fallback (xHandleAuto) — no link rendered until verified`);
 }
 
 main();

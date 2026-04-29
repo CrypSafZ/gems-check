@@ -9,8 +9,37 @@ import type {
   SnapshotMeta,
 } from "./types";
 
-const snapshot = snapshotJson as Snapshot;
-const overrides = overridesJson as OverridesFile;
+const EMPTY_SNAPSHOT: Snapshot = {
+  meta: { exportedAt: "", totalMembers: 0, rankedMembers: 0 },
+  roles: {},
+  members: [],
+};
+const EMPTY_OVERRIDES: OverridesFile = {
+  pulledAt: "",
+  count: 0,
+  byUsername: {},
+};
+
+function loadSnapshot(): Snapshot {
+  const raw = snapshotJson as Partial<Snapshot> | null | undefined;
+  if (!raw || !Array.isArray(raw.members) || !raw.meta || !raw.roles) {
+    console.warn("[gems-check] snapshot.json malformed — serving empty dataset");
+    return EMPTY_SNAPSHOT;
+  }
+  return raw as Snapshot;
+}
+
+function loadOverrides(): OverridesFile {
+  const raw = overridesJson as Partial<OverridesFile> | null | undefined;
+  if (!raw || !raw.byUsername || typeof raw.byUsername !== "object") {
+    console.warn("[gems-check] overrides.json malformed — no overrides applied");
+    return EMPTY_OVERRIDES;
+  }
+  return raw as OverridesFile;
+}
+
+const snapshot = loadSnapshot();
+const overrides = loadOverrides();
 
 const byId = new Map(snapshot.members.map((m) => [m.id, m]));
 const byUsername = new Map(

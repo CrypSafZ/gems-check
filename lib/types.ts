@@ -63,6 +63,7 @@ export interface MemberOverride {
   customTitle?: string;
   customRoast?: string;
   xHandle?: string;
+  xHandleAuto?: boolean;
 }
 
 export interface OverridesFile {
