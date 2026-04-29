@@ -45,6 +45,20 @@ export const metadata: Metadata = {
     title: "GEM Unemployment checker — are you a gem?",
     description: "Check your AlphaGEMs Discord stats and share your card.",
     type: "website",
+    images: [
+      {
+        url: "/api/og",
+        width: 1200,
+        height: 675,
+        alt: "GEM Unemployment checker — Made by @0xAlphaGEMs",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "GEM Unemployment checker — are you a gem?",
+    description: "Check your AlphaGEMs Discord stats and share your card.",
+    images: ["/api/og"],
   },
 };
 
