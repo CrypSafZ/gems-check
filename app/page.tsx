@@ -3,6 +3,7 @@ import { GemLogo } from "@/components/GemLogo";
 import { getMeta } from "@/lib/lookup";
 import { formatDate, formatNumber } from "@/lib/utils";
 import Link from "next/link";
+import { Trophy } from "lucide-react";
 
 const PREVIEW_QUERIES = [
   "safz",
@@ -48,6 +49,14 @@ export default function Home() {
         </div>
 
         <SearchBar />
+
+        <Link
+          href="/leaderboard"
+          className="inline-flex items-center gap-2 px-5 py-3 rounded-xl bg-gradient-to-br from-violet-500/40 to-fuchsia-600/40 ring-1 ring-violet-300/40 text-gem-white text-sm font-semibold hover:from-violet-500/60 hover:to-fuchsia-600/60 transition-all duration-200"
+        >
+          <Trophy className="w-4 h-4" aria-hidden="true" />
+          View GEMs Leaderboard
+        </Link>
 
         <div className="flex flex-col items-center gap-3 mt-4">
           <span className="text-[10px] uppercase tracking-[0.25em] text-lavender/50 font-mono">

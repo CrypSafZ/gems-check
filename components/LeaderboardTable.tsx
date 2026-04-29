@@ -97,7 +97,7 @@ export function LeaderboardTable({ rows }: Props) {
             return (
               <li
                 key={member.id}
-                className="grid grid-cols-[48px_1fr] md:grid-cols-[60px_minmax(180px,1.2fr)_minmax(140px,0.9fr)_90px_110px_90px_minmax(160px,1.5fr)] gap-3 px-4 py-3 hover:bg-violet-500/8 transition-colors items-center"
+                className="grid grid-cols-[44px_1fr_auto] md:grid-cols-[60px_minmax(180px,1.2fr)_minmax(140px,0.9fr)_90px_110px_90px_minmax(160px,1.5fr)] gap-3 px-4 py-3 hover:bg-violet-500/8 transition-colors items-center"
               >
                 <span className="text-sm font-mono font-bold text-violet-200 tabular-nums">
                   #{member.rank}
@@ -119,14 +119,23 @@ export function LeaderboardTable({ rows }: Props) {
                     <div className="text-sm font-bold text-gem-white truncate group-hover:text-violet-200 transition-colors">
                       @{member.username}
                     </div>
-                    {member.displayName &&
-                      member.displayName !== member.username && (
-                        <div className="text-[11px] font-mono text-lavender/60 truncate">
-                          {member.displayName}
-                        </div>
-                      )}
+                    <div className="flex items-center gap-2 text-[11px] font-mono text-lavender/70 truncate">
+                      {member.displayName &&
+                        member.displayName !== member.username && (
+                          <span className="truncate">{member.displayName}</span>
+                        )}
+                      <span className="md:hidden text-violet-200/80 tabular-nums">
+                        · {formatNumber(member.msgAll)} msgs
+                      </span>
+                    </div>
                   </div>
                 </Link>
+
+                <div className="md:hidden text-right text-[11px] font-mono text-lavender/70 tabular-nums">
+                  {formatJoined(
+                    override?.customJoinedAt?.trim() || member.joinedAt,
+                  )}
+                </div>
 
                 <div className="hidden md:block min-w-0">
                   {xHandle ? (
