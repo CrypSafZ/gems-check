@@ -90,8 +90,9 @@ export async function GET(
   const subLine = member
     ? `rank #${member.rank} of ${formatNumber(meta.totalMembers)}`
     : "Not found in the cave";
-  const joinedLine = member
-    ? `Member since ${new Date(member.joinedAt).toLocaleDateString("en-US", {
+  const effectiveJoinedAt = override?.customJoinedAt?.trim() || member?.joinedAt;
+  const joinedLine = effectiveJoinedAt
+    ? `Member since ${new Date(effectiveJoinedAt).toLocaleDateString("en-US", {
         month: "short",
         day: "numeric",
         year: "numeric",

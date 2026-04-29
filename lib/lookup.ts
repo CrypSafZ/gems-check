@@ -1,5 +1,6 @@
 import snapshotJson from "../data/snapshot.json";
 import overridesJson from "../data/overrides.json";
+import manualOverridesJson from "../data/manual-overrides.json";
 import type {
   MemberOverride,
   MemberSnapshot,
@@ -41,6 +42,17 @@ function loadOverrides(): OverridesFile {
 const snapshot = loadSnapshot();
 const overrides = loadOverrides();
 
+interface ManualOverridesFile {
+  byUsername?: Record<string, MemberOverride>;
+}
+const manualOverrides: Record<string, MemberOverride> = (() => {
+  const raw = manualOverridesJson as ManualOverridesFile | null | undefined;
+  if (!raw || !raw.byUsername || typeof raw.byUsername !== "object") {
+    return {};
+  }
+  return raw.byUsername;
+})();
+
 const byId = new Map(snapshot.members.map((m) => [m.id, m]));
 const byUsername = new Map(
   snapshot.members.map((m) => [m.username.toLowerCase(), m]),
@@ -64,7 +76,18 @@ export function lookupOverride(
   username: string | undefined | null,
 ): MemberOverride | null {
   if (!username) return null;
-  return overrides.byUsername[username.toLowerCase()] ?? null;
+  const key = username.toLowerCase();
+  const sheet = overrides.byUsername[key];
+  const manual = manualOverrides[key];
+  if (!sheet && !manual) return null;
+  return { ...(sheet ?? {}), ...(manual ?? {}) };
+}
+
+export function effectiveJoinedAt(
+  member: Pick<MemberSnapshot, "joinedAt">,
+  override: MemberOverride | null | undefined,
+): string {
+  return override?.customJoinedAt?.trim() || member.joinedAt;
 }
 
 export function getRoles(ids: string[]): RoleInfo[] {

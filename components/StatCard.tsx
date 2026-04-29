@@ -158,7 +158,8 @@ export function StatCard({
                 {`Rank #${member.rank} of ${formatNumber(meta.totalMembers)}`}
               </p>
               <p className="text-[11px] text-lavender/60 font-mono mt-0.5">
-                Member since {formatDate(member.joinedAt)}
+                Member since{" "}
+                {formatDate(override?.customJoinedAt?.trim() || member.joinedAt)}
               </p>
             </div>
           </div>

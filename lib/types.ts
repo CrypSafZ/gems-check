@@ -62,6 +62,7 @@ export interface MemberOverride {
   customLabel?: string;
   customTitle?: string;
   customRoast?: string;
+  customJoinedAt?: string;
   xHandle?: string;
   xHandleAuto?: boolean;
 }

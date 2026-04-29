@@ -1,0 +1,11 @@
+{
+  "_comment": "Manual overrides applied on top of Sheet-pulled overrides. Survives pull-overrides runs.",
+  "byUsername": {
+    "shaq2wade": {
+      "customJoinedAt": "2021-11-01T00:00:00.000Z"
+    },
+    "cratereth": {
+      "customRoast": "Who tf is this Crater?"
+    }
+  }
+}

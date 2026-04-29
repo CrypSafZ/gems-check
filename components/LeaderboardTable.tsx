@@ -56,7 +56,7 @@ export function LeaderboardTable({ rows }: Props) {
 
   return (
     <div className="w-full flex flex-col gap-4">
-      <div className="glass-strong rounded-2xl flex items-center gap-3 px-4 py-3">
+      <div className="rounded-2xl flex items-center gap-3 px-4 py-3 bg-[#15072b]/95 ring-1 ring-violet-300/25 shadow-xl">
         <Search className="w-4 h-4 text-lavender" aria-hidden="true" />
         <input
           type="text"
@@ -75,8 +75,8 @@ export function LeaderboardTable({ rows }: Props) {
         </span>
       </div>
 
-      <div className="glass-strong rounded-2xl overflow-hidden">
-        <div className="hidden md:grid grid-cols-[60px_minmax(180px,1.2fr)_minmax(140px,0.9fr)_90px_110px_90px_minmax(160px,1.5fr)] gap-3 px-4 py-3 text-[10px] font-mono uppercase tracking-[0.18em] text-lavender/70 border-b border-violet-300/10">
+      <div className="rounded-2xl overflow-hidden bg-[#15072b]/95 ring-1 ring-violet-300/25 shadow-2xl">
+        <div className="hidden md:grid grid-cols-[60px_minmax(180px,1.2fr)_minmax(140px,0.9fr)_90px_110px_90px_minmax(160px,1.5fr)] gap-3 px-4 py-3 text-[10px] font-mono uppercase tracking-[0.18em] text-lavender/80 bg-[#1f0b3c]/95 border-b border-violet-300/15">
           <span>Rank</span>
           <span>Member</span>
           <span>X Handle</span>
@@ -86,7 +86,7 @@ export function LeaderboardTable({ rows }: Props) {
           <span>Roles</span>
         </div>
 
-        <ul className="divide-y divide-violet-300/10">
+        <ul className="divide-y divide-violet-300/15">
           {visible.map(({ member, override, roles }) => {
             const xHandle =
               override?.xHandle && !override.xHandleAuto
@@ -151,7 +151,9 @@ export function LeaderboardTable({ rows }: Props) {
                 </div>
 
                 <div className="hidden md:block text-[11px] font-mono text-lavender/70">
-                  {formatJoined(member.joinedAt)}
+                  {formatJoined(
+                    override?.customJoinedAt?.trim() || member.joinedAt,
+                  )}
                 </div>
 
                 <div className="hidden md:block text-right text-sm font-mono font-semibold text-violet-200 tabular-nums">

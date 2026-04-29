@@ -44,10 +44,6 @@ export default function LeaderboardPage() {
           <h1 className="font-display text-3xl sm:text-5xl font-bold text-gem-white leading-tight">
             GEMs <span className="text-violet-300/95 italic">Leaderboard</span>
           </h1>
-          <p className="text-sm sm:text-base text-lavender/80 max-w-xl">
-            Every gem in the cave, ranked by all-time messages. Click any row
-            to see their card.
-          </p>
           <div className="text-[10px] font-mono uppercase tracking-[0.25em] text-lavender/50">
             {formatNumber(meta.totalMembers)} gems · snapshot{" "}
             {formatDate(meta.exportedAt)}
