@@ -71,7 +71,19 @@ export function getRoles(ids: string[]): RoleInfo[] {
   const out: RoleInfo[] = [];
   for (const id of ids) {
     const r = snapshot.roles[id];
-    if (r) out.push(r);
+    if (r) {
+      // 1. Remove anything "ethos" from the roles
+      const name = r.name.toLowerCase();
+      if (
+        name.includes("ethos") ||
+        name.includes("purpleethos") ||
+        name.includes("greenethos") ||
+        name.includes("verified ethos")
+      ) {
+        continue;
+      }
+      out.push(r);
+    }
   }
   out.sort((a, b) => b.position - a.position);
   return out;

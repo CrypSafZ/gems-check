@@ -41,6 +41,7 @@ const ALLOWED_PFP_SOURCES: Array<{
 
 function isAllowedPfpUrl(url: string): boolean {
   try {
+    if (!url) return false;
     const parsed = new URL(url);
     if (parsed.protocol !== "https:") return false;
     return ALLOWED_PFP_SOURCES.some(
@@ -82,6 +83,8 @@ export async function GET(
     "#1a0b2e",
   ];
 
+  const origin = new URL(req.url).origin;
+  const gemLogoSrc = `${origin}/brand/gem.jpg`;
   const safeQuery = query || "unknown";
   const displayName = member ? `@${member.username}` : `@${safeQuery}`;
   const subLine = member
@@ -430,21 +433,32 @@ export async function GET(
                 style={{
                   display: "flex",
                   alignItems: "center",
-                  gap: 16,
-                  padding: "18px 30px",
-                  borderRadius: 999,
-                  background: "#ffffff",
-                  border: "3px solid #ffffff",
-                  color: "#1a0b2e",
+                  gap: 12,
+                  color: "#ffffff",
                   fontWeight: 900,
-                  fontSize: 32,
-                  letterSpacing: 1,
-                  boxShadow:
-                    "0 0 0 8px rgba(255, 255, 255, 0.25), 0 0 48px rgba(255, 255, 255, 0.6), 0 16px 48px rgba(236, 72, 153, 0.5)",
+                  fontSize: 28,
+                  letterSpacing: 0.5,
                 }}
               >
-                <span style={{ color: "#1a0b2e", fontSize: 36 }}>𝕏</span>
-                <span>@0xAlphaGEMs</span>
+                <span style={{ opacity: 0.9 }}>MADE BY</span>
+                <span
+                  style={{
+                    color: "#ffffff",
+                    textShadow: "0 0 15px rgba(255, 255, 255, 0.4)",
+                  }}
+                >
+                  @0XALPHAGEMS
+                </span>
+                <img
+                  src={gemLogoSrc}
+                  width={38}
+                  height={38}
+                  style={{
+                    borderRadius: "50%",
+                    marginLeft: 6,
+                    border: "2px solid rgba(255, 255, 255, 0.8)",
+                  }}
+                />
               </div>
               <div style={{ display: "flex", color: "#a78bfaaa", fontSize: 16 }}>
                 gems-check.lol ·{" "}
@@ -479,6 +493,7 @@ function renderNotAGemCard(
 ): ImageResponse {
   const origin = new URL(req.url).origin;
   const exitSrc = `${origin}/brand/exit-guy.jpg`;
+  const gemLogoSrc = `${origin}/brand/gem.jpg`;
   return new ImageResponse(
     (
       <div
@@ -568,23 +583,36 @@ function renderNotAGemCard(
             style={{
               position: "absolute",
               bottom: 40,
-              right: 56,
+              left: 56,
               display: "flex",
               alignItems: "center",
-              gap: 14,
-              padding: "14px 24px",
-              borderRadius: 999,
-              background: "linear-gradient(135deg, rgba(139, 92, 246, 0.35), rgba(236, 72, 153, 0.25))",
-              border: "2px solid rgba(167, 139, 250, 0.7)",
+              gap: 12,
               color: "#ffffff",
-              fontWeight: 800,
+              fontWeight: 900,
               fontSize: 24,
-              boxShadow: "0 8px 24px rgba(139, 92, 246, 0.4)",
-              fontFamily: "monospace",
+              letterSpacing: 0.5,
+              textTransform: "uppercase",
             }}
           >
-            <span style={{ color: "#ffffff", fontSize: 28 }}>𝕏</span>
-            <span>@0xAlphaGEMs</span>
+            <span style={{ opacity: 0.9 }}>MADE BY</span>
+            <span
+              style={{
+                color: "#ffffff",
+                textShadow: "0 0 15px rgba(255, 255, 255, 0.4)",
+              }}
+            >
+              @0XALPHAGEMS
+            </span>
+            <img
+              src={gemLogoSrc}
+              width={32}
+              height={32}
+              style={{
+                borderRadius: "50%",
+                marginLeft: 4,
+                border: "2px solid rgba(255, 255, 255, 0.8)",
+              }}
+            />
           </div>
         </div>
       </div>

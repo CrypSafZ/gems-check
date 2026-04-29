@@ -46,6 +46,8 @@ export function StatCard({
   if (isNotAGem) {
     return (
       <article
+        id="gem-card"
+        data-gem-card
         className={cn(
           "relative w-full max-w-2xl mx-auto aspect-[16/9] rounded-3xl overflow-hidden glass-strong shadow-2xl ring-2",
           tier.ring,
@@ -82,10 +84,20 @@ export function StatCard({
             </h2>
           </div>
         </div>
-        <footer className="absolute bottom-3 right-4 flex items-center gap-2 text-[10px] font-mono uppercase tracking-[0.2em] text-lavender/60">
-          <span>0xAlphaGEMs</span>
-          <span>·</span>
-          <span>{formatDate(meta.exportedAt)}</span>
+        <footer className="absolute bottom-3 inset-x-4 flex items-center justify-between gap-2">
+          <span className="inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-wide text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.6)]">
+            Made by @0xAlphaGEMs
+            <Image
+              src="/brand/gem.jpg"
+              alt=""
+              width={18}
+              height={18}
+              className="rounded-full ring-1 ring-violet-300/70"
+            />
+          </span>
+          <span className="text-[10px] font-mono uppercase tracking-[0.2em] text-lavender/60">
+            {formatDate(meta.exportedAt)}
+          </span>
         </footer>
       </article>
     );
@@ -93,6 +105,8 @@ export function StatCard({
 
   return (
     <article
+      id="gem-card"
+      data-gem-card
       className={cn(
         "relative w-full max-w-2xl mx-auto rounded-3xl overflow-hidden glass-strong shadow-2xl ring-2",
         tier.ring,
@@ -200,16 +214,25 @@ export function StatCard({
           </div>
         )}
 
-        <footer className="flex items-center justify-between text-[10px] font-mono uppercase tracking-[0.2em] text-lavender/60 pt-1">
+        <footer className="flex items-center justify-between gap-3 pt-1">
           <a
             href="https://x.com/0xAlphaGEMs"
             target="_blank"
             rel="noopener noreferrer"
-            className="hover:text-violet-200 transition-colors font-semibold"
+            className="inline-flex items-center gap-1.5 text-xs sm:text-sm font-bold uppercase tracking-wide text-white hover:text-violet-200 transition-colors"
           >
-            @0xAlphaGEMs
+            <span>Made by @0xAlphaGEMs</span>
+            <Image
+              src="/brand/gem.jpg"
+              alt=""
+              width={20}
+              height={20}
+              className="rounded-full ring-1 ring-violet-300/70"
+            />
           </a>
-          <span>{formatDate(meta.exportedAt)}</span>
+          <span className="text-[10px] font-mono uppercase tracking-[0.2em] text-lavender/60">
+            {formatDate(meta.exportedAt)}
+          </span>
         </footer>
       </div>
     </article>
