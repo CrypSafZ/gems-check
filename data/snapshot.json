@@ -1,7 +1,7 @@
 {
   "meta": {
     "exportedAt": "2026-04-29T10:14:56.598Z",
-    "totalMembers": 610,
+    "totalMembers": 611,
     "rankedMembers": 604
   },
   "roles": {
@@ -17893,6 +17893,24 @@
       "msgAll": 0,
       "voiceMinutes": 1,
       "voiceRank": 625
+    },
+    {
+      "id": "botgemsslave",
+      "username": "gemsslave",
+      "displayName": "Gem's Slave#6100",
+      "pfpUrl": "",
+      "rank": 611,
+      "joinedAt": "2023-04-01T00:00:00.000Z",
+      "roleIds": [
+        "1443755263474532475",
+        "1358838197160771736"
+      ],
+      "msg3d": 0,
+      "msg7d": 0,
+      "msg14d": 0,
+      "msg30d": 0,
+      "msgAll": 0,
+      "voiceMinutes": 0
     }
   ]
 }
