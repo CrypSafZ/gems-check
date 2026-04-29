@@ -19,6 +19,20 @@ interface Props {
 
 const PAGE_SIZE = 100;
 
+const ROLE_FILTERS: { label: string; roleId: string }[] = [
+  { label: "GEM Council", roleId: "1002631773794074714" },
+  { label: "Honorary GEM", roleId: "1047548927894884373" },
+  { label: "GEM Dev", roleId: "1355147695622328389" },
+  { label: "Waifu", roleId: "966049810509611099" },
+  { label: "GEM", roleId: "904383136652222514" },
+  { label: "GEMccess (Temp)", roleId: "1037810361363091486" },
+  { label: "Rock", roleId: "1001618029114830929" },
+  { label: "CummLab", roleId: "1120429080697901066" },
+  { label: "GEM Guest", roleId: "1372527499866804295" },
+  { label: "GEM Boss", roleId: "906043294314823680" },
+  { label: "retard", roleId: "1449052260704194734" },
+];
+
 function formatJoined(iso: string): string {
   const d = new Date(iso);
   return d.toLocaleDateString("en-US", {
@@ -31,12 +45,36 @@ function formatJoined(iso: string): string {
 export function LeaderboardTable({ rows }: Props) {
   const [query, setQuery] = useState("");
   const [page, setPage] = useState(0);
+  const [activeRoles, setActiveRoles] = useState<Set<string>>(new Set());
   const deferred = useDeferredValue(query);
+
+  const roleCounts = useMemo(() => {
+    const counts: Record<string, number> = {};
+    for (const r of ROLE_FILTERS) counts[r.roleId] = 0;
+    for (const { member } of rows) {
+      for (const rid of member.roleIds) {
+        if (rid in counts) counts[rid]++;
+      }
+    }
+    return counts;
+  }, [rows]);
 
   const filtered = useMemo(() => {
     const q = deferred.trim().toLowerCase();
-    if (!q) return rows;
+    const hasRoleFilter = activeRoles.size > 0;
+    if (!q && !hasRoleFilter) return rows;
     return rows.filter(({ member, override }) => {
+      if (hasRoleFilter) {
+        let match = false;
+        for (const rid of member.roleIds) {
+          if (activeRoles.has(rid)) {
+            match = true;
+            break;
+          }
+        }
+        if (!match) return false;
+      }
+      if (!q) return true;
       const handle =
         override?.xHandle && !override.xHandleAuto
           ? override.xHandle.toLowerCase()
@@ -47,7 +85,22 @@ export function LeaderboardTable({ rows }: Props) {
         handle.includes(q)
       );
     });
-  }, [rows, deferred]);
+  }, [rows, deferred, activeRoles]);
+
+  const toggleRole = (roleId: string) => {
+    setActiveRoles((prev) => {
+      const next = new Set(prev);
+      if (next.has(roleId)) next.delete(roleId);
+      else next.add(roleId);
+      return next;
+    });
+    setPage(0);
+  };
+
+  const clearRoles = () => {
+    setActiveRoles(new Set());
+    setPage(0);
+  };
 
   const pageCount = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
   const safePage = Math.min(page, pageCount - 1);
@@ -56,6 +109,49 @@ export function LeaderboardTable({ rows }: Props) {
 
   return (
     <div className="w-full flex flex-col gap-4">
+      <div className="rounded-2xl px-4 py-3 bg-[#15072b]/95 ring-1 ring-violet-300/25 shadow-xl flex flex-col gap-3">
+        <div className="flex items-center justify-between gap-3">
+          <span className="text-[10px] font-mono uppercase tracking-[0.18em] text-lavender/80">
+            Filter by role
+          </span>
+          {activeRoles.size > 0 && (
+            <button
+              type="button"
+              onClick={clearRoles}
+              className="text-[10px] font-mono uppercase tracking-[0.18em] text-rose-300 hover:text-rose-200 transition-colors"
+            >
+              Clear ({activeRoles.size})
+            </button>
+          )}
+        </div>
+        <div className="flex flex-wrap gap-1.5">
+          {ROLE_FILTERS.map((r) => {
+            const active = activeRoles.has(r.roleId);
+            const count = roleCounts[r.roleId] ?? 0;
+            return (
+              <button
+                key={r.roleId}
+                type="button"
+                onClick={() => toggleRole(r.roleId)}
+                className={`inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-[11px] font-mono font-semibold transition-all duration-150 ring-1 ${
+                  active
+                    ? "bg-violet-500/40 text-gem-white ring-violet-300/70 shadow-md"
+                    : "bg-white/5 text-lavender/80 ring-violet-300/20 hover:bg-violet-500/15 hover:text-gem-white"
+                }`}
+              >
+                <span>{r.label}</span>
+                <span
+                  className={`tabular-nums text-[10px] ${
+                    active ? "text-violet-100" : "text-lavender/50"
+                  }`}
+                >
+                  {count}
+                </span>
+              </button>
+            );
+          })}
+        </div>
+      </div>
       <div className="rounded-2xl flex items-center gap-3 px-4 py-3 bg-[#15072b]/95 ring-1 ring-violet-300/25 shadow-xl">
         <Search className="w-4 h-4 text-lavender" aria-hidden="true" />
         <input
