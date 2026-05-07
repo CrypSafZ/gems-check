@@ -6,9 +6,19 @@ import { fileURLToPath } from "node:url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const SHEET_ID = "1-lA9O56XusqvPXt7zR39kh8OwI72s82NFlqlwPxGc-4";
-const RANGE = "Gems!A2:H10000";
-const ACCOUNT = "safzcryp@gmail.com";
+function requiredEnv(name: string): string {
+  const value = process.env[name];
+  if (!value) {
+    throw new Error(
+      `${name} is required. Keep private Sheet IDs/accounts in env vars, not git.`,
+    );
+  }
+  return value;
+}
+
+const SHEET_ID = requiredEnv("GEMS_CHECK_SHEET_ID");
+const RANGE = process.env.GEMS_CHECK_SHEET_RANGE ?? "Gems!A2:H10000";
+const ACCOUNT = requiredEnv("GWS_ACCOUNT");
 
 interface Override {
   customLabel?: string;
@@ -74,14 +84,7 @@ const STALE_TIER_ROASTS = new Set([
 function main() {
   const out = execFileSync(
     "gog",
-    [
-      "sheets",
-      "get",
-      SHEET_ID,
-      RANGE,
-      `--account=${ACCOUNT}`,
-      "--json",
-    ],
+    ["sheets", "get", SHEET_ID, RANGE, `--account=${ACCOUNT}`, "--json"],
     { encoding: "utf8", maxBuffer: 50 * 1024 * 1024 },
   );
 
@@ -133,7 +136,9 @@ function main() {
 
   console.log(`✅ Wrote ${outPath}`);
   console.log(`   ${filled} members with overrides / x_handle`);
-  console.log(`   ${autoHandles} fallback (xHandleAuto) — no link rendered until verified`);
+  console.log(
+    `   ${autoHandles} fallback (xHandleAuto) — no link rendered until verified`,
+  );
 }
 
 main();

@@ -1,67 +1,8 @@
 {
-  "generatedAt": "2026-04-28T20:48:27.966Z",
-  "totals": {
-    "snapshot": 613,
-    "gemsSheet": 608,
-    "alreadyFilled": 596,
-    "toFill": 0,
-    "missing": 9,
-    "notInGemsSheet": 8
-  },
-  "sourceCounts": {
-    "Safio Help / Deduped": 261,
-    "FROGE / GTD": 120,
-    "FROGE / FCFS": 108,
-    "GOBLYNZ / Wallets": 30,
-    "StormRae Raid / Sheet1": 55
-  },
+  "generatedAt": "2026-05-07T12:56:00.000Z",
+  "totals": {},
+  "sourceCounts": {},
   "toFill": [],
-  "missing": [
-    {
-      "username": "jake_6969",
-      "rank": 34
-    },
-    {
-      "username": "_btr",
-      "rank": 141
-    },
-    {
-      "username": "oscar_here.",
-      "rank": 249
-    },
-    {
-      "username": "valopa",
-      "rank": 252
-    },
-    {
-      "username": "vonderr",
-      "rank": 323
-    },
-    {
-      "username": "vee_lovennft",
-      "rank": 415
-    },
-    {
-      "username": "fbispecialagentmulder",
-      "rank": 422
-    },
-    {
-      "username": "icedv60",
-      "rank": 543
-    },
-    {
-      "username": "estefano.eth",
-      "rank": 594
-    }
-  ],
-  "notInGemsSheet": [
-    "figgy_figgz",
-    "guacxo",
-    "chubbo.eth",
-    "urej",
-    "mick3y.",
-    "bigchog67",
-    "ty0xide",
-    "valerie_onchain"
-  ]
+  "missing": [],
+  "notInGemsSheet": []
 }

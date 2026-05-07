@@ -6,9 +6,31 @@ import { fileURLToPath } from "node:url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const ACCOUNT = "safzcryp@gmail.com";
-const MASTER_SHEET_ID = "1-lA9O56XusqvPXt7zR39kh8OwI72s82NFlqlwPxGc-4";
-const MASTER_TAB = "Gems";
+function requiredEnv(name: string): string {
+  const value = process.env[name];
+  if (!value) {
+    throw new Error(
+      `${name} is required. Keep private Sheet IDs/accounts in env vars, not git.`,
+    );
+  }
+  return value;
+}
+
+const ACCOUNT = requiredEnv("GWS_ACCOUNT");
+const MASTER_SHEET_ID = requiredEnv("GEMS_CHECK_SHEET_ID");
+const MASTER_TAB = process.env.GEMS_CHECK_MASTER_TAB ?? "Gems";
+
+type SourceConfig = {
+  id: string;
+  name: string;
+  tab: string;
+  range: string;
+  parser: "usernameDiscordX" | "goblynzWallets" | "stormRae";
+};
+
+const SOURCE_CONFIGS: SourceConfig[] = process.env.GEMS_CHECK_X_HANDLE_SOURCES
+  ? JSON.parse(process.env.GEMS_CHECK_X_HANDLE_SOURCES)
+  : [];
 
 const SOURCES: Array<{
   id: string;
@@ -20,83 +42,51 @@ const SOURCES: Array<{
     discordId?: string;
     xHandle: string;
   }>;
-}> = [
-  {
-    id: "1yzB0p9YWOGRDGQcuRKsblMA6VzabnxAGWJ7Db2HJ4Wo",
-    name: "Safio Help / Deduped",
-    tab: "Deduped",
-    range: "A2:D2000",
-    parse: (rows) =>
-      rows
-        .map((r) => ({
-          username: (r[0] ?? "").trim(),
-          discordId: (r[1] ?? "").trim(),
-          xHandle: normalizeHandle(r[2] ?? ""),
-        }))
-        .filter((r) => r.xHandle),
-  },
-  {
-    id: "1_NyI-RsO6FCDBIlKjQSuIicCwKtdLXNiHkN7TjrR9Jk",
-    name: "FROGE / GTD",
-    tab: "GTD",
-    range: "A2:D2000",
-    parse: (rows) =>
-      rows
-        .map((r) => ({
-          username: (r[0] ?? "").trim(),
-          discordId: (r[1] ?? "").trim(),
-          xHandle: normalizeHandle(r[2] ?? ""),
-        }))
-        .filter((r) => r.xHandle),
-  },
-  {
-    id: "1_NyI-RsO6FCDBIlKjQSuIicCwKtdLXNiHkN7TjrR9Jk",
-    name: "FROGE / FCFS",
-    tab: "FCFS",
-    range: "A2:D2000",
-    parse: (rows) =>
-      rows
-        .map((r) => ({
-          username: (r[0] ?? "").trim(),
-          discordId: (r[1] ?? "").trim(),
-          xHandle: normalizeHandle(r[2] ?? ""),
-        }))
-        .filter((r) => r.xHandle),
-  },
-  {
-    id: "1L2r1UI1eLr9bJnxKD1ph4RxyDDlUHurbbCrRUB_tuiA",
-    name: "GOBLYNZ / Wallets",
-    tab: "Wallets",
-    range: "A1:C2000",
-    parse: (rows) => {
-      // Section headers (GTD / FCFS) and "Discord | X Author | Wallet" headers
-      // appear inline; pure username→X pairs are the rows with handle in col B.
-      const out: Array<{ username: string; xHandle: string }> = [];
-      for (const r of rows) {
-        const username = (r[0] ?? "").trim();
-        const xAuthor = (r[1] ?? "").trim();
-        if (!username || !xAuthor) continue;
-        if (username.toLowerCase() === "discord") continue;
-        const xHandle = normalizeHandle(xAuthor);
-        if (xHandle) out.push({ username, xHandle });
-      }
-      return out;
-    },
-  },
-  {
-    id: "1ZcYsvhcUWMg2isoCWfcizVAGPWIxL3i2PVI9W0xDusA",
-    name: "StormRae Raid / Sheet1",
-    tab: "Sheet1",
-    range: "A2:C2000",
-    parse: (rows) =>
-      rows
-        .map((r) => ({
-          username: (r[1] ?? "").trim(),
-          xHandle: normalizeHandle(r[2] ?? ""),
-        }))
-        .filter((r) => r.xHandle && r.username),
-  },
-];
+}> = SOURCE_CONFIGS.map((source) => ({
+  ...source,
+  parse: parserFor(source.parser),
+}));
+
+function parserFor(parser: SourceConfig["parser"]): (
+  rows: string[][],
+) => Array<{
+  username?: string;
+  discordId?: string;
+  xHandle: string;
+}> {
+  switch (parser) {
+    case "usernameDiscordX":
+      return (rows) =>
+        rows
+          .map((r) => ({
+            username: (r[0] ?? "").trim(),
+            discordId: (r[1] ?? "").trim(),
+            xHandle: normalizeHandle(r[2] ?? ""),
+          }))
+          .filter((r) => r.xHandle);
+    case "goblynzWallets":
+      return (rows) => {
+        const out: Array<{ username: string; xHandle: string }> = [];
+        for (const r of rows) {
+          const username = (r[0] ?? "").trim();
+          const xAuthor = (r[1] ?? "").trim();
+          if (!username || !xAuthor) continue;
+          if (username.toLowerCase() === "discord") continue;
+          const xHandle = normalizeHandle(xAuthor);
+          if (xHandle) out.push({ username, xHandle });
+        }
+        return out;
+      };
+    case "stormRae":
+      return (rows) =>
+        rows
+          .map((r) => ({
+            username: (r[1] ?? "").trim(),
+            xHandle: normalizeHandle(r[2] ?? ""),
+          }))
+          .filter((r) => r.xHandle && r.username);
+  }
+}
 
 function normalizeHandle(raw: string): string {
   const trimmed = (raw ?? "").trim();
@@ -177,7 +167,11 @@ function main() {
     const parsed = src.parse(rows);
     sourceCounts[src.name] = parsed.length;
     for (const p of parsed) {
-      if (p.discordId && /^\d{10,}$/.test(p.discordId) && !byId.has(p.discordId)) {
+      if (
+        p.discordId &&
+        /^\d{10,}$/.test(p.discordId) &&
+        !byId.has(p.discordId)
+      ) {
         byId.set(p.discordId, { handle: p.xHandle, source: src.name });
       }
       if (p.username) {
@@ -193,9 +187,7 @@ function main() {
       .map(([k, v]) => `${k}=${v}`)
       .join(", ")}`,
   );
-  console.log(
-    `  merged: ${byId.size} by-id, ${byUsername.size} by-username\n`,
-  );
+  console.log(`  merged: ${byId.size} by-id, ${byUsername.size} by-username\n`);
 
   // Resolve for each of our 608 members
   const toFill: Array<{
@@ -307,7 +299,10 @@ function main() {
       written++;
       if (written % 25 === 0) console.log(`    ${written}/${toFill.length}`);
     } catch (err) {
-      console.warn(`    ⚠ ${t.username} (row ${t.rowIdx}):`, (err as Error).message);
+      console.warn(
+        `    ⚠ ${t.username} (row ${t.rowIdx}):`,
+        (err as Error).message,
+      );
     }
   }
   console.log(`✅ wrote ${written} cells`);
