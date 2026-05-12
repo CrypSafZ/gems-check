@@ -1,14 +1,2266 @@
 {
-  "pulledAt": "2026-05-07T12:56:00.000Z",
-  "count": 2,
+  "pulledAt": "2026-04-29T03:50:29.707Z",
+  "count": 608,
   "byUsername": {
-    "gem_emperor": {
-      "xHandle": "CrypSaf",
-      "customRoast": "Sample public roast — replace with private data only in deployment env/storage."
+    "3188": {
+      "xHandle": "RrrNFTS"
     },
-    "shiny_gem": {
-      "xHandle": "AlphaGEMs",
-      "customTitle": "Public sample profile"
+    "6668": {
+      "xHandle": "0xStrayCat"
+    },
+    "safz": {
+      "xHandle": "crypsaf",
+      "customRoast": "You carry gems on your back… upper body strong, calves still loading. Legendary build."
+    },
+    "naixbt": {
+      "xHandle": "naixbt",
+      "customRoast": "You used to print. Now you just watch others eat. Wen comeback trenchking?"
+    },
+    "shaq2wade": {
+      "xHandle": "shaqxbt",
+      "customRoast": "You used to run ordinals and clean up the cave. Now both are abandoned. Wen comeback?"
+    },
+    "zerachielo": {
+      "xHandle": "zera_chielo",
+      "customRoast": "Zera cooks, always right, the support, the helper, the cat lover, the rolex watcher"
+    },
+    "0xkeet": {
+      "xHandle": "0xkeet",
+      "customRoast": "You’re a $MEGA whale… but nobody knows what you actually look like. Catfish final boss."
+    },
+    "vespucci": {
+      "xHandle": "v3spucc1",
+      "customRoast": "Every message lowers the IQ… and you still pulled a baddie. We’re studying this."
+    },
+    "verabera_": {
+      "xHandle": "verabera_",
+      "customRoast": "She just yaps, she do absolutely nothing but to bully safz and some gems"
+    },
+    "yash2773": {
+      "xHandle": "yashi_269"
+    },
+    "tulipxbt": {
+      "xHandle": "tulipxbt",
+      "customRoast": "Gymrat build, sometimes a tard… how are you #9? seems like a skill issue bro."
+    },
+    "huriiii": {
+      "xHandle": "hurii_i",
+      "customRoast": "Our HR lady, if you annoy her, she will 100% kick you in the next gem updates, what a cake tho"
+    },
+    "meiv": {
+      "xHandle": "Meivabelle",
+      "customRoast": "She has the biggest forehead in web3, maybe in the world. The dildo lady, we don't know why she exists"
+    },
+    "maxo4im": {
+      "xHandle": "0xMaxBT",
+      "customRoast": "You’re one of gems’ top retards… upgraded the wallet, not the decision-making."
+    },
+    "tobific": {
+      "xHandle": "tobific",
+      "customRoast": "You act like a cute lil retard cat… but we all know you’re a whale that meows."
+    },
+    "morningstar2603": {
+      "xHandle": "MrningSt4rPrinc",
+      "customRoast": "Dancer, gymmer, pure heart, got bullied ton of time, but he still standing"
+    },
+    "cratereth": {
+      "xHandle": "tfnnft1",
+      "customRoast": "Who tf is this guy?"
+    },
+    "tammy.0210": {
+      "xHandle": "TaammyyLOVELY",
+      "customRoast": "You got the booty, the bags, the conviction… then pucci happened."
+    },
+    "giannos2991": {
+      "xHandle": "0xfarmooooor",
+      "customRoast": "This guy is hella gay, and he acts he is not gay, we know he is gay 100%, Ομοφυλόφιλος"
+    },
+    "vivek3024": {
+      "xHandle": "Gurpreet8413",
+      "customRoast": "149 waifus in the cave… and you still can’t pull one. Impressive consistency."
+    },
+    "eliaeth": {
+      "xHandle": "Eliacc88",
+      "customRoast": "What a thief, mf steal for living, he plannig to steal huri and all other gems in gems meet up"
+    },
+    "0x069": {
+      "xHandle": "xKievery",
+      "customRoast": "We don't know this guy"
+    },
+    "abdxbt": {
+      "xHandle": "Abd4pf"
+    },
+    "casablvnca": {
+      "xHandle": "casablvnca",
+      "customRoast": "Safz main pain in the ass, he is dedicated to bully safz like his life depends on it"
+    },
+    "prisoner.btc": {
+      "xHandle": "tyra_asia22250",
+      "customRoast": "This guy cooks, never fade this frog; he kinda retarded tho, but we still like him"
+    },
+    "borgereth": {
+      "xHandle": "borgereth",
+      "customRoast": "You’re locked in like rent’s due… but do you even pay rent?"
+    },
+    ".foreversauce": {
+      "xHandle": "foreversauce__ (suspended)",
+      "customRoast": "This guy cut his finger, gambles all his money, and died. Rip Sauce"
+    },
+    "joestar_san": {
+      "xHandle": "Joestar_sann",
+      "customRoast": "You’re grinding hard… but your aura’s in freefall. Seek help."
+    },
+    "maskidluffy": {
+      "xHandle": "Mask_0009",
+      "customRoast": "Our GEM doc, what a spammer and random weird ass vibes wallahi .."
+    },
+    "only__violet": {
+      "xHandle": "only__violet",
+      "customRoast": "You sleep 90% of the time and still outposting everyone. Elite efficiency."
+    },
+    "emma24_": {
+      "xHandle": "wajiha_hussain",
+      "customRoast": "Our Gemma, she helps everyone, best heart, best spammer"
+    },
+    "lukinzo": {
+      "xHandle": "LukinzoNFT",
+      "customRoast": "Italy lord, he used to have a gf but not anymore, that's why he is locked in now"
+    },
+    "yeahokay": {
+      "xHandle": "yaokxbt",
+      "customRoast": "The cheif meow himself, the lord of all web3 cats"
+    },
+    "mikeygotbudd": {
+      "xHandle": "mealswithmikeb",
+      "customRoast": "You grind all day, rolling joints all week… still dining like a Michelin critic at night."
+    },
+    "xyfer_x": {
+      "xHandle": "xyfer_x",
+      "customRoast": "You’re always one gif away from a timeout… still hustling in between. Respect."
+    },
+    "jake_6969": {
+      "xHandle": "jake_6969",
+      "xHandleAuto": true,
+      "customRoast": "You used to be the GEM rats chad, but you slacking ..."
+    },
+    "cryptogladiator": {
+      "xHandle": "johnlewis381987",
+      "customRoast": "Our Alpha Lord, we like this James harden dude"
+    },
+    "jinnieeee_": {
+      "xHandle": "Jinnie2222",
+      "customRoast": "She used to be GEMbot, but she works in web2 now, good old days nami swan"
+    },
+    "vjt": {
+      "xHandle": "vjtonway",
+      "customRoast": "This guy spams gemeral, but nobody cares about him, just noise, what a life .."
+    },
+    "merkyyy.eth": {
+      "xHandle": "Lebron1333080",
+      "customRoast": "You got the style, the vibes… and a soft spot for Moroccan baddies."
+    },
+    "orlando85": {
+      "xHandle": "OrlandoG85",
+      "customRoast": "DOT took this bald ass guy from us, good old days"
+    },
+    "j.a.i": {
+      "xHandle": "web3gopal",
+      "customRoast": "Blue hair gay ass man"
+    },
+    "klabo": {
+      "xHandle": "0xklabo",
+      "customRoast": "Discord architect, gem slave… then getting cooked on leverage."
+    },
+    "neverthat": {
+      "xHandle": "imneverthat",
+      "customRoast": "Retired solider, we miss this slave"
+    },
+    "s.tuboofficial": {
+      "xHandle": "tuboofficial"
+    },
+    "yoyo_yoyo": {
+      "xHandle": "yoyonfts",
+      "customRoast": "Ukraninans are everywhere, instead of fighting for their country, they spam in discord"
+    },
+    "100xyan": {
+      "xHandle": "100xYan",
+      "customRoast": "Zero filter, no hesitation, always crossing lines. Just how we like it."
+    },
+    "naivewolf": {
+      "xHandle": "naivewolf_",
+      "customRoast": "Our shitcoiner maxi crazy lady wolf"
+    },
+    "_nikesh": {
+      "xHandle": "Nikesh68081734",
+      "customRoast": "He used to dm safz waifu alpha, but not anymore ..."
+    },
+    "daddiodan": {
+      "xHandle": "DaddioDan",
+      "customRoast": "His baldness is unqie, you see it; and you instantly cry"
+    },
+    "_lilmeg_": {
+      "xHandle": "MeganThorp9927",
+      "customRoast": "We mis meg .... Pokemon took her away from us"
+    },
+    "pepega2": {
+      "xHandle": "itspepega"
+    },
+    "0xnico": {
+      "xHandle": "wandergagas"
+    },
+    "wandergagas": {
+      "xHandle": "0xwashedup"
+    },
+    "welcome007": {
+      "xHandle": "_welcome007",
+      "customRoast": "This guys just eats sweets, he is most likely hella fat"
+    },
+    ".shanws": {
+      "xHandle": "Shannlws",
+      "customRoast": "Shan is SafZ's property, no one comes near her please, ty"
+    },
+    "megamus_": {
+      "xHandle": "0xMegamus",
+      "customRoast": "This chud used to sleep in the vc, but now he is dead"
+    },
+    "krou.eth": {
+      "xHandle": "kroueth",
+      "customRoast": "Dusan brother, they both have the same voice, but at least his useful; not like dusan"
+    },
+    "berrylockedin": {
+      "xHandle": "RxzeBerry",
+      "customRoast": "Gem dj by night, grinder by day… femboy with surprisingly elite knowledge."
+    },
+    "._bw_.": {
+      "xHandle": "nftbwbw",
+      "customRoast": "Indy's friend, we don't like him much, FEW..."
+    },
+    "sternw": {
+      "xHandle": "SternitterW"
+    },
+    "rxxiii": {
+      "xHandle": "ionohc"
+    },
+    "cinimini": {
+      "xHandle": "0xCinimini",
+      "customRoast": "Active gemrat, waifu energy… and still outswimming safz."
+    },
+    "attract_": {
+      "xHandle": "HereFromFuture"
+    },
+    "largee": {
+      "xHandle": "largee_eth"
+    },
+    "zoltarzeus": {
+      "xHandle": "ZOLTARZEUS"
+    },
+    "blur69": {
+      "xHandle": "Standin_blur"
+    },
+    "hodinkee": {
+      "xHandle": "trippysmols",
+      "customRoast": "The only guy who saw pucci's dox other than tammy, we need to bully him so he shares the pic"
+    },
+    "dusanft": {
+      "xHandle": "DusaNFT",
+      "customRoast": "You bot the mints, keep it fun… and quietly print for the cave."
+    },
+    "exoticdoggo": {
+      "xHandle": "DoggoExotic",
+      "customRoast": "Our cutest doggo, super talented pianst"
+    },
+    "blackmafia.": {
+      "xHandle": "BlackMafiaNFT"
+    },
+    "redphishbishopdonjuandelanooch": {
+      "xHandle": "TheDonRedPhish",
+      "customRoast": "The fastest typer, he lost his momentum tho, maybe he lost his mind with his rusty ass dumbbells"
+    },
+    "junenfts": {
+      "xHandle": "Junenfts",
+      "customRoast": "She is hot, nobody knows, only safz saw her"
+    },
+    "sidhu0001": {
+      "xHandle": "Sidhu1313Sidhu"
+    },
+    "meowythegreat": {
+      "xHandle": "MeowyTheGreat"
+    },
+    "ssjnino": {
+      "xHandle": "ninoqomm"
+    },
+    "bunnykins.eth": {
+      "xHandle": "bunnykins_eth",
+      "customRoast": "Always cooking… Waifu flipping NFTs like it’s a full-time job. Respect."
+    },
+    "sumairkandhari": {
+      "xHandle": "SumairKandhari"
+    },
+    "logannfts": {
+      "xHandle": "LoganNfts",
+      "customRoast": "Waifus hunter, he plays chess a lot till he lost his mind"
+    },
+    "leyuniverse": {
+      "xHandle": "ley_universe"
+    },
+    "parkernft": {
+      "xHandle": "nftpeterparker",
+      "customRoast": "Gym every day, selfie every set… best baldie in the cave."
+    },
+    "0xaray": {
+      "xHandle": "EdLearn3",
+      "customRoast": "He used to be our purgoooor but he is long gone ..."
+    },
+    "__emi__": {
+      "xHandle": "MacroOwl",
+      "customRoast": "Top tier trader, we abuse him with lots of chart requests in our crypto channel"
+    },
+    "vazom": {
+      "xHandle": "CryptoSillican"
+    },
+    "natt369": {
+      "xHandle": "Natt_369_",
+      "customRoast": "Nattsu the goated pixel artist, we like him, he is weird tho"
+    },
+    "majdi": {
+      "xHandle": "majdi_sw",
+      "customRoast": "Our fav Arab guys, he can't say the \"P\" letter tho, and say \"B\", what an L"
+    },
+    "0xnftmagician": {
+      "xHandle": "0xMagicman",
+      "customRoast": "This guy made it and left gems ..."
+    },
+    "pepewest19": {
+      "xHandle": "sup_pep"
+    },
+    "nothing.avax": {
+      "xHandle": "0xnothing101"
+    },
+    "itsuwari": {
+      "xHandle": "deranhut",
+      "customRoast": "Catfish overlord, safz likes his banner a lot"
+    },
+    "lordderf": {
+      "xHandle": "defiderf"
+    },
+    "skyyfetti": {
+      "xHandle": "skyyfettiNFT"
+    },
+    "gobelz.eth": {
+      "xHandle": "santikimo_"
+    },
+    "shonari": {
+      "xHandle": "imShonari",
+      "customRoast": "This cooks, he has lovely kids, we like him"
+    },
+    "solsal0": {
+      "xHandle": "SolSal9406",
+      "customRoast": "our Brazlian singer, chef, dancer, lips, and joe lover"
+    },
+    "aloominati": {
+      "xHandle": "neela_pani"
+    },
+    "0xdelo": {
+      "xHandle": "hynynft"
+    },
+    "kanenas1312": {
+      "xHandle": "Kanenas_1312"
+    },
+    "lenim": {
+      "xHandle": "lenimNFT",
+      "customRoast": "Brrrrrrrppppppppp, he used to scream in the vc, but not anymore"
+    },
+    "meowing4usdc": {
+      "xHandle": "sazorxbt"
+    },
+    "mohsin_mj": {
+      "xHandle": "FatDiabeticCat",
+      "customRoast": "From getting slashed on ethos to riding with gems… Fatty making the right moves."
+    },
+    "jennn_sol": {
+      "xHandle": "jennn_sol",
+      "customRoast": "You’re around… just not often. Jenbooty sightings are rare now."
+    },
+    "degensnail": {
+      "xHandle": "dgnsnail",
+      "customRoast": "Safz likes this guy, he says don't touch him, he owns him, ty for your attention"
+    },
+    "jjarrad": {
+      "xHandle": "jjarrad_187"
+    },
+    "niwde.eth": {
+      "xHandle": "niwde_tan"
+    },
+    "raedinweb3": {
+      "xHandle": "Raedinweb3"
+    },
+    "masteryayoco": {
+      "xHandle": "MasterYayoco22"
+    },
+    "tvs11": {
+      "xHandle": "TVS11_07"
+    },
+    "mrpotatojr": {
+      "xHandle": "MrPot4toJr"
+    },
+    "anadel1565": {
+      "xHandle": "Anastasis_Delta"
+    },
+    "maryyyless": {
+      "xHandle": "maryyyless",
+      "customRoast": "The fat chud, best streamer in gems tho, we like her vibes"
+    },
+    "laulau_eth": {
+      "xHandle": "laumvar",
+      "customRoast": "The hottest latina in web3, our spanish teacher"
+    },
+    "emjayrentarou": {
+      "xHandle": "emjayrntr",
+      "customRoast": "Our cutest dev mj, she has a good heart"
+    },
+    "caliwu": {
+      "xHandle": "calistawu",
+      "customRoast": "We miss her, she got married, we like Cali"
+    },
+    ".tinkss": {
+      "xHandle": "Jtink_NFT",
+      "customRoast": "She used to be a good GEM, but she lost a lot ..."
+    },
+    "brokepear": {
+      "xHandle": "BrokePear"
+    },
+    "agenthunt": {
+      "xHandle": "durga1996"
+    },
+    "0xmakcy": {
+      "xHandle": "witches0x"
+    },
+    "kento3yyy": {
+      "xHandle": "kentocious_"
+    },
+    "mikesnft": {
+      "xHandle": "mealswithmikeb"
+    },
+    "ar_kotfw": {
+      "xHandle": "Riru2024"
+    },
+    "sneakyninjapants": {
+      "xHandle": "SneakyninjaNFTs"
+    },
+    "theonlynessie": {
+      "xHandle": "TheOnlyNessie"
+    },
+    "ramon.1": {
+      "xHandle": "ramon_c_t",
+      "customRoast": "Hmmmm aaaaaa mfmmmmfmmm, this guy .. HELLA HOT"
+    },
+    "gujju_76": {
+      "xHandle": "GUJJUIIXI"
+    },
+    "999.eth": {
+      "xHandle": "_Reezo_"
+    },
+    "kjblockchain": {
+      "xHandle": "papadegen1"
+    },
+    "neji.eth": {
+      "xHandle": "nejixbt",
+      "customRoast": "Soundboard spammer, pretty much useless person"
+    },
+    "h3llplanet": {
+      "xHandle": "H3llPlanet"
+    },
+    "tp0637": {
+      "xHandle": "tbtphaha",
+      "customRoast": "He is aware, VERY aware, he knows the juice very well"
+    },
+    "vvvv": {
+      "xHandle": "grebby"
+    },
+    "denny.v2": {
+      "xHandle": "alphaddicted1"
+    },
+    "hoponopono.": {
+      "xHandle": "hoponopon0"
+    },
+    "saka_algo": {
+      "xHandle": "saka_Algo",
+      "customRoast": "Our video creatoooooor. We abuse him everyday"
+    },
+    "castronft36": {
+      "xHandle": "castronft36"
+    },
+    "liat9091": {
+      "xHandle": "MariaOr8900"
+    },
+    "xxman2001": {
+      "xHandle": "leshthelove"
+    },
+    "panorom": {
+      "xHandle": "PANOROM1883"
+    },
+    "darius.art": {
+      "xHandle": "darius_026",
+      "customRoast": "She is our +18 artist, great dancer, lawywer, select all"
+    },
+    "_btr": {
+      "xHandle": "_btr",
+      "xHandleAuto": true
+    },
+    "bluetiger1": {
+      "xHandle": "__GarciaChris",
+      "customRoast": "We like this guy, good biceps"
+    },
+    "mbk77": {
+      "xHandle": "araredegen"
+    },
+    "emma1237305": {
+      "xHandle": "GlorytoGlory_21"
+    },
+    "0xneozz": {
+      "xHandle": "Andrewthedegenn"
+    },
+    "ninjakeira": {
+      "xHandle": "xninjashadow"
+    },
+    "bchungha": {
+      "xHandle": "bchungfarmer"
+    },
+    "captainm0tan": {
+      "xHandle": "0xMotan"
+    },
+    "emeraldxyzz": {
+      "xHandle": "midoum_",
+      "customRoast": "Good mustache, good heart, but he wastes his time with video games ..."
+    },
+    "infatuated_simp": {
+      "xHandle": "infatuated_simp"
+    },
+    "akeem9085": {
+      "xHandle": "Lightdefii"
+    },
+    "jenevanfts": {
+      "xHandle": "jenevanfts",
+      "customRoast": "The hornies waifu, we don't really know why, but dude ..."
+    },
+    "imshuxp": {
+      "xHandle": "imshuXP"
+    },
+    "_kate_lv": {
+      "xHandle": "_kate_lv",
+      "customRoast": "She has a good ass, she spams safz dm everyday tho ..."
+    },
+    "holypopo": {
+      "xHandle": "h0lypopo"
+    },
+    "vardaan369": {
+      "xHandle": "vardaan369"
+    },
+    "dimifk": {
+      "xHandle": "dfouk",
+      "customRoast": "This guy made +150 gif for gems, he likes pucci so much tho, we don't know why"
+    },
+    "hamokan": {
+      "xHandle": "OriginalWalkerX"
+    },
+    "auburn.eth": {
+      "xHandle": "StarryNightx92",
+      "customRoast": "One of our Collab squads, she comes and go every month, but we like her"
+    },
+    "dayhon": {
+      "xHandle": "Veindayhon"
+    },
+    "simeone_01": {
+      "xHandle": "deji_nfts"
+    },
+    "janika8605": {
+      "xHandle": "OdilionRedon"
+    },
+    "acbiad": {
+      "xHandle": "LuoNFT"
+    },
+    "ilias_xyz": {
+      "xHandle": "ilias_xyz",
+      "customRoast": "ilias always useless, I mean useful, we like him"
+    },
+    "iriwiz": {
+      "xHandle": "TheOneWhiz"
+    },
+    "kikiidoyouloveme": {
+      "xHandle": "kikiidoyoulovm"
+    },
+    "lmfaooo": {
+      "xHandle": "pphhaa_20"
+    },
+    "abdullahsadiq": {
+      "xHandle": "AbdullahSadiqq"
+    },
+    "alayna5783": {
+      "xHandle": "ALAYNA_NFTs"
+    },
+    "emanuel_teo1": {
+      "xHandle": "TeeLaCream1"
+    },
+    "hound.eth": {
+      "xHandle": "NFTLobeV"
+    },
+    "elpolloloco666": {
+      "xHandle": "el_743"
+    },
+    "penguinpecker": {
+      "xHandle": "penguinpecker1"
+    },
+    "dreadsong": {
+      "xHandle": "DreadsongSOL"
+    },
+    "breasting": {
+      "xHandle": "weeniestwee",
+      "customRoast": "She Farts a lot, she has the best web3 abs tho, so we don't mind"
+    },
+    "jc11": {
+      "xHandle": "jctng11"
+    },
+    ".drvegapunk": {
+      "xHandle": "DrVega_13"
+    },
+    "badkoi0x": {
+      "xHandle": "0xBadKoi"
+    },
+    ".captainy": {
+      "xHandle": "WhyCaptainY",
+      "customRoast": "Our GOAT dev, the slave owner, the gems advisor, he is HIM"
+    },
+    "chest3rman": {
+      "xHandle": "ch3sterman"
+    },
+    "atomicfartt": {
+      "xHandle": "atomicfartt"
+    },
+    "kayzee_dah_great": {
+      "xHandle": "SkabWorks"
+    },
+    "texi_3": {
+      "xHandle": "texi_3"
+    },
+    "figgy_bee": {
+      "xHandle": "figgybeep",
+      "customRoast": "cute pfp, cute personality, she is from FL the state, not the country, cmooon"
+    },
+    "antonis_atnsarts": {
+      "xHandle": "atnsxbt"
+    },
+    "dr.vitalikeinstein": {
+      "xHandle": "DrEinstein9999",
+      "customRoast": "We like this German guy, he spams creator hub daily"
+    },
+    "sol.wolf": {
+      "xHandle": "bit__wolf",
+      "customRoast": "Our Dev is botting for us and getting us banned in projects"
+    },
+    "zhixp_eth": {
+      "xHandle": "zhixp_eth"
+    },
+    "biggiebtc": {
+      "xHandle": "Biggie_btc"
+    },
+    "averno": {
+      "xHandle": "HeyAverno"
+    },
+    "wolfsrain": {
+      "xHandle": "ItsWolfsRain"
+    },
+    "amineblues": {
+      "xHandle": "Sahcmoilevrai"
+    },
+    "kaanha_": {
+      "xHandle": "Kaanha__"
+    },
+    "allergictoguac": {
+      "xHandle": "allergictoguac"
+    },
+    "_0xsunnhi": {
+      "xHandle": "sunnhi4122"
+    },
+    "peymannaderi": {
+      "xHandle": "Peymannaderi_"
+    },
+    "mdeca": {
+      "xHandle": "mdecaeth",
+      "customRoast": "this guy is hot, dangerous, careful"
+    },
+    "whoisash": {
+      "xHandle": "whoisash_sh (suspended)"
+    },
+    "saytella": {
+      "xHandle": "hinatta1230963"
+    },
+    "spencerdoteth": {
+      "xHandle": "Kateonchain77"
+    },
+    "damon0": {
+      "xHandle": "Brodchen0"
+    },
+    "diamondhands2021": {
+      "xHandle": "DiaHands2021"
+    },
+    "akisnftcollect": {
+      "xHandle": "doraklipa"
+    },
+    "majeeed": {
+      "xHandle": "estimable_"
+    },
+    "nicsynft": {
+      "xHandle": "NicsyNFT",
+      "customRoast": "yapper & shouter, we have her at 20% in vc for our hearing safety"
+    },
+    "0xvinhpham": {
+      "xHandle": "0xvinhpham"
+    },
+    "benzwong": {
+      "xHandle": "alphabretz"
+    },
+    "lordzenith": {
+      "xHandle": "0xLordZenith"
+    },
+    "justleksa": {
+      "xHandle": "justleksa_"
+    },
+    "clyxalex": {
+      "xHandle": "ClyxAlex"
+    },
+    "kaps_24": {
+      "xHandle": "0xKaps"
+    },
+    "brinab2": {
+      "xHandle": "briannass7"
+    },
+    "vitoaph": {
+      "xHandle": "VitoApHElite"
+    },
+    "pixonme": {
+      "xHandle": "JuriRomanov",
+      "customRoast": "She is Vivek's, careful to flirt or touch, or he will kill you"
+    },
+    "emmaoce": {
+      "xHandle": "itsemmaoce"
+    },
+    "uday_04": {
+      "xHandle": "uday_dhorajiya"
+    },
+    "darhtch": {
+      "xHandle": "darhtch"
+    },
+    "incrypto": {
+      "xHandle": "1ncrypto"
+    },
+    ".tole": {
+      "xHandle": "tole_nft"
+    },
+    "nftdaad": {
+      "xHandle": "Nikolaspap93",
+      "customRoast": "The WL king behind the scense, safz abuses him tho"
+    },
+    "catmewn": {
+      "xHandle": "MeowyTheGreat",
+      "customRoast": "Meow Meow Meow Meow Meow Meow Meow Meow Meow"
+    },
+    "veraa_tee": {
+      "xHandle": "verah_tee"
+    },
+    "shinnie.eth": {
+      "xHandle": "LynnWinthrope",
+      "customRoast": "one of the wisest girls, good alpha, don't fade her"
+    },
+    "n1kiz.": {
+      "xHandle": "xN1k1ta"
+    },
+    "cryptoinfinite": {
+      "xHandle": "cryptoinfi"
+    },
+    "gabiocand": {
+      "xHandle": "LaGamercitaNFT",
+      "customRoast": "She is a gamer, hot latina, we like her"
+    },
+    "mrhenry.": {
+      "xHandle": "henwyeth"
+    },
+    "0xpapiaxie": {
+      "xHandle": "0xMistBlade"
+    },
+    "jossive": {
+      "xHandle": "grownwhalee"
+    },
+    "nftwidow": {
+      "xHandle": "TheOnlyWidow"
+    },
+    "drawknife": {
+      "xHandle": "drawknifee"
+    },
+    "theelazyking": {
+      "xHandle": "TheeLazyKing"
+    },
+    "saifmr": {
+      "xHandle": "saifmr20"
+    },
+    "blurschain": {
+      "xHandle": "blurschain",
+      "customRoast": "Our gif artist, he made ton of gifs for gems, and he made a great game too <3"
+    },
+    "_whateverman_": {
+      "xHandle": "what3verman",
+      "customRoast": "He comes and shouts only in the vc, we troll this unc whenever he shows up"
+    },
+    "aqsaxbt": {
+      "xHandle": "IamAqsaShaikh"
+    },
+    "0xvalmir": {
+      "xHandle": "0xValmir"
+    },
+    "junior0x_": {
+      "xHandle": "BlvckNexus"
+    },
+    "syalirp": {
+      "xHandle": "syalirp"
+    },
+    "fimmonaci": {
+      "xHandle": "fimmonaci",
+      "customRoast": "Nacci Nacci Naciiiii"
+    },
+    "sataaann": {
+      "xHandle": "0xyonathan"
+    },
+    "little_hed": {
+      "xHandle": "little_HED",
+      "customRoast": "This guy gives the best blowjobs in web3"
+    },
+    "clankak": {
+      "xHandle": "Clankak"
+    },
+    "nxinja": {
+      "xHandle": "NxnjaProd"
+    },
+    "mewxxx": {
+      "xHandle": "mewnft"
+    },
+    "katsu.xbt": {
+      "xHandle": "sienna_nft",
+      "customRoast": "clipper goat"
+    },
+    "cutieace": {
+      "xHandle": "Cutieacee",
+      "customRoast": "Our VC farmer, she comes joins vc, work for hours, then leaves"
+    },
+    "oscar_here.": {
+      "xHandle": "oscar_here.",
+      "xHandleAuto": true
+    },
+    "donpudgy": {
+      "xHandle": "DonPudgy"
+    },
+    "vi_oh": {
+      "xHandle": "Vi_myao"
+    },
+    "valopa": {
+      "xHandle": "valopa",
+      "xHandleAuto": true,
+      "customRoast": "He made 8 fig and left the space, good guy"
+    },
+    "13xbt": {
+      "xHandle": "13xbt"
+    },
+    "custeemade": {
+      "xHandle": "custeemade"
+    },
+    "notjazii.": {
+      "xHandle": "notjazii"
+    },
+    "a9gtornedo": {
+      "xHandle": "AGGTORNADO"
+    },
+    "smittywerbenjaggermanjensen": {
+      "xHandle": "Smitty_xyz"
+    },
+    "ruledout": {
+      "xHandle": "ruledout_"
+    },
+    "lancaster.eth": {
+      "xHandle": "_just_wwmins"
+    },
+    "bitcoin_barry": {
+      "xHandle": "BTC_Barry_",
+      "customRoast": "our gym and peptides expert, we meet in the bunker soon"
+    },
+    "mrhubztick": {
+      "xHandle": "0xMrHubztick",
+      "customRoast": "This guy is thin af, he needs to gym asap"
+    },
+    "bigcasper": {
+      "xHandle": "BigCasperEth"
+    },
+    "jampzer": {
+      "xHandle": "Jampzey",
+      "customRoast": "our GAMPS, spammer, champion, pucci & slave hunter"
+    },
+    "stargirl.007": {
+      "xHandle": "ice_bearcute",
+      "customRoast": "She gyms, and active, but she likes monad, ew"
+    },
+    "morsyxbt": {
+      "xHandle": "morsyxbt"
+    },
+    "honeybunny36": {
+      "xHandle": "accidentalsport"
+    },
+    "krishh": {
+      "xHandle": "its_krishh_"
+    },
+    "oldtora": {
+      "xHandle": "oldtora2077"
+    },
+    "web3_salem": {
+      "xHandle": "web3babe5"
+    },
+    "real_n3xt": {
+      "xHandle": "N3XTTT",
+      "customRoast": "He has the biggest thighs in web3, we proud he found a girl tho"
+    },
+    "redmartinii": {
+      "xHandle": "redmartiniinft1",
+      "customRoast": "She drinks a lot of alcohol, someone save here asap"
+    },
+    "waliiidx123": {
+      "xHandle": "0xwalidX"
+    },
+    "kisuke.eth": {
+      "xHandle": "KisukeNFT"
+    },
+    "germanpalma": {
+      "xHandle": "Web3German"
+    },
+    "rohitvaleecha89": {
+      "xHandle": "ValeechaRohit"
+    },
+    "jacoos": {
+      "xHandle": "JacoosJacoos"
+    },
+    "byzianna": {
+      "xHandle": "byzianna_"
+    },
+    "web3.": {
+      "xHandle": "martin96c"
+    },
+    "sailasar": {
+      "xHandle": "sailasAR_"
+    },
+    "vladz027": {
+      "xHandle": "vladz027"
+    },
+    "naskaa_": {
+      "xHandle": "ezzypezzy88"
+    },
+    "thadream": {
+      "xHandle": "TheDream"
+    },
+    "0xlungin": {
+      "xHandle": "0xLungin"
+    },
+    "estridthelion": {
+      "xHandle": "estridthelion",
+      "customRoast": "SafZ gm-er, he sent love to saf for 100 days, what a bot ..."
+    },
+    "maxuop": {
+      "xHandle": "MaxuOnchain"
+    },
+    "silentmode101": {
+      "xHandle": "SilentmodeDM"
+    },
+    "aphkenneth": {
+      "xHandle": "aphkenneth"
+    },
+    "astr0x.": {
+      "xHandle": "jpg4805"
+    },
+    "avalanche_xv": {
+      "xHandle": "avalanchexbt"
+    },
+    "bigfloppaeth": {
+      "xHandle": "BigFloppaEth"
+    },
+    "proofofely": {
+      "xHandle": "ProofOfEly"
+    },
+    "jacplayz": {
+      "xHandle": "DOgeNORS"
+    },
+    "yellowpanther": {
+      "xHandle": "yellowpantherx"
+    },
+    "nnotmybestwork": {
+      "xHandle": "nnotmybestwork"
+    },
+    "jpegg.": {
+      "xHandle": "Corker0618",
+      "customRoast": "This guy has sexy voice"
+    },
+    "lovagirl1": {
+      "xHandle": "lovagirlv1",
+      "customRoast": "Our hottest moroccan web3 gamer"
+    },
+    "cilin.eth": {
+      "xHandle": "1Cilineth",
+      "customRoast": "Monad baddie she likes every GEMs reply"
+    },
+    "valhist": {
+      "xHandle": "valhist"
+    },
+    "nemeess": {
+      "xHandle": "nemegiri"
+    },
+    "ayame2themoon": {
+      "xHandle": "Bluerain1500"
+    },
+    "maverick.11": {
+      "xHandle": "0xMav"
+    },
+    "bonglo": {
+      "xHandle": "bonglovi"
+    },
+    "lau_btc": {
+      "xHandle": "lau_btc",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "xdokusei": {
+      "xHandle": "0xDivine",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "doc_noonoo": {
+      "xHandle": "doc_noonoo",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "kerrag": {
+      "xHandle": "0xKerrag",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "alineke": {
+      "xHandle": "AlineTweets",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "nicklaza0202": {
+      "xHandle": "0x_NickTheFreak",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "ngocphat.eth": {
+      "xHandle": "ngocphat0907",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "aisudesu": {
+      "xHandle": "Redmoon_nft",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "sav2222": {
+      "xHandle": "Sav2222_",
+      "customRoast": "Our best goyium friend"
+    },
+    "_royale": {
+      "xHandle": "royaaleweb3",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "ferfer4026": {
+      "xHandle": "ferfer9997",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "emmainweb": {
+      "xHandle": "emmainweb",
+      "customRoast": "Monad keeping you busy from us ms. emma the 4th"
+    },
+    "0xsjc": {
+      "xHandle": "SJC_web3",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "ingress0": {
+      "xHandle": "0xIngresso",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "polkaguy": {
+      "xHandle": "polkaguy",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "basocqueen": {
+      "xHandle": "Basocqueen",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "bryantheden": {
+      "xHandle": "bryantheden",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "bigmolove": {
+      "xHandle": "ThugNumber3",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xwildwizard": {
+      "xHandle": "0xwildwizard",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "vonderr": {
+      "xHandle": "vonderr",
+      "xHandleAuto": true,
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "cryptogorilla": {
+      "xHandle": "CryptoGorilla",
+      "customRoast": "Clean Bald energy. We like you"
+    },
+    "ibracadabra": {
+      "xHandle": "IbraTheDabra",
+      "customRoast": "Wallahi what are you doing habibi"
+    },
+    "sc4berz": {
+      "xHandle": "Anjalibist0",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "reetiti": {
+      "xHandle": "iRiriTee",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "devilsnarefizz": {
+      "xHandle": "NftFlips",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "farah__web3": {
+      "xHandle": "Farah__web3",
+      "customRoast": "She joined late, give her some slack"
+    },
+    "uniquesingh": {
+      "xHandle": "uniquesingh__",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "1dgen_": {
+      "xHandle": "1dgen_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "nftplaya": {
+      "xHandle": "PlayaNft",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "bewise": {
+      "xHandle": "dazzlercoin",
+      "customRoast": "This guy is so not wise, don't get scammed"
+    },
+    "ababy_yuumi": {
+      "xHandle": "yuumizoomi",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "fxyo": {
+      "xHandle": "kingfxyo",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "edeyow": {
+      "xHandle": "edeyow",
+      "customRoast": "We like this lion, smart chud"
+    },
+    "imaginarykaiju2020": {
+      "xHandle": "sikander69",
+      "customRoast": "This catfish mf ..."
+    },
+    "pepeknight": {
+      "xHandle": "may_tohoku",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "lady.whistledown": {
+      "xHandle": "NFTWhistledown",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xlucy": {
+      "xHandle": "luciasilasi",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "alka_holic": {
+      "xHandle": "MommyAlkaholic",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "annienftt": {
+      "xHandle": "AnnieNFTT",
+      "customRoast": "Annie our discord VPNoor, always has troubles cuz of Turkey, safz likes her tho"
+    },
+    "anda765": {
+      "xHandle": "anda765",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "bubits": {
+      "xHandle": "bubits_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "ge.eth": {
+      "xHandle": "GuarEmperor",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "skorm1700": {
+      "xHandle": "SKORM1700",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    ".mcg.": {
+      "xHandle": "mcgeth",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "eth_apple": {
+      "xHandle": "eth_apple",
+      "customRoast": "SafZ likes this guy, idk if they gay, but we leave him alone"
+    },
+    "breyonchain": {
+      "xHandle": "breyonchain",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "bamboo_eth": {
+      "xHandle": "BambooADND",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "imjuanito": {
+      "xHandle": "xjuanito",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "feyaaa": {
+      "xHandle": "feya0167",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "davt97": {
+      "xHandle": "Elonagress",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "mh17x": {
+      "xHandle": "cryptozeusy",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "andyd_andrea": {
+      "xHandle": "andydunks85",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "spoder0": {
+      "xHandle": "SpMan06",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0atmilknft": {
+      "xHandle": "matchayuma",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xsodapop": {
+      "xHandle": "0xSpop",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "advaith.": {
+      "xHandle": "advaith",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "nnevvessss": {
+      "xHandle": "nnevvesss",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "loshmi": {
+      "xHandle": "loshmi",
+      "customRoast": "Our Boxing bag in gemeral, we bully this blad man every month"
+    },
+    "telcier": {
+      "xHandle": "telcier",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "ecki9317": {
+      "xHandle": "Iamecki",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "martmobile": {
+      "xHandle": "MartKAD",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "ryojineth": {
+      "xHandle": "ryojindevs",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "masterchief": {
+      "xHandle": "MasterChiefNFTs",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "belle193": {
+      "xHandle": "bellew193",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "shimkey": {
+      "xHandle": "shrimbi",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "xai.eth": {
+      "xHandle": "Xai_eth",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "huseyin1tekin": {
+      "xHandle": "huseyin1tekin",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "w_": {
+      "xHandle": "0xxW_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "h4mze": {
+      "xHandle": "Hamze_NFT (suspended?)",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "narcissisticpenguin": {
+      "xHandle": "amit0xic",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "pinkz": {
+      "xHandle": "Pinkz2903",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "alt_sho": {
+      "xHandle": "alt_sho",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "galileowil": {
+      "xHandle": "galileowilson",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xrickey": {
+      "xHandle": "rickeynfteth",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "beka.s": {
+      "xHandle": "Lilitchinn",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "thegreatola": {
+      "xHandle": "thegreatola",
+      "customRoast": "Ola GEM, one of our fav <3"
+    },
+    ".tut.": {
+      "xHandle": "Tuteth_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "shelleymae": {
+      "xHandle": "shelleymaeph",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "astornia": {
+      "xHandle": "TheAstornia",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "techie.eth": {
+      "xHandle": "0xTechie_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "metagandhi": {
+      "xHandle": "MetaGandhi_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "hillarybabygirl": {
+      "xHandle": "0xHillaryBae",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "treeonchain": {
+      "xHandle": "treeonchain",
+      "customRoast": "The most handsome person in web3"
+    },
+    "blanka.ord": {
+      "xHandle": "blankabtc",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "riceriddler": {
+      "xHandle": "RiceRiddler",
+      "customRoast": "We bully this mf every Quarter, see you in Q3 2026"
+    },
+    "bitdemon": {
+      "xHandle": "tothedemon",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "theo2k2": {
+      "xHandle": "theo2k2_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "mici626": {
+      "xHandle": "necrymancer",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "wataminoodles": {
+      "xHandle": "wataminoodles",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xhades_": {
+      "xHandle": "0xhades_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "ig.nft": {
+      "xHandle": "ignft_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "lissanft2021": {
+      "xHandle": "Sejak2021",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "tma420.eth": {
+      "xHandle": "Tma_420",
+      "customRoast": "Best NFToooor"
+    },
+    "zaff_nft": {
+      "xHandle": "zaff_nft",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "ashrobin": {
+      "xHandle": "ashrobin",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xabhip": {
+      "xHandle": "0xAbhiP",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "sofiacryptovibe": {
+      "xHandle": "SofiaCryptoVibe",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "calebunity": {
+      "xHandle": "CalebUnity_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "hellrokr": {
+      "xHandle": "Hellrokr_eth",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "hm_web3": {
+      "xHandle": "hm_web3",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "haqa": {
+      "xHandle": "TheHaQa",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "alina_anto": {
+      "xHandle": "alina_anto",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "jave_gg": {
+      "xHandle": "jave_gg",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xltr": {
+      "xHandle": "maybeltr",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "realrains.eth": {
+      "xHandle": "r_rainss",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "web3ec": {
+      "xHandle": "eclcrypto",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "conflcts": {
+      "xHandle": "conflcts",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "sina6641": {
+      "xHandle": "0xSinnabon",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "leraarni": {
+      "xHandle": "nifferaeth",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "cape": {
+      "xHandle": "heycape_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "yakuzadaddy.": {
+      "xHandle": "YakuzaDaddy",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "boltxbt": {
+      "xHandle": "BoltXBT",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "vee_lovennft": {
+      "xHandle": "vee_lovennft",
+      "xHandleAuto": true,
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "triples": {
+      "xHandle": "triples_eth",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "mctyasha": {
+      "xHandle": "McTyasha",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "zaimiri": {
+      "xHandle": "zaimiri",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "fbispecialagentmulder": {
+      "xHandle": "fbispecialagentmulder",
+      "xHandleAuto": true,
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "br4ted": {
+      "xHandle": "BR4ted",
+      "customRoast": "Gay energy, we don't like this guy"
+    },
+    "nadirnfts": {
+      "xHandle": "Nadir_Nfts",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "ironspiderxbt": {
+      "xHandle": "ironspiderXBT",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xitsleo": {
+      "xHandle": "0xitsLEO",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "majdse": {
+      "xHandle": "majdse",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "chainriffs": {
+      "xHandle": "Chainriffs",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "moh1sh": {
+      "xHandle": "moh1shh",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "nftboi": {
+      "xHandle": "nftboi_",
+      "customRoast": "SafZ best friend, he gets a pass"
+    },
+    "cancerplayer": {
+      "xHandle": "Cancer_sats",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "jade_defi": {
+      "xHandle": "jade_defi",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "thatguyjay.eth": {
+      "xHandle": "thatguyjaygl",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "joeb0749": {
+      "xHandle": "BetmanJoe",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "supraevm": {
+      "xHandle": "supraEVMv2",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "seifx0": {
+      "xHandle": "Seifx0",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "gclol": {
+      "xHandle": "bribe",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "boquet1137": {
+      "xHandle": "MsF0m0",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "imgroot": {
+      "xHandle": "ImGroot66",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "artmcarty": {
+      "xHandle": "ArtMcArty",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "themansion_eth": {
+      "xHandle": "themansion_eth",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "arinamaycry": {
+      "xHandle": "arinamaycry",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "arcane707": {
+      "xHandle": "arcane707",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xcobrax0": {
+      "xHandle": "CryptaCobra",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "antone.": {
+      "xHandle": "CryptoPrans",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "levinotackerman": {
+      "xHandle": "LeviNotAckerman",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "harassment": {
+      "xHandle": "0xHarassment",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "jazzmania1": {
+      "xHandle": "prodbyJazzmania",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "toriribolla": {
+      "xHandle": "ToriRibolla",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "sixpaths": {
+      "xHandle": "0x6Paths",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "chacha9198": {
+      "xHandle": "orion_leora",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "dilaw06": {
+      "xHandle": "dilaw006",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "joestar83": {
+      "xHandle": "JoestarCrypto",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "itsjowe": {
+      "xHandle": "im_jowee",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "bitcoin_": {
+      "xHandle": "TheRTg0d",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    ".angelicwaves": {
+      "xHandle": "nomoreangelwave (suspended)",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "alyssaonchain": {
+      "xHandle": "alyssaonchain",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "ryannnsmit": {
+      "xHandle": "ryannnsmit",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "microglia": {
+      "xHandle": "microglia_8888",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "kibahjoseph": {
+      "xHandle": "KibahJoseph",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "yumipeixuan": {
+      "xHandle": "yumipeixuan",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "miaastreams": {
+      "xHandle": "miaastreams",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "nastenkkkkkka": {
+      "xHandle": "Nastenkkkkkkkka",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "iamwenmun": {
+      "xHandle": "iamwenmun",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "thotcoin": {
+      "xHandle": "NonFungiblThot",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "sofiial": {
+      "xHandle": "0xSofiya",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "carisne": {
+      "xHandle": "carisneeth",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "ghayzal.sol": {
+      "xHandle": "ghayzal_sol",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "camol": {
+      "xHandle": "camolNFT",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "mentionlux": {
+      "xHandle": "MentionLux",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "9fstudiox": {
+      "xHandle": "9FStudioArt",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "t.e.d.": {
+      "xHandle": "TED3166",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "maven.eth": {
+      "xHandle": "0xmaveneth",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "pauluz93": {
+      "xHandle": "PauluzRFRM",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "mdmadeit": {
+      "xHandle": "mdmadeit",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "smx_pfkw": {
+      "xHandle": "0xHeisenbruh",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0x_des": {
+      "xHandle": "0x_Des",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "rollingpinkpanda": {
+      "xHandle": "rollinpinkpanda",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "haifa.m29": {
+      "xHandle": "Hafo1991",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "ffv12": {
+      "xHandle": "FFVV1211",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "luidji": {
+      "xHandle": "imluidji",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "notyano": {
+      "xHandle": "0xYano",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "mojito888": {
+      "xHandle": "MojitoNft",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "tapevol_eth": {
+      "xHandle": "tapevol_off",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "menace9307": {
+      "xHandle": "NFTsAreNice",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "onogiri": {
+      "xHandle": "not_onogiri",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "ibw_mamba": {
+      "xHandle": "IBW_Mamba",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "jasich": {
+      "xHandle": "thejasich",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "phynphyn": {
+      "xHandle": "morphPOGdot23",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "merheb": {
+      "xHandle": "merheb",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "zubairey": {
+      "xHandle": "Zubairey0",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xkovach": {
+      "xHandle": "0xkovv",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "zerocool": {
+      "xHandle": "zerocool_OG",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "d3genm0nk": {
+      "xHandle": "degendemon",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "b4kenny": {
+      "xHandle": "b4kenny",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "miagia": {
+      "xHandle": "miagia",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "pyrocapital": {
+      "xHandle": "PyroNFT",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "adegaloyan": {
+      "xHandle": "Adelina_Galoyan",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "sebss": {
+      "xHandle": "sebbsssss",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "anling420_40157": {
+      "xHandle": "motherofqianbei",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "veritynfts": {
+      "xHandle": "veritynfts",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "monwor": {
+      "xHandle": "monoworm",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "pancakesyrup_": {
+      "xHandle": "PancakeSyrupNFT",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "azflin": {
+      "xHandle": "AzFlin",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "mooney_": {
+      "xHandle": "mooneyy",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "ruthybuilds": {
+      "xHandle": "ruthybuilds",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "epsy5": {
+      "xHandle": "Epsy_eth",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "enesonchain": {
+      "xHandle": "enesonchain",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "shivst3r": {
+      "xHandle": "shivst3r",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "maverick23.eth": {
+      "xHandle": "maverick23NFT",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "masterjan": {
+      "xHandle": "masterjan_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "cindytypes": {
+      "xHandle": "cindytypes",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "jjangbang": {
+      "xHandle": "JJangBang429",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "degenonly": {
+      "xHandle": "Only1temmy",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "openthefridge": {
+      "xHandle": "openthefridge",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xkirara": {
+      "xHandle": "0xKirara",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "ryandcrypto": {
+      "xHandle": "ryandcrypto",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "nftmani_eth": {
+      "xHandle": "mickeyhardy",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "manieth": {
+      "xHandle": "NFTMani_eth",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xemly": {
+      "xHandle": "0xEmly",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "leegendary.eth": {
+      "xHandle": "0xleegenz",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "icrazyteddy": {
+      "xHandle": "iCrazyTeddy",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "pixieinparadise": {
+      "xHandle": "pixieinparadise",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    ".ali11111": {
+      "xHandle": "mrtippinson",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "mastermurdoch": {
+      "xHandle": "TheGodMurdoch",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "brommy": {
+      "xHandle": "brommmyy",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "mustydiapers": {
+      "xHandle": "MustyDiapers",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "shiftymunkey": {
+      "xHandle": "ShiftyMunkey9",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xchar": {
+      "xHandle": "0xChar",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xminaa": {
+      "xHandle": "minstrell_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "buttrmytoast": {
+      "xHandle": "buttr_my_toast",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "billionaire": {
+      "xHandle": "billioonaire",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "crypticno": {
+      "xHandle": "notcrypticno",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "benjamincrypto": {
+      "xHandle": "1stBenjaNAD",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "elenaaeth": {
+      "xHandle": "Elenism",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "mickross": {
+      "xHandle": "mickross_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "gozyy_world": {
+      "xHandle": "gozyy_world",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xvesty": {
+      "xHandle": "0xvesty",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xbigmeth": {
+      "xHandle": "0xbigm7",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "senemonchain": {
+      "xHandle": "senemonchain",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "iamrav3n": {
+      "xHandle": "HeIsRav3n",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "tulkas.eth": {
+      "xHandle": "tulkas",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "ssheyii": {
+      "xHandle": "ssheyii",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "mickele.eth": {
+      "xHandle": "IdMintThat",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "shimal2i": {
+      "xHandle": "Shimal2i_eth",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "icedv60": {
+      "xHandle": "icedv60",
+      "xHandleAuto": true,
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "pixnmsanvm": {
+      "xHandle": "pixnvm",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "floridapearl": {
+      "xHandle": "floridapearl_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "bawsa": {
+      "xHandle": "BawsaXBT",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "cryptovalley": {
+      "xHandle": "CValley_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "blooper0_": {
+      "xHandle": "bloop_sol",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "tequilawaifu": {
+      "xHandle": "0xtequilaa",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    ".camski.": {
+      "xHandle": "camski",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "sanza.eth": {
+      "xHandle": "sanza",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xinuarashi": {
+      "xHandle": "0xInuarashi",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "bensage": {
+      "xHandle": "bensage",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "hydrazeocb": {
+      "xHandle": "Hydraze420",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "kaiski.eth": {
+      "xHandle": "kaiski_eth",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "n0v4t0": {
+      "xHandle": "jgonzalezferrer",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "kattt_ordinals": {
+      "xHandle": "kattt_ordinals",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "jyp": {
+      "xHandle": "jyp_nft",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "swannynft_": {
+      "xHandle": "swandogs",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "themafiaboss69": {
+      "xHandle": "themafiaboss420",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "joeyvowels": {
+      "xHandle": "joeyvowels",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "skylineeth": {
+      "xHandle": "SkylineETH",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "topdog2222": {
+      "xHandle": "Topdog2222_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "captainck.eth": {
+      "xHandle": "CaptainCKeth",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "ceaser26": {
+      "xHandle": "polkapheen",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "chandog": {
+      "xHandle": "thechandog",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "realthikst": {
+      "xHandle": "realthikst",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "nissue": {
+      "xHandle": "n1ssue",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "sanjaybuilds": {
+      "xHandle": "sanjaybuilds_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "theboggartt": {
+      "xHandle": "TheBoggartt",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "lexiksss": {
+      "xHandle": "lexii_eth",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "westfure": {
+      "xHandle": "0xwestfury",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "treboomin": {
+      "xHandle": "trebooomin",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "xeer": {
+      "xHandle": "xeer",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "lunarfang_416": {
+      "xHandle": "lunarfang_416",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "dewku": {
+      "xHandle": "CountDewKu",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "binniesbinnies": {
+      "xHandle": "alienstolemytea",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "nftaura": {
+      "xHandle": "NFTAura",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "mr_hmmm.": {
+      "xHandle": "Mr_HmmmNFT",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "its_sgar": {
+      "xHandle": "its_sgar",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xbreadguy": {
+      "xHandle": "bread_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "eman.eth.": {
+      "xHandle": "Eman_sol_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "queenmoon1337": {
+      "xHandle": "queenmoon1337",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "osten.m": {
+      "xHandle": "_osten",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "dylanshub": {
+      "xHandle": "dylanshub_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "0xphil": {
+      "xHandle": "PhilOnChain",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "soniiii___": {
+      "xHandle": "nimonoo1970",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "hustlepedia": {
+      "xHandle": "Hustlepedia",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "raar3s": {
+      "xHandle": "RaAres",
+      "customRoast": "Ethos king, we like this guy"
+    },
+    "hunisan": {
+      "xHandle": "huni_crypto",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "alexmarks3d": {
+      "xHandle": "alexmarks3D",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "arcanic.eth": {
+      "xHandle": "Arcanic",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "estefano.eth": {
+      "xHandle": "estefano.eth",
+      "xHandleAuto": true,
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "kaspiygoldking": {
+      "xHandle": "Kaspiy",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "langerius": {
+      "xHandle": "Langerius",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    ".kokobean.": {
+      "xHandle": "_kokobean",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "alexabelonix": {
+      "xHandle": "alexabelonix",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "fadedwealth": {
+      "xHandle": "youfadedwealth",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "starplatinum0915": {
+      "xHandle": "StarPlatinum_",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "joeymooose": {
+      "xHandle": "JoeyMoose",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "jdothamilton": {
+      "xHandle": "JdotHamilton",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "zxbt": {
+      "xHandle": "zacxbt",
+      "customRoast": "Vibecoder energy, we like this pup"
+    },
+    "chr0nicle": {
+      "xHandle": "Chr0nicle",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "nftvai": {
+      "xHandle": "NFTVai",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "cryptousopp_": {
+      "xHandle": "Usoppu",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "69moritz69": {
+      "xHandle": "onchainmo",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "meta_alchemist": {
+      "xHandle": "meta_alchemist",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "dith": {
+      "xHandle": "0xDith",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "web3honey": {
+      "xHandle": "web3_honey",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
+    },
+    "sei.bando": {
+      "xHandle": "bandosei",
+      "customRoast": "Lurker energy confirmed. Say something, I am giving up on you ..."
     }
   }
 }

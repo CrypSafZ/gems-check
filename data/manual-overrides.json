@@ -1,10 +1,75 @@
 {
+  "_comment": "Manual overrides applied on top of Sheet-pulled overrides. Survives pull-overrides runs.",
   "byUsername": {
-    "jpegg.": {
-      "xHandle": "jpeggx"
+    "shaq2wade": {
+      "customJoinedAt": "2021-11-01T00:00:00.000Z"
+    },
+    "cratereth": {
+      "customRoast": "Who tf is this Crater?"
+    },
+    "0xdelo": {
+      "xHandle": "0xdelo",
+      "customRoast": "Our real BOT, the tickets slaying, the creator hub watcher, the gemeral chat denyer"
+    },
+    "nftdaad": {
+      "xHandle": "nftdaad"
+    },
+    "liat9091": {
+      "xHandle": "lia_rocks888"
+    },
+    "redmartinii": {
+      "xHandle": "redmartinii_"
+    },
+    "pixonme": {
+      "xHandle": "pixonme_"
+    },
+    "abdxbt": {
+      "xHandle": "Abdxbt"
+    },
+    "chacha9198": {
+      "xHandle": "orion_leora"
+    },
+    "0xneozz": {
+      "xHandle": "0xneozz"
+    },
+    "kjblockchain": {
+      "xHandle": "kjblockchain"
+    },
+    "maskidluffy": {
+      "xHandle": "MaskiDLuffy"
+    },
+    "merkyyy.eth": {
+      "xHandle": "merky0023"
+    },
+    "auburn.eth": {
+      "xHandle": "OriginalWalkerX"
+    },
+    "prisoner.btc": {
+      "xHandle": "PRIS0NER"
+    },
+    "farah__web3": {
+      "xHandle": "Farah__web3"
+    },
+    "0xmakcy": {
+      "xHandle": "0xmakcyII"
     },
     "j.a.i": {
       "xHandle": "7jai7"
+    },
+    "nicsynft": {
+      "customRoast": "yapper & SHOUTER, we have her at 20% in vc for our hearing safety"
+    },
+    "gemsslave": {
+      "customRoast": "Soft with wafius, cruel with gems, he likes Yan so much, and hates borger, no1 bot in web3"
+    },
+    "annienftt": {
+      "customRoast": "Annie our discord VPNoor, always has troubles cuz of Turkey, safz likes her tho"
+    },
+    "yeahokay": {
+      "xHandle": "aokxbt"
+    },
+    "jpegg.": {
+      "xHandle": "jpeggx"
     },
     "0xnico": {
       "xHandle": "0xnicooo"
@@ -14,9 +79,6 @@
     },
     "simeone_01": {
       "xHandle": "0xsimeone"
-    },
-    "yeahokay": {
-      "xHandle": "aokxbt"
     }
   }
 }
