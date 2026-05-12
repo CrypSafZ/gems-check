@@ -1,4 +1,22 @@
 {
-  "_comment": "Public-safe sample overrides only. Do not commit real member roasts or handles here.",
-  "byUsername": {}
+  "byUsername": {
+    "jpegg.": {
+      "xHandle": "jpeggx"
+    },
+    "j.a.i": {
+      "xHandle": "7jai7"
+    },
+    "0xnico": {
+      "xHandle": "0xnicooo"
+    },
+    "jacplayz": {
+      "xHandle": "nft_ilkerY"
+    },
+    "simeone_01": {
+      "xHandle": "0xsimeone"
+    },
+    "yeahokay": {
+      "xHandle": "aokxbt"
+    }
+  }
 }
